@@ -1,0 +1,2805 @@
+﻿match_id,Type,batting_team,Winner,Loser,Runs Scored,Status,Innings,Defend,Chase,Win Margin
+1233971,T20,Australia,,Australia,131,Lose,2,,Chase,Chase
+1233972,T20,Australia,,Australia,215,Lose,2,,Chase,Chase
+1233973,T20,New Zealand,,New Zealand,144,Lose,2,,Chase,Chase
+1233974,T20,New Zealand,,New Zealand,106,Lose,2,,Chase,Chase
+1233979,T20,Bangladesh,,Bangladesh,144,Lose,2,,Chase,Chase
+1233980,T20,Bangladesh,,Bangladesh,142,Lose,2,,Chase,Chase
+1233981,T20,Bangladesh,,Bangladesh,76,Lose,2,,Chase,Chase
+1239540,T20,England,,England,201,Lose,2,,Chase,Chase
+1239541,T20,Pakistan,,Pakistan,155,Lose,2,,Chase,Chase
+1243019,T20,South Africa,,South Africa,166,Lose,2,,Chase,Chase
+1243391,T20,England,,England,177,Lose,2,,Chase,Chase
+1243392,T20,England,,England,188,Lose,2,,Chase,Chase
+1249207,T20,England,,England,108,Lose,2,,Chase,Chase
+1249208,T20,Sri Lanka,,Sri Lanka,91,Lose,2,,Chase,Chase
+1251953,T20,Ireland,,Ireland,132,Lose,2,,Chase,Chase
+1251954,T20,Ireland,,Ireland,117,Lose,2,,Chase,Chase
+1251955,T20,Ireland,,Ireland,140,Lose,2,,Chase,Chase
+1252058,T20,Zimbabwe,,Zimbabwe,150,Lose,2,,Chase,Chase
+1252059,T20,Zimbabwe,,Zimbabwe,148,Lose,2,,Chase,Chase
+1252060,T20,Zimbabwe,,Zimbabwe,136,Lose,2,,Chase,Chase
+1252067,T20,West Indies,,West Indies,117,Lose,2,,Chase,Chase
+1254060,IPL,SRH,,SRH,177,Lose,2,,Chase,Chase
+1254061,IPL,RR,,RR,217,Lose,2,,Chase,Chase
+1254062,IPL,KKR,,KKR,142,Lose,2,,Chase,Chase
+1254063,IPL,SRH,,SRH,143,Lose,2,,Chase,Chase
+1254066,IPL,SRH,,SRH,137,Lose,2,,Chase,Chase
+1254067,IPL,KKR,,KKR,166,Lose,2,,Chase,Chase
+1254069,IPL,RR,,RR,143,Lose,2,,Chase,Chase
+1254072,IPL,KKR,,KKR,202,Lose,2,,Chase,Chase
+1254076,IPL,RCB,,RCB,122,Lose,2,,Chase,Chase
+1254077,IPL,SRH,,SRH,159,Lose,2,,Chase,Chase
+1254079,IPL,DC,,DC,170,Lose,2,,Chase,Chase
+1254083,IPL,RCB,,RCB,145,Lose,2,,Chase,Chase
+1254085,IPL,SRH,,SRH,165,Lose,2,,Chase,Chase
+1254088,IPL,SRH,,SRH,193,Lose,2,,Chase,Chase
+1254090,IPL,PBKS,,PBKS,158,Lose,2,,Chase,Chase
+1254095,IPL,RCB,,RCB,137,Lose,2,,Chase,Chase
+1254097,IPL,RR,,RR,121,Lose,2,,Chase,Chase
+1254104,IPL,MI,,MI,136,Lose,2,,Chase,Chase
+1254106,IPL,RR,,RR,85,Lose,2,,Chase,Chase
+1254107,IPL,SRH,,SRH,120,Lose,2,,Chase,Chase
+1254108,IPL,MI,,MI,111,Lose,2,,Chase,Chase
+1254111,IPL,PBKS,,PBKS,183,Lose,2,,Chase,Chase
+1254117,IPL,KKR,,KKR,165,Lose,2,,Chase,Chase
+1256721,T20,West Indies,,West Indies,170,Lose,2,,Chase,Chase
+1256722,T20,England,,England,204,Lose,2,,Chase,Chase
+1256723,T20,West Indies,,West Indies,159,Lose,2,,Chase,Chase
+1256724,T20,England,,England,162,Lose,2,,Chase,Chase
+1257183,T20,Zimbabwe,,Zimbabwe,138,Lose,2,,Chase,Chase
+1257184,T20,Pakistan,,Pakistan,99,Lose,2,,Chase,Chase
+1257185,T20,Zimbabwe,,Zimbabwe,141,Lose,2,,Chase,Chase
+1257405,T20,Uganda,,Uganda,65,Lose,2,,Chase,Chase
+1257406,T20,Uganda,,Uganda,124,Lose,2,,Chase,Chase
+1257946,T20,Malaysia,,Malaysia,176,Lose,2,,Chase,Chase
+1257949,T20,Malaysia,,Malaysia,91,Lose,2,,Chase,Chase
+1257950,T20,Malaysia,,Malaysia,148,Lose,2,,Chase,Chase
+1257951,T20,Netherlands,,Netherlands,96,Lose,2,,Chase,Chase
+1262758,T20,Sri Lanka,,Sri Lanka,126,Lose,2,,Chase,Chase
+1263152,T20,West Indies,,West Indies,150,Lose,2,,Chase,Chase
+1263153,T20,West Indies,,West Indies,166,Lose,2,,Chase,Chase
+1263154,T20,South Africa,,South Africa,146,Lose,2,,Chase,Chase
+1263155,T20,West Indies,,West Indies,143,Lose,2,,Chase,Chase
+1263156,T20,Australia,,Australia,127,Lose,2,,Chase,Chase
+1263157,T20,Australia,,Australia,140,Lose,2,,Chase,Chase
+1263159,T20,West Indies,,West Indies,185,Lose,2,,Chase,Chase
+1263160,T20,Australia,,Australia,183,Lose,2,,Chase,Chase
+1263165,T20,West Indies,,West Indies,150,Lose,2,,Chase,Chase
+1263471,T20,Sri Lanka,,Sri Lanka,122,Lose,2,,Chase,Chase
+1263472,T20,Sri Lanka,,Sri Lanka,164,Lose,2,,Chase,Chase
+1263710,T20,Czech Republic,,Czech Republic,84,Lose,2,,Chase,Chase
+1267308,T20,Serbia,,Serbia,100,Lose,2,,Chase,Chase
+1267311,T20,Greece,,Greece,33,Lose,2,,Chase,Chase
+1267681,T20,Bangladesh,,Bangladesh,143,Lose,2,,Chase,Chase
+1268191,T20,Malta,,Malta,125,Lose,2,,Chase,Chase
+1268192,T20,Malta,,Malta,133,Lose,2,,Chase,Chase
+1270834,T20,Australia,,Australia,108,Lose,2,,Chase,Chase
+1270836,T20,Australia,,Australia,117,Lose,2,,Chase,Chase
+1270838,T20,Australia,,Australia,62,Lose,2,,Chase,Chase
+1271448,T20,France,,France,116,Lose,2,,Chase,Chase
+1271449,T20,France,,France,128,Lose,2,,Chase,Chase
+1271450,T20,Germany,,Germany,134,Lose,2,,Chase,Chase
+1271451,T20,Germany,,Germany,96,Lose,2,,Chase,Chase
+1271630,T20,Sri Lanka,,Sri Lanka,135,Lose,2,,Chase,Chase
+1272094,T20,New Zealand,,New Zealand,137,Lose,2,,Chase,Chase
+1272095,T20,Bangladesh,,Bangladesh,76,Lose,2,,Chase,Chase
+1272097,T20,Bangladesh,,Bangladesh,134,Lose,2,,Chase,Chase
+1272373,T20,Ireland,,Ireland,114,Lose,2,,Chase,Chase
+1272375,T20,Zimbabwe,,Zimbabwe,138,Lose,2,,Chase,Chase
+1272376,T20,Zimbabwe,,Zimbabwe,110,Lose,2,,Chase,Chase
+1272377,T20,Ireland,,Ireland,119,Lose,2,,Chase,Chase
+1273138,T20,Gibraltar,,Gibraltar,193,Lose,2,,Chase,Chase
+1273139,T20,Gibraltar,,Gibraltar,108,Lose,2,,Chase,Chase
+1273143,T20,Ghana,,Ghana,79,Lose,2,,Chase,Chase
+1273144,T20,Rwanda,,Rwanda,30,Lose,2,,Chase,Chase
+1273148,T20,Sweden,,Sweden,113,Lose,2,,Chase,Chase
+1273271,T20,Zimbabwe,,Zimbabwe,134,Lose,2,,Chase,Chase
+1273272,T20,Scotland,,Scotland,126,Lose,2,,Chase,Chase
+1273713,T20,Bangladesh,,Bangladesh,134,Lose,2,,Chase,Chase
+1273716,T20,Papua New Guinea,,Papua New Guinea,148,Lose,2,,Chase,Chase
+1273717,T20,Oman,,Oman,127,Lose,2,,Chase,Chase
+1273719,T20,Ireland,,Ireland,101,Lose,2,,Chase,Chase
+1273720,T20,Papua New Guinea,,Papua New Guinea,97,Lose,2,,Chase,Chase
+1273728,T20,Scotland,,Scotland,60,Lose,2,,Chase,Chase
+1273734,T20,Bangladesh,,Bangladesh,139,Lose,2,,Chase,Chase
+1273738,T20,Namibia,,Namibia,98,Lose,2,,Chase,Chase
+1273740,T20,Sri Lanka,,Sri Lanka,137,Lose,2,,Chase,Chase
+1273742,T20,Namibia,,Namibia,144,Lose,2,,Chase,Chase
+1273743,T20,Scotland,,Scotland,156,Lose,2,,Chase,Chase
+1273744,T20,Afghanistan,,Afghanistan,144,Lose,2,,Chase,Chase
+1273746,T20,West Indies,,West Indies,169,Lose,2,,Chase,Chase
+1273747,T20,Namibia,,Namibia,111,Lose,2,,Chase,Chase
+1273750,T20,England,,England,179,Lose,2,,Chase,Chase
+1273752,T20,Scotland,,Scotland,117,Lose,2,,Chase,Chase
+1275040,T20,Nigeria,,Nigeria,96,Lose,2,,Chase,Chase
+1275042,T20,Nigeria,,Nigeria,101,Lose,2,,Chase,Chase
+1275044,T20,Uganda,,Uganda,129,Lose,2,,Chase,Chase
+1275045,T20,Kenya,,Kenya,107,Lose,2,,Chase,Chase
+1275047,T20,Nigeria,,Nigeria,117,Lose,2,,Chase,Chase
+1275051,T20,Kenya,,Kenya,114,Lose,2,,Chase,Chase
+1275268,T20,Czech Republic,,Czech Republic,176,Lose,2,,Chase,Chase
+1275269,T20,Bulgaria,,Bulgaria,125,Lose,2,,Chase,Chase
+1275270,T20,Czech Republic,,Czech Republic,160,Lose,2,,Chase,Chase
+1275272,T20,Hungary,,Hungary,187,Lose,2,,Chase,Chase
+1275274,T20,Hungary,,Hungary,177,Lose,2,,Chase,Chase
+1275275,T20,Malta,,Malta,166,Lose,2,,Chase,Chase
+1275277,T20,Luxembourg,,Luxembourg,123,Lose,2,,Chase,Chase
+1276904,T20,England,,England,148,Lose,2,,Chase,Chase
+1276905,T20,England,,England,121,Lose,2,,Chase,Chase
+1276906,T20,India,,India,198,Lose,2,,Chase,Chase
+1276913,T20,South Africa,,South Africa,193,Lose,2,,Chase,Chase
+1276914,T20,England,,England,149,Lose,2,,Chase,Chase
+1276915,T20,England,,England,101,Lose,2,,Chase,Chase
+1278673,T20,New Zealand,,New Zealand,111,Lose,2,,Chase,Chase
+1278680,T20,West Indies,,West Indies,178,Lose,2,,Chase,Chase
+1278681,T20,West Indies,,West Indies,167,Lose,2,,Chase,Chase
+1278684,T20,Sri Lanka,,Sri Lanka,137,Lose,2,,Chase,Chase
+1278689,T20,South Africa,,South Africa,131,Lose,2,,Chase,Chase
+1278690,T20,South Africa,,South Africa,87,Lose,2,,Chase,Chase
+1279385,T20,Estonia,,Estonia,121,Lose,2,,Chase,Chase
+1280059,T20,Papua New Guinea,,Papua New Guinea,160,Lose,2,,Chase,Chase
+1280061,T20,Ireland,,Ireland,109,Lose,2,,Chase,Chase
+1282272,T20,Gibraltar,,Gibraltar,152,Lose,2,,Chase,Chase
+1282276,T20,Malta,,Malta,142,Lose,2,,Chase,Chase
+1282279,T20,Switzerland,,Switzerland,170,Lose,2,,Chase,Chase
+1282738,T20,Germany,,Germany,133,Lose,2,,Chase,Chase
+1282741,T20,Italy,,Italy,98,Lose,2,,Chase,Chase
+1282742,T20,Denmark,,Denmark,89,Lose,2,,Chase,Chase
+1282744,T20,Denmark,,Denmark,132,Lose,2,,Chase,Chase
+1282747,T20,Denmark,,Denmark,107,Lose,2,,Chase,Chase
+1282748,T20,Germany,,Germany,116,Lose,2,,Chase,Chase
+1283028,T20,Rwanda,,Rwanda,63,Lose,2,,Chase,Chase
+1283033,T20,Seychelles,,Seychelles,121,Lose,2,,Chase,Chase
+1283036,T20,Lesotho,,Lesotho,80,Lose,2,,Chase,Chase
+1283037,T20,Ghana,,Ghana,97,Lose,2,,Chase,Chase
+1283040,T20,Rwanda,,Rwanda,115,Lose,2,,Chase,Chase
+1283041,T20,Seychelles,,Seychelles,69,Lose,2,,Chase,Chase
+1283042,T20,Sierra Leone,,Sierra Leone,85,Lose,2,,Chase,Chase
+1283043,T20,Mozambique,,Mozambique,155,Lose,2,,Chase,Chase
+1283044,T20,Cameroon,,Cameroon,38,Lose,2,,Chase,Chase
+1283048,T20,Mozambique,,Mozambique,100,Lose,2,,Chase,Chase
+1283049,T20,Cameroon,,Cameroon,62,Lose,2,,Chase,Chase
+1283051,T20,Botswana,,Botswana,140,Lose,2,,Chase,Chase
+1283091,T20,Sierra Leone,,Sierra Leone,55,Lose,2,,Chase,Chase
+1283093,T20,Sierra Leone,,Sierra Leone,71,Lose,2,,Chase,Chase
+1283094,T20,Sierra Leone,,Sierra Leone,98,Lose,2,,Chase,Chase
+1284491,T20,Maldives,,Maldives,56,Lose,2,,Chase,Chase
+1284496,T20,Saudi Arabia,,Saudi Arabia,161,Lose,2,,Chase,Chase
+1286670,T20,Belize,,Belize,89,Lose,2,,Chase,Chase
+1286671,T20,Argentina,,Argentina,109,Lose,2,,Chase,Chase
+1286672,T20,Panama,,Panama,131,Lose,2,,Chase,Chase
+1286673,T20,Bermuda,,Bermuda,149,Lose,2,,Chase,Chase
+1286674,T20,United States of America,,United States of America,142,Lose,2,,Chase,Chase
+1286675,T20,Belize,,Belize,112,Lose,2,,Chase,Chase
+1286677,T20,Bahamas,,Bahamas,99,Lose,2,,Chase,Chase
+1286684,T20,Bahamas,,Bahamas,113,Lose,2,,Chase,Chase
+1286686,T20,Panama,,Panama,37,Lose,2,,Chase,Chase
+1287773,T20,West Indies,,West Indies,137,Lose,2,,Chase,Chase
+1287774,T20,West Indies,,West Indies,163,Lose,2,,Chase,Chase
+1289043,T20,Uganda,,Uganda,160,Lose,2,,Chase,Chase
+1289044,T20,Nigeria,,Nigeria,50,Lose,2,,Chase,Chase
+1289045,T20,Kenya,,Kenya,138,Lose,2,,Chase,Chase
+1289051,T20,Nigeria,,Nigeria,108,Lose,2,,Chase,Chase
+1289052,T20,Uganda,,Uganda,118,Lose,2,,Chase,Chase
+1289053,T20,Nigeria,,Nigeria,67,Lose,2,,Chase,Chase
+1291187,T20,Ireland,,Ireland,162,Lose,2,,Chase,Chase
+1291188,T20,United States of America,,United States of America,141,Lose,2,,Chase,Chase
+1298135,T20,Sri Lanka,,Sri Lanka,108,Lose,2,,Chase,Chase
+1298137,T20,West Indies,,West Indies,118,Lose,2,,Chase,Chase
+1298138,T20,Ireland,,Ireland,143,Lose,2,,Chase,Chase
+1298140,T20,United Arab Emirates,,United Arab Emirates,73,Lose,2,,Chase,Chase
+1298142,T20,Zimbabwe,,Zimbabwe,122,Lose,2,,Chase,Chase
+1298143,T20,Netherlands,,Netherlands,146,Lose,2,,Chase,Chase
+1298144,T20,Namibia,,Namibia,141,Lose,2,,Chase,Chase
+1298147,T20,Australia,,Australia,111,Lose,2,,Chase,Chase
+1298151,T20,Netherlands,,Netherlands,135,Lose,2,,Chase,Chase
+1298152,T20,South Africa,,South Africa,51,Lose,2,,Chase,Chase
+1298154,T20,England,,England,105,Lose,2,,Chase,Chase
+1298156,T20,Bangladesh,,Bangladesh,101,Lose,2,,Chase,Chase
+1298157,T20,Netherlands,,Netherlands,123,Lose,2,,Chase,Chase
+1298158,T20,Pakistan,,Pakistan,129,Lose,2,,Chase,Chase
+1298161,T20,Sri Lanka,,Sri Lanka,102,Lose,2,,Chase,Chase
+1298162,T20,Zimbabwe,,Zimbabwe,147,Lose,2,,Chase,Chase
+1298165,T20,Ireland,,Ireland,137,Lose,2,,Chase,Chase
+1298167,T20,New Zealand,,New Zealand,159,Lose,2,,Chase,Chase
+1298169,T20,Bangladesh,,Bangladesh,145,Lose,2,,Chase,Chase
+1298170,T20,South Africa,,South Africa,108,Lose,2,,Chase,Chase
+1298171,T20,Ireland,,Ireland,150,Lose,2,,Chase,Chase
+1298172,T20,Afghanistan,,Afghanistan,164,Lose,2,,Chase,Chase
+1298174,T20,South Africa,,South Africa,145,Lose,2,,Chase,Chase
+1298176,T20,Zimbabwe,,Zimbabwe,115,Lose,2,,Chase,Chase
+1299566,T20,Oman,,Oman,78,Lose,2,,Chase,Chase
+1299567,T20,Philippines,,Philippines,98,Lose,2,,Chase,Chase
+1299568,T20,Ireland,,Ireland,139,Lose,2,,Chase,Chase
+1299571,T20,Philippines,,Philippines,82,Lose,2,,Chase,Chase
+1299572,T20,Germany,,Germany,167,Lose,2,,Chase,Chase
+1299573,T20,Bahrain,,Bahrain,137,Lose,2,,Chase,Chase
+1299575,T20,United Arab Emirates,,United Arab Emirates,170,Lose,2,,Chase,Chase
+1299579,T20,Philippines,,Philippines,100,Lose,2,,Chase,Chase
+1299580,T20,Nepal,,Nepal,107,Lose,2,,Chase,Chase
+1299581,T20,Oman,,Oman,109,Lose,2,,Chase,Chase
+1299592,T20,Ireland,,Ireland,165,Lose,2,,Chase,Chase
+1299596,T20,Nepal,,Nepal,111,Lose,2,,Chase,Chase
+1299638,T20,Nepal,,Nepal,167,Lose,2,,Chase,Chase
+1299832,T20,Afghanistan,,Afghanistan,94,Lose,2,,Chase,Chase
+1303308,T20,Ireland,,Ireland,221,Lose,2,,Chase,Chase
+1303312,T20,Ireland,,Ireland,142,Lose,2,,Chase,Chase
+1303313,T20,Ireland,,Ireland,91,Lose,2,,Chase,Chase
+1303315,T20,Ireland,,Ireland,190,Lose,2,,Chase,Chase
+1303316,T20,Ireland,,Ireland,138,Lose,2,,Chase,Chase
+1304051,IPL,SRH,,SRH,149,Lose,2,,Chase,Chase
+1304055,IPL,MI,,MI,170,Lose,2,,Chase,Chase
+1304056,IPL,DC,,DC,157,Lose,2,,Chase,Chase
+1304057,IPL,CSK,,CSK,126,Lose,2,,Chase,Chase
+1304058,IPL,SRH,,SRH,157,Lose,2,,Chase,Chase
+1304065,IPL,KKR,,KKR,171,Lose,2,,Chase,Chase
+1304066,IPL,LSG,,LSG,162,Lose,2,,Chase,Chase
+1304068,IPL,RCB,,RCB,193,Lose,2,,Chase,Chase
+1304069,IPL,MI,,MI,186,Lose,2,,Chase,Chase
+1304070,IPL,RR,,RR,155,Lose,2,,Chase,Chase
+1304072,IPL,MI,,MI,181,Lose,2,,Chase,Chase
+1304073,IPL,DC,,DC,173,Lose,2,,Chase,Chase
+1304076,IPL,KKR,,KKR,210,Lose,2,,Chase,Chase
+1304077,IPL,LSG,,LSG,163,Lose,2,,Chase,Chase
+1304080,IPL,DC,,DC,207,Lose,2,,Chase,Chase
+1304081,IPL,KKR,,KKR,148,Lose,2,,Chase,Chase
+1304083,IPL,MI,,MI,132,Lose,2,,Chase,Chase
+1304084,IPL,CSK,,CSK,176,Lose,2,,Chase,Chase
+1304085,IPL,RCB,,RCB,115,Lose,2,,Chase,Chase
+1304088,IPL,PBKS,,PBKS,133,Lose,2,,Chase,Chase
+1304091,IPL,DC,,DC,189,Lose,2,,Chase,Chase
+1304092,IPL,SRH,,SRH,189,Lose,2,,Chase,Chase
+1304095,IPL,CSK,,CSK,160,Lose,2,,Chase,Chase
+1304096,IPL,SRH,,SRH,186,Lose,2,,Chase,Chase
+1304097,IPL,GT,,GT,172,Lose,2,,Chase,Chase
+1304099,IPL,KKR,,KKR,101,Lose,2,,Chase,Chase
+1304100,IPL,SRH,,SRH,125,Lose,2,,Chase,Chase
+1304101,IPL,DC,,DC,117,Lose,2,,Chase,Chase
+1304102,IPL,MI,,MI,113,Lose,2,,Chase,Chase
+1304103,IPL,LSG,,LSG,82,Lose,2,,Chase,Chase
+1304106,IPL,RCB,,RCB,155,Lose,2,,Chase,Chase
+1304107,IPL,SRH,,SRH,123,Lose,2,,Chase,Chase
+1304109,IPL,LSG,,LSG,154,Lose,2,,Chase,Chase
+1304110,IPL,PBKS,,PBKS,142,Lose,2,,Chase,Chase
+1304111,IPL,MI,,MI,190,Lose,2,,Chase,Chase
+1304112,IPL,KKR,,KKR,208,Lose,2,,Chase,Chase
+1305498,T20,Papua New Guinea,,Papua New Guinea,168,Lose,2,,Chase,Chase
+1305499,T20,Papua New Guinea,,Papua New Guinea,172,Lose,2,,Chase,Chase
+1305501,T20,Papua New Guinea,,Papua New Guinea,166,Lose,2,,Chase,Chase
+1305503,T20,Malaysia,,Malaysia,138,Lose,2,,Chase,Chase
+1305504,T20,Papua New Guinea,,Papua New Guinea,118,Lose,2,,Chase,Chase
+1307161,T20,Ireland,,Ireland,167,Lose,2,,Chase,Chase
+1307162,T20,Ireland,,Ireland,105,Lose,2,,Chase,Chase
+1307163,T20,Ireland,,Ireland,56,Lose,2,,Chase,Chase
+1307477,T20,Scotland,,Scotland,157,Lose,2,,Chase,Chase
+1307478,T20,Scotland,,Scotland,152,Lose,2,,Chase,Chase
+1309703,T20,Uganda,,Uganda,133,Lose,2,,Chase,Chase
+1310161,T20,Guernsey,,Guernsey,100,Lose,2,,Chase,Chase
+1310162,T20,Norway,,Norway,78,Lose,2,,Chase,Chase
+1310166,T20,Norway,,Norway,84,Lose,2,,Chase,Chase
+1310168,T20,Finland,,Finland,33,Lose,2,,Chase,Chase
+1310169,T20,Finland,,Finland,109,Lose,2,,Chase,Chase
+1310171,T20,Hungary,,Hungary,161,Lose,2,,Chase,Chase
+1310174,T20,Gibraltar,,Gibraltar,144,Lose,2,,Chase,Chase
+1310175,T20,Bulgaria,,Bulgaria,153,Lose,2,,Chase,Chase
+1310176,T20,Czech Republic,,Czech Republic,162,Lose,2,,Chase,Chase
+1310177,T20,Bulgaria,,Bulgaria,170,Lose,2,,Chase,Chase
+1310179,T20,Bulgaria,,Bulgaria,192,Lose,2,,Chase,Chase
+1310180,T20,Czech Republic,,Czech Republic,167,Lose,2,,Chase,Chase
+1310186,T20,Hungary,,Hungary,151,Lose,2,,Chase,Chase
+1310187,T20,Malta,,Malta,162,Lose,2,,Chase,Chase
+1310188,T20,Guernsey,,Guernsey,141,Lose,2,,Chase,Chase
+1310901,T20,Netherlands,,Netherlands,132,Lose,2,,Chase,Chase
+1310938,T20,Namibia,,Namibia,146,Lose,2,,Chase,Chase
+1310942,T20,Zimbabwe,,Zimbabwe,95,Lose,2,,Chase,Chase
+1310947,T20,Zimbabwe,,Zimbabwe,149,Lose,2,,Chase,Chase
+1310948,T20,Zimbabwe,,Zimbabwe,90,Lose,2,,Chase,Chase
+1312198,IPL,LSG,,LSG,193,Lose,2,,Chase,Chase
+1317138,T20,Bulgaria,,Bulgaria,122,Lose,2,,Chase,Chase
+1317150,T20,Bangladesh,,Bangladesh,158,Lose,2,,Chase,Chase
+1317483,T20,West Indies,,West Indies,147,Lose,2,,Chase,Chase
+1317486,T20,Australia,,Australia,200,Lose,2,,Chase,Chase
+1317487,T20,Australia,,Australia,170,Lose,2,,Chase,Chase
+1317488,T20,Australia,,Australia,30,Lose,2,,Chase,Chase
+1317903,T20,West Indies,,West Indies,122,Lose,2,,Chase,Chase
+1317906,T20,West Indies,,West Indies,132,Lose,2,,Chase,Chase
+1317907,T20,West Indies,,West Indies,100,Lose,2,,Chase,Chase
+1317908,T20,West Indies,,West Indies,172,Lose,2,,Chase,Chase
+1317909,T20,West Indies,,West Indies,125,Lose,2,,Chase,Chase
+1318357,T20,Austria,,Austria,81,Lose,2,,Chase,Chase
+1318359,T20,Germany,,Germany,103,Lose,2,,Chase,Chase
+1318360,T20,Sweden,,Sweden,121,Lose,2,,Chase,Chase
+1318361,T20,Sweden,,Sweden,132,Lose,2,,Chase,Chase
+1318362,T20,Sweden,,Sweden,122,Lose,2,,Chase,Chase
+1320973,T20,Malta,,Malta,143,Lose,2,,Chase,Chase
+1320974,T20,Gibraltar,,Gibraltar,124,Lose,2,,Chase,Chase
+1320979,T20,Israel,,Israel,120,Lose,2,,Chase,Chase
+1320980,T20,Denmark,,Denmark,149,Lose,2,,Chase,Chase
+1320984,T20,Spain,,Spain,113,Lose,2,,Chase,Chase
+1320985,T20,Hungary,,Hungary,154,Lose,2,,Chase,Chase
+1321259,T20,Sweden,,Sweden,103,Lose,2,,Chase,Chase
+1321260,T20,Turkey,,Turkey,96,Lose,2,,Chase,Chase
+1321261,T20,Romania,,Romania,134,Lose,2,,Chase,Chase
+1321263,T20,Serbia,,Serbia,97,Lose,2,,Chase,Chase
+1321265,T20,Sweden,,Sweden,78,Lose,2,,Chase,Chase
+1321267,T20,Greece,,Greece,101,Lose,2,,Chase,Chase
+1321269,T20,Serbia,,Serbia,102,Lose,2,,Chase,Chase
+1321270,T20,Greece,,Greece,146,Lose,2,,Chase,Chase
+1321271,T20,Turkey,,Turkey,48,Lose,2,,Chase,Chase
+1321272,T20,Croatia,,Croatia,44,Lose,2,,Chase,Chase
+1321273,T20,Greece,,Greece,43,Lose,2,,Chase,Chase
+1321276,T20,Turkey,,Turkey,97,Lose,2,,Chase,Chase
+1321278,T20,Cyprus,,Cyprus,148,Lose,2,,Chase,Chase
+1321281,T20,Luxembourg,,Luxembourg,103,Lose,2,,Chase,Chase
+1321283,T20,Bulgaria,,Bulgaria,78,Lose,2,,Chase,Chase
+1321284,T20,Czech Republic,,Czech Republic,102,Lose,2,,Chase,Chase
+1321286,T20,Slovenia,,Slovenia,73,Lose,2,,Chase,Chase
+1321288,T20,Luxembourg,,Luxembourg,114,Lose,2,,Chase,Chase
+1321290,T20,Estonia,,Estonia,142,Lose,2,,Chase,Chase
+1321292,T20,Norway,,Norway,147,Lose,2,,Chase,Chase
+1321293,T20,Switzerland,,Switzerland,25,Lose,2,,Chase,Chase
+1321294,T20,Bulgaria,,Bulgaria,73,Lose,2,,Chase,Chase
+1321295,T20,Estonia,,Estonia,93,Lose,2,,Chase,Chase
+1321299,T20,Slovenia,,Slovenia,124,Lose,2,,Chase,Chase
+1321302,T20,France,,France,97,Lose,2,,Chase,Chase
+1321303,T20,Switzerland,,Switzerland,108,Lose,2,,Chase,Chase
+1321308,T20,Luxembourg,,Luxembourg,84,Lose,2,,Chase,Chase
+1321309,T20,Luxembourg,,Luxembourg,173,Lose,2,,Chase,Chase
+1321312,T20,Singapore,,Singapore,154,Lose,2,,Chase,Chase
+1321465,T20,Singapore,,Singapore,125,Lose,2,,Chase,Chase
+1321467,T20,Papua New Guinea,,Papua New Guinea,111,Lose,2,,Chase,Chase
+1321469,T20,Jersey,,Jersey,123,Lose,2,,Chase,Chase
+1321470,T20,Singapore,,Singapore,69,Lose,2,,Chase,Chase
+1321473,T20,Uganda,,Uganda,90,Lose,2,,Chase,Chase
+1321475,T20,United States of America,,United States of America,139,Lose,2,,Chase,Chase
+1321477,T20,Jersey,,Jersey,105,Lose,2,,Chase,Chase
+1321479,T20,Papua New Guinea,,Papua New Guinea,172,Lose,2,,Chase,Chase
+1321481,T20,Hong Kong,,Hong Kong,98,Lose,2,,Chase,Chase
+1321483,T20,United States of America,,United States of America,92,Lose,2,,Chase,Chase
+1321484,T20,Netherlands,,Netherlands,95,Lose,2,,Chase,Chase
+1321998,T20,Bhutan,,Bhutan,58,Lose,2,,Chase,Chase
+1322002,T20,Maldives,,Maldives,104,Lose,2,,Chase,Chase
+1322005,T20,Maldives,,Maldives,108,Lose,2,,Chase,Chase
+1322007,T20,Thailand,,Thailand,56,Lose,2,,Chase,Chase
+1322009,T20,Thailand,,Thailand,107,Lose,2,,Chase,Chase
+1322011,T20,Papua New Guinea,,Papua New Guinea,150,Lose,2,,Chase,Chase
+1322276,T20,New Zealand,,New Zealand,126,Lose,2,,Chase,Chase
+1322277,T20,India,,India,75,Lose,2,,Chase,Chase
+1322334,T20,Bangladesh,,Bangladesh,146,Lose,2,,Chase,Chase
+1322338,T20,Bangladesh,,Bangladesh,160,Lose,2,,Chase,Chase
+1323295,T20,Bangladesh,,Bangladesh,188,Lose,2,,Chase,Chase
+1323297,T20,Bangladesh,,Bangladesh,146,Lose,2,,Chase,Chase
+1323552,T20,Serbia,,Serbia,111,Lose,2,,Chase,Chase
+1327230,T20,Pakistan,,Pakistan,158,Lose,2,,Chase,Chase
+1327231,T20,England,,England,163,Lose,2,,Chase,Chase
+1327232,T20,England,,England,139,Lose,2,,Chase,Chase
+1327234,T20,Pakistan,,Pakistan,142,Lose,2,,Chase,Chase
+1327272,T20,Hong Kong,,Hong Kong,152,Lose,2,,Chase,Chase
+1327274,T20,Hong Kong,,Hong Kong,38,Lose,2,,Chase,Chase
+1327279,T20,Afghanistan,,Afghanistan,111,Lose,2,,Chase,Chase
+1327281,T20,Pakistan,,Pakistan,147,Lose,2,,Chase,Chase
+1327507,T20,South Africa,,South Africa,221,Lose,2,,Chase,Chase
+1327508,T20,India,,India,178,Lose,2,,Chase,Chase
+1328470,T20,Bahrain,,Bahrain,189,Lose,2,,Chase,Chase
+1328473,T20,Bahrain,,Bahrain,84,Lose,2,,Chase,Chase
+1328477,T20,Nepal,,Nepal,94,Lose,2,,Chase,Chase
+1328478,T20,Kenya,,Kenya,144,Lose,2,,Chase,Chase
+1328849,T20,Singapore,,Singapore,140,Lose,2,,Chase,Chase
+1328851,T20,Singapore,,Singapore,113,Lose,2,,Chase,Chase
+1332498,T20,Mozambique,,Mozambique,126,Lose,2,,Chase,Chase
+1332503,T20,Mozambique,,Mozambique,124,Lose,2,,Chase,Chase
+1332504,T20,Mozambique,,Mozambique,93,Lose,2,,Chase,Chase
+1332505,T20,Malawi,,Malawi,126,Lose,2,,Chase,Chase
+1332507,T20,Ghana,,Ghana,135,Lose,2,,Chase,Chase
+1333925,T20,Fiji,,Fiji,149,Lose,2,,Chase,Chase
+1333928,T20,Samoa,,Samoa,117,Lose,2,,Chase,Chase
+1333929,T20,Cook Islands,,Cook Islands,123,Lose,2,,Chase,Chase
+1333931,T20,Indonesia,,Indonesia,104,Lose,2,,Chase,Chase
+1336031,T20,United Arab Emirates,,United Arab Emirates,151,Lose,2,,Chase,Chase
+1336032,T20,United Arab Emirates,,United Arab Emirates,137,Lose,2,,Chase,Chase
+1336049,T20,New Zealand,,New Zealand,103,Lose,2,,Chase,Chase
+1336050,T20,England,,England,128,Lose,2,,Chase,Chase
+1336951,T20,South Korea,,South Korea,66,Lose,2,,Chase,Chase
+1336952,T20,South Korea,,South Korea,170,Lose,2,,Chase,Chase
+1339208,T20,Spain,,Spain,95,Lose,2,,Chase,Chase
+1339209,T20,Germany,,Germany,127,Lose,2,,Chase,Chase
+1339210,T20,Spain,,Spain,127,Lose,2,,Chase,Chase
+1339606,T20,South Africa,,South Africa,213,Lose,2,,Chase,Chase
+1339614,T20,New Zealand,,New Zealand,94,Lose,2,,Chase,Chase
+1339615,T20,New Zealand,,New Zealand,154,Lose,2,,Chase,Chase
+1339616,T20,Pakistan,,Pakistan,159,Lose,2,,Chase,Chase
+1343741,T20,Mali,,Mali,107,Lose,2,,Chase,Chase
+1343744,T20,St Helena,,St Helena,76,Lose,2,,Chase,Chase
+1343746,T20,Malawi,,Malawi,11,Lose,2,,Chase,Chase
+1343747,T20,Mali,,Mali,14,Lose,2,,Chase,Chase
+1343753,T20,Lesotho,,Lesotho,70,Lose,2,,Chase,Chase
+1343757,T20,Lesotho,,Lesotho,81,Lose,2,,Chase,Chase
+1343761,T20,Seychelles,,Seychelles,47,Lose,2,,Chase,Chase
+1343764,T20,Kenya,,Kenya,82,Lose,2,,Chase,Chase
+1343768,T20,Tanzania,,Tanzania,47,Lose,2,,Chase,Chase
+1343777,T20,Eswatini,,Eswatini,103,Lose,2,,Chase,Chase
+1343781,T20,Eswatini,,Eswatini,48,Lose,2,,Chase,Chase
+1343782,T20,Nigeria,,Nigeria,31,Lose,2,,Chase,Chase
+1343783,T20,Sierra Leone,,Sierra Leone,61,Lose,2,,Chase,Chase
+1343784,T20,Eswatini,,Eswatini,120,Lose,2,,Chase,Chase
+1343788,T20,Gambia,,Gambia,69,Lose,2,,Chase,Chase
+1343790,T20,Tanzania,,Tanzania,19,Lose,2,,Chase,Chase
+1343791,T20,Gambia,,Gambia,70,Lose,2,,Chase,Chase
+1343793,T20,Cameroon,,Cameroon,104,Lose,2,,Chase,Chase
+1343795,T20,Cameroon,,Cameroon,34,Lose,2,,Chase,Chase
+1344784,T20,Saudi Arabia,,Saudi Arabia,128,Lose,2,,Chase,Chase
+1344786,T20,Saudi Arabia,,Saudi Arabia,117,Lose,2,,Chase,Chase
+1344787,T20,Oman,,Oman,190,Lose,2,,Chase,Chase
+1344790,T20,Saudi Arabia,,Saudi Arabia,126,Lose,2,,Chase,Chase
+1344791,T20,Bahrain,,Bahrain,114,Lose,2,,Chase,Chase
+1344794,T20,Bahrain,,Bahrain,123,Lose,2,,Chase,Chase
+1348640,T20,Sri Lanka,,Sri Lanka,160,Lose,2,,Chase,Chase
+1348641,T20,India,,India,190,Lose,2,,Chase,Chase
+1348642,T20,Sri Lanka,,Sri Lanka,137,Lose,2,,Chase,Chase
+1348649,T20,India,,India,155,Lose,2,,Chase,Chase
+1348651,T20,New Zealand,,New Zealand,66,Lose,2,,Chase,Chase
+1349124,T20,Rwanda,,Rwanda,81,Lose,2,,Chase,Chase
+1349126,T20,Rwanda,,Rwanda,100,Lose,2,,Chase,Chase
+1349128,T20,Rwanda,,Rwanda,35,Lose,2,,Chase,Chase
+1349129,T20,Tanzania,,Tanzania,156,Lose,2,,Chase,Chase
+1349132,T20,Tanzania,,Tanzania,105,Lose,2,,Chase,Chase
+1349136,T20,Rwanda,,Rwanda,103,Lose,2,,Chase,Chase
+1349138,T20,Rwanda,,Rwanda,108,Lose,2,,Chase,Chase
+1349139,T20,Tanzania,,Tanzania,176,Lose,2,,Chase,Chase
+1349140,T20,Rwanda,,Rwanda,105,Lose,2,,Chase,Chase
+1349382,T20,Qatar,,Qatar,151,Lose,2,,Chase,Chase
+1349383,T20,Singapore,,Singapore,87,Lose,2,,Chase,Chase
+1349388,T20,Singapore,,Singapore,80,Lose,2,,Chase,Chase
+1351402,T20,England,,England,142,Lose,2,,Chase,Chase
+1355720,T20,Ireland,,Ireland,81,Lose,2,,Chase,Chase
+1355721,T20,Ireland,,Ireland,125,Lose,2,,Chase,Chase
+1359476,IPL,KKR,,KKR,146,Lose,2,,Chase,Chase
+1359477,IPL,DC,,DC,143,Lose,2,,Chase,Chase
+1359478,IPL,SRH,,SRH,131,Lose,2,,Chase,Chase
+1359480,IPL,LSG,,LSG,205,Lose,2,,Chase,Chase
+1359482,IPL,RR,,RR,192,Lose,2,,Chase,Chase
+1359483,IPL,RCB,,RCB,123,Lose,2,,Chase,Chase
+1359485,IPL,DC,,DC,142,Lose,2,,Chase,Chase
+1359491,IPL,CSK,,CSK,172,Lose,2,,Chase,Chase
+1359493,IPL,KKR,,KKR,205,Lose,2,,Chase,Chase
+1359494,IPL,DC,,DC,151,Lose,2,,Chase,Chase
+1359498,IPL,RCB,,RCB,218,Lose,2,,Chase,Chase
+1359499,IPL,SRH,,SRH,178,Lose,2,,Chase,Chase
+1359500,IPL,RR,,RR,144,Lose,2,,Chase,Chase
+1359501,IPL,PBKS,,PBKS,150,Lose,2,,Chase,Chase
+1359504,IPL,LSG,,LSG,128,Lose,2,,Chase,Chase
+1359505,IPL,MI,,MI,201,Lose,2,,Chase,Chase
+1359506,IPL,RR,,RR,182,Lose,2,,Chase,Chase
+1359507,IPL,KKR,,KKR,186,Lose,2,,Chase,Chase
+1359508,IPL,SRH,,SRH,137,Lose,2,,Chase,Chase
+1359509,IPL,MI,,MI,152,Lose,2,,Chase,Chase
+1359510,IPL,RCB,,RCB,179,Lose,2,,Chase,Chase
+1359511,IPL,CSK,,CSK,170,Lose,2,,Chase,Chase
+1359512,IPL,PBKS,,PBKS,201,Lose,2,,Chase,Chase
+1359514,IPL,DC,,DC,188,Lose,2,,Chase,Chase
+1359517,IPL,LSG,,LSG,108,Lose,2,,Chase,Chase
+1359518,IPL,GT,,GT,125,Lose,2,,Chase,Chase
+1359521,IPL,SRH,,SRH,166,Lose,2,,Chase,Chase
+1359525,IPL,LSG,,LSG,171,Lose,2,,Chase,Chase
+1359529,IPL,DC,,DC,140,Lose,2,,Chase,Chase
+1359531,IPL,GT,,GT,191,Lose,2,,Chase,Chase
+1359533,IPL,DC,,DC,136,Lose,2,,Chase,Chase
+1359534,IPL,RR,,RR,59,Lose,2,,Chase,Chase
+1359536,IPL,SRH,,SRH,154,Lose,2,,Chase,Chase
+1359537,IPL,MI,,MI,172,Lose,2,,Chase,Chase
+1359538,IPL,PBKS,,PBKS,198,Lose,2,,Chase,Chase
+1359541,IPL,DC,,DC,146,Lose,2,,Chase,Chase
+1359542,IPL,KKR,,KKR,175,Lose,2,,Chase,Chase
+1359787,T20,Argentina,,Argentina,119,Lose,2,,Chase,Chase
+1359788,T20,Bahamas,,Bahamas,94,Lose,2,,Chase,Chase
+1359789,T20,Panama,,Panama,136,Lose,2,,Chase,Chase
+1359793,T20,Argentina,,Argentina,110,Lose,2,,Chase,Chase
+1359794,T20,Argentina,,Argentina,86,Lose,2,,Chase,Chase
+1359795,T20,Cayman Islands,,Cayman Islands,77,Lose,2,,Chase,Chase
+1359798,T20,Bahamas,,Bahamas,74,Lose,2,,Chase,Chase
+1359799,T20,Panama,,Panama,126,Lose,2,,Chase,Chase
+1361771,T20,Bahrain,,Bahrain,138,Lose,2,,Chase,Chase
+1361772,T20,Bahrain,,Bahrain,147,Lose,2,,Chase,Chase
+1361773,T20,Kuwait,,Kuwait,150,Lose,2,,Chase,Chase
+1362242,T20,Malaysia,,Malaysia,143,Lose,2,,Chase,Chase
+1362817,T20,Afghanistan,,Afghanistan,116,Lose,2,,Chase,Chase
+1367722,T20,Gibraltar,,Gibraltar,84,Lose,2,,Chase,Chase
+1367726,T20,Malta,,Malta,76,Lose,2,,Chase,Chase
+1367727,T20,Malta,,Malta,133,Lose,2,,Chase,Chase
+1367729,T20,Malta,,Malta,145,Lose,2,,Chase,Chase
+1367730,T20,Malta,,Malta,63,Lose,2,,Chase,Chase
+1367731,T20,Gibraltar,,Gibraltar,164,Lose,2,,Chase,Chase
+1370350,IPL,GT,,GT,157,Lose,2,,Chase,Chase
+1370351,IPL,LSG,,LSG,101,Lose,2,,Chase,Chase
+1370352,IPL,MI,,MI,171,Lose,2,,Chase,Chase
+1370353,IPL,CSK,,CSK,171,Lose,2,,Chase,Chase
+1370783,T20,Finland,,Finland,103,Lose,2,,Chase,Chase
+1373568,T20,South Africa,,South Africa,115,Lose,2,,Chase,Chase
+1373580,T20,England,,England,166,Lose,2,,Chase,Chase
+1373582,T20,West Indies,,West Indies,192,Lose,2,,Chase,Chase
+1375850,T20,West Indies,,West Indies,202,Lose,2,,Chase,Chase
+1375851,T20,West Indies,,West Indies,207,Lose,2,,Chase,Chase
+1375852,T20,Australia,,Australia,183,Lose,2,,Chase,Chase
+1377727,T20,United Arab Emirates,,United Arab Emirates,136,Lose,2,,Chase,Chase
+1377729,T20,United Arab Emirates,,United Arab Emirates,134,Lose,2,,Chase,Chase
+1379577,T20,Uganda,,Uganda,97,Lose,2,,Chase,Chase
+1379583,T20,Botswana,,Botswana,89,Lose,2,,Chase,Chase
+1379586,T20,Botswana,,Botswana,131,Lose,2,,Chase,Chase
+1379587,T20,Rwanda,,Rwanda,59,Lose,2,,Chase,Chase
+1379589,T20,Kenya,,Kenya,128,Lose,2,,Chase,Chase
+1379590,T20,Kenya,,Kenya,115,Lose,2,,Chase,Chase
+1379592,T20,Kenya,,Kenya,124,Lose,2,,Chase,Chase
+1380586,T20,Hungary,,Hungary,169,Lose,2,,Chase,Chase
+1381217,T20,India,,India,145,Lose,2,,Chase,Chase
+1381453,T20,Turkey,,Turkey,111,Lose,2,,Chase,Chase
+1383069,T20,Italy,,Italy,151,Lose,2,,Chase,Chase
+1383070,T20,Germany,,Germany,65,Lose,2,,Chase,Chase
+1383073,T20,Jersey,,Jersey,135,Lose,2,,Chase,Chase
+1383074,T20,Austria,,Austria,98,Lose,2,,Chase,Chase
+1383075,T20,Jersey,,Jersey,158,Lose,2,,Chase,Chase
+1383077,T20,Italy,,Italy,90,Lose,2,,Chase,Chase
+1383080,T20,Denmark,,Denmark,124,Lose,2,,Chase,Chase
+1383081,T20,Austria,,Austria,66,Lose,2,,Chase,Chase
+1383082,T20,Germany,,Germany,139,Lose,2,,Chase,Chase
+1383083,T20,Denmark,,Denmark,126,Lose,2,,Chase,Chase
+1383087,T20,Denmark,,Denmark,131,Lose,2,,Chase,Chase
+1383088,T20,Ireland,,Ireland,205,Lose,2,,Chase,Chase
+1383089,T20,Philippines,,Philippines,113,Lose,2,,Chase,Chase
+1383091,T20,Vanuatu,,Vanuatu,110,Lose,2,,Chase,Chase
+1383095,T20,Vanuatu,,Vanuatu,109,Lose,2,,Chase,Chase
+1383096,T20,Philippines,,Philippines,94,Lose,2,,Chase,Chase
+1383098,T20,Philippines,,Philippines,129,Lose,2,,Chase,Chase
+1383102,T20,Myanmar,,Myanmar,74,Lose,2,,Chase,Chase
+1383104,T20,Bhutan,,Bhutan,105,Lose,2,,Chase,Chase
+1383105,T20,Myanmar,,Myanmar,39,Lose,2,,Chase,Chase
+1383106,T20,China,,China,48,Lose,2,,Chase,Chase
+1383107,T20,Myanmar,,Myanmar,35,Lose,2,,Chase,Chase
+1384582,T20,Malta,,Malta,106,Lose,2,,Chase,Chase
+1384583,T20,France,,France,121,Lose,2,,Chase,Chase
+1384584,T20,Luxembourg,,Luxembourg,137,Lose,2,,Chase,Chase
+1384585,T20,Luxembourg,,Luxembourg,126,Lose,2,,Chase,Chase
+1384588,T20,Malta,,Malta,123,Lose,2,,Chase,Chase
+1384591,T20,Romania,,Romania,103,Lose,2,,Chase,Chase
+1384593,T20,Romania,,Romania,146,Lose,2,,Chase,Chase
+1384634,T20,India,,India,47,Lose,2,,Chase,Chase
+1384637,T20,Ireland,,Ireland,152,Lose,2,,Chase,Chase
+1387245,T20,Germany,,Germany,162,Lose,2,,Chase,Chase
+1387598,T20,South Africa,,South Africa,154,Lose,2,,Chase,Chase
+1387599,T20,South Africa,,South Africa,95,Lose,2,,Chase,Chase
+1388215,T20,New Zealand,,New Zealand,95,Lose,2,,Chase,Chase
+1388216,T20,Pakistan,,Pakistan,180,Lose,2,,Chase,Chase
+1388217,T20,Pakistan,,Pakistan,173,Lose,2,,Chase,Chase
+1388218,T20,Pakistan,,Pakistan,179,Lose,2,,Chase,Chase
+1388220,T20,New Zealand,,New Zealand,92,Lose,2,,Chase,Chase
+1388224,T20,New Zealand,,New Zealand,102,Lose,2,,Chase,Chase
+1388225,T20,New Zealand,,New Zealand,98,Lose,2,,Chase,Chase
+1389392,T20,Australia,,Australia,191,Lose,2,,Chase,Chase
+1389394,T20,Australia,,Australia,154,Lose,2,,Chase,Chase
+1389395,T20,Australia,,Australia,154,Lose,2,,Chase,Chase
+1390167,T20,Croatia,,Croatia,64,Lose,2,,Chase,Chase
+1391337,T20,Malta,,Malta,184,Lose,2,,Chase,Chase
+1392803,T20,Bahrain,,Bahrain,104,Lose,2,,Chase,Chase
+1392808,T20,Kuwait,,Kuwait,155,Lose,2,,Chase,Chase
+1392811,T20,Oman,,Oman,122,Lose,2,,Chase,Chase
+1392812,T20,Qatar,,Qatar,106,Lose,2,,Chase,Chase
+1393309,T20,Rwanda,,Rwanda,106,Lose,2,,Chase,Chase
+1393312,T20,Rwanda,,Rwanda,125,Lose,2,,Chase,Chase
+1393313,T20,Rwanda,,Rwanda,106,Lose,2,,Chase,Chase
+1393314,T20,Tanzania,,Tanzania,111,Lose,2,,Chase,Chase
+1393317,T20,Tanzania,,Tanzania,121,Lose,2,,Chase,Chase
+1393319,T20,Tanzania,,Tanzania,122,Lose,2,,Chase,Chase
+1393329,T20,Tanzania,,Tanzania,142,Lose,2,,Chase,Chase
+1393330,T20,Rwanda,,Rwanda,143,Lose,2,,Chase,Chase
+1393331,T20,Rwanda,,Rwanda,98,Lose,2,,Chase,Chase
+1393332,T20,Rwanda,,Rwanda,130,Lose,2,,Chase,Chase
+1397437,T20,United Arab Emirates,,United Arab Emirates,147,Lose,2,,Chase,Chase
+1397438,T20,Kuwait,,Kuwait,103,Lose,2,,Chase,Chase
+1398295,T20,Hong Kong,,Hong Kong,79,Lose,2,,Chase,Chase
+1398296,T20,Papua New Guinea,,Papua New Guinea,108,Lose,2,,Chase,Chase
+1398298,T20,Hong Kong,,Hong Kong,126,Lose,2,,Chase,Chase
+1399104,T20,Mongolia,,Mongolia,41,Lose,2,,Chase,Chase
+1399113,T20,Nepal,,Nepal,179,Lose,2,,Chase,Chase
+1399114,T20,Hong Kong,,Hong Kong,92,Lose,2,,Chase,Chase
+1399115,T20,Sri Lanka,,Sri Lanka,108,Lose,2,,Chase,Chase
+1399116,T20,Malaysia,,Malaysia,114,Lose,2,,Chase,Chase
+1399148,T20,Maldives,,Maldives,159,Lose,2,,Chase,Chase
+1399150,T20,Canada,,Canada,95,Lose,2,,Chase,Chase
+1399153,T20,Cayman Islands,,Cayman Islands,86,Lose,2,,Chase,Chase
+1399154,T20,Panama,,Panama,67,Lose,2,,Chase,Chase
+1399155,T20,Cayman Islands,,Cayman Islands,123,Lose,2,,Chase,Chase
+1399156,T20,Cayman Islands,,Cayman Islands,30,Lose,2,,Chase,Chase
+1399161,T20,Bermuda,,Bermuda,93,Lose,2,,Chase,Chase
+1400055,T20,Luxembourg,,Luxembourg,148,Lose,2,,Chase,Chase
+1400056,T20,Gibraltar,,Gibraltar,154,Lose,2,,Chase,Chase
+1400972,T20,Rwanda,,Rwanda,73,Lose,2,,Chase,Chase
+1400974,T20,Sierra Leone,,Sierra Leone,92,Lose,2,,Chase,Chase
+1400976,T20,Ghana,,Ghana,94,Lose,2,,Chase,Chase
+1400977,T20,Sierra Leone,,Sierra Leone,121,Lose,2,,Chase,Chase
+1400981,T20,Ghana,,Ghana,60,Lose,2,,Chase,Chase
+1400982,T20,Ghana,,Ghana,60,Lose,2,,Chase,Chase
+1400983,T20,Rwanda,,Rwanda,107,Lose,2,,Chase,Chase
+1400987,T20,Sierra Leone,,Sierra Leone,53,Lose,2,,Chase,Chase
+1400989,T20,Sierra Leone,,Sierra Leone,107,Lose,2,,Chase,Chase
+1400991,T20,Rwanda,,Rwanda,86,Lose,2,,Chase,Chase
+1403290,T20,Hong Kong,,Hong Kong,134,Lose,2,,Chase,Chase
+1403293,T20,United Arab Emirates,,United Arab Emirates,143,Lose,2,,Chase,Chase
+1404394,T20,Zimbabwe,,Zimbabwe,93,Lose,2,,Chase,Chase
+1405315,T20,Malaysia,,Malaysia,121,Lose,2,,Chase,Chase
+1405316,T20,Kuwait,,Kuwait,150,Lose,2,,Chase,Chase
+1405317,T20,Singapore,,Singapore,152,Lose,2,,Chase,Chase
+1405318,T20,Hong Kong,,Hong Kong,126,Lose,2,,Chase,Chase
+1405321,T20,Nepal,,Nepal,140,Lose,2,,Chase,Chase
+1405322,T20,Hong Kong,,Hong Kong,154,Lose,2,,Chase,Chase
+1405323,T20,Singapore,,Singapore,138,Lose,2,,Chase,Chase
+1405327,T20,Oman,,Oman,184,Lose,2,,Chase,Chase
+1407089,T20,Rwanda,,Rwanda,137,Lose,2,,Chase,Chase
+1407096,T20,Tanzania,,Tanzania,132,Lose,2,,Chase,Chase
+1407097,T20,Rwanda,,Rwanda,46,Lose,2,,Chase,Chase
+1407101,T20,Rwanda,,Rwanda,71,Lose,2,,Chase,Chase
+1407103,T20,Tanzania,,Tanzania,99,Lose,2,,Chase,Chase
+1407105,T20,Rwanda,,Rwanda,102,Lose,2,,Chase,Chase
+1407106,T20,Kenya,,Kenya,129,Lose,2,,Chase,Chase
+1407107,T20,Kenya,,Kenya,107,Lose,2,,Chase,Chase
+1407717,T20,Cambodia,,Cambodia,88,Lose,2,,Chase,Chase
+1412530,T20,Indonesia,,Indonesia,156,Lose,2,,Chase,Chase
+1412532,T20,Philippines,,Philippines,120,Lose,2,,Chase,Chase
+1412549,T20,United Arab Emirates,,United Arab Emirates,131,Lose,2,,Chase,Chase
+1412550,T20,Afghanistan,,Afghanistan,155,Lose,2,,Chase,Chase
+1416077,T20,Afghanistan,,Afghanistan,156,Lose,2,,Chase,Chase
+1416078,T20,Afghanistan,,Afghanistan,115,Lose,2,,Chase,Chase
+1416079,T20,Sri Lanka,,Sri Lanka,206,Lose,2,,Chase,Chase
+1416084,T20,Afghanistan,,Afghanistan,111,Lose,2,,Chase,Chase
+1416085,T20,Ireland,,Ireland,142,Lose,2,,Chase,Chase
+1418177,T20,China,,China,37,Lose,2,,Chase,Chase
+1418181,T20,Bhutan,,Bhutan,116,Lose,2,,Chase,Chase
+1418182,T20,Maldives,,Maldives,158,Lose,2,,Chase,Chase
+1418183,T20,Thailand,,Thailand,120,Lose,2,,Chase,Chase
+1418187,T20,Maldives,,Maldives,108,Lose,2,,Chase,Chase
+1418188,T20,Indonesia,,Indonesia,103,Lose,2,,Chase,Chase
+1418190,T20,Japan,,Japan,142,Lose,2,,Chase,Chase
+1418193,T20,Bhutan,,Bhutan,105,Lose,2,,Chase,Chase
+1418539,T20,China,,China,48,Lose,2,,Chase,Chase
+1418541,T20,China,,China,78,Lose,2,,Chase,Chase
+1418542,T20,Japan,,Japan,128,Lose,2,,Chase,Chase
+1418544,T20,China,,China,99,Lose,2,,Chase,Chase
+1418545,T20,Japan,,Japan,185,Lose,2,,Chase,Chase
+1419824,T20,Bangladesh,,Bangladesh,203,Lose,2,,Chase,Chase
+1419826,T20,Bangladesh,,Bangladesh,146,Lose,2,,Chase,Chase
+1420802,T20,Maldives,,Maldives,88,Lose,2,,Chase,Chase
+1420806,T20,Bhutan,,Bhutan,55,Lose,2,,Chase,Chase
+1421079,T20,United Arab Emirates,,United Arab Emirates,112,Lose,2,,Chase,Chase
+1421080,T20,United Arab Emirates,,United Arab Emirates,62,Lose,2,,Chase,Chase
+1422037,T20,Nepal,,Nepal,186,Lose,2,,Chase,Chase
+1422038,T20,Nepal,,Nepal,182,Lose,2,,Chase,Chase
+1422039,T20,Namibia,,Namibia,188,Lose,2,,Chase,Chase
+1422040,T20,Namibia,,Namibia,177,Lose,2,,Chase,Chase
+1422802,T20,Qatar,,Qatar,162,Lose,2,,Chase,Chase
+1422807,T20,Tanzania,,Tanzania,119,Lose,2,,Chase,Chase
+1422808,T20,Bahrain,,Bahrain,99,Lose,2,,Chase,Chase
+1422810,T20,Vanuatu,,Vanuatu,96,Lose,2,,Chase,Chase
+1422814,T20,Tanzania,,Tanzania,83,Lose,2,,Chase,Chase
+1422815,T20,Vanuatu,,Vanuatu,110,Lose,2,,Chase,Chase
+1423439,T20,Nepal,,Nepal,139,Lose,2,,Chase,Chase
+1423441,T20,Papua New Guinea,,Papua New Guinea,113,Lose,2,,Chase,Chase
+1423444,T20,Nepal,,Nepal,85,Lose,2,,Chase,Chase
+1424752,T20,Namibia,,Namibia,162,Lose,2,,Chase,Chase
+1424753,T20,Nigeria,,Nigeria,84,Lose,2,,Chase,Chase
+1424754,T20,Ghana,,Ghana,103,Lose,2,,Chase,Chase
+1424755,T20,Kenya,,Kenya,97,Lose,2,,Chase,Chase
+1425110,T20,Malaysia,,Malaysia,129,Lose,2,,Chase,Chase
+1425111,T20,Papua New Guinea,,Papua New Guinea,98,Lose,2,,Chase,Chase
+1233975,T20,New Zealand,New Zealand,,143,Win,2,,Chase,Chase
+1239542,T20,England,England,,155,Win,2,,Chase,Chase
+1243020,T20,South Africa,South Africa,,145,Win,2,,Chase,Chase
+1243021,T20,Pakistan,Pakistan,,169,Win,2,,Chase,Chase
+1243388,T20,England,England,,130,Win,2,,Chase,Chase
+1243389,T20,India,India,,166,Win,2,,Chase,Chase
+1243390,T20,England,England,,158,Win,2,,Chase,Chase
+1249206,T20,England,England,,130,Win,2,,Chase,Chase
+1251575,T20,Pakistan,Pakistan,,189,Win,2,,Chase,Chase
+1251576,T20,South Africa,South Africa,,141,Win,2,,Chase,Chase
+1251577,T20,Pakistan,Pakistan,,205,Win,2,,Chase,Chase
+1251578,T20,Pakistan,Pakistan,,149,Win,2,,Chase,Chase
+1252066,T20,West Indies,West Indies,,134,Win,2,,Chase,Chase
+1252068,T20,West Indies,West Indies,,134,Win,2,,Chase,Chase
+1254058,IPL,RCB,RCB,,160,Win,2,,Chase,Chase
+1254059,IPL,DC,DC,,190,Win,2,,Chase,Chase
+1254064,IPL,RR,RR,,150,Win,2,,Chase,Chase
+1254065,IPL,CSK,CSK,,107,Win,2,,Chase,Chase
+1254068,IPL,DC,DC,,198,Win,2,,Chase,Chase
+1254070,IPL,DC,DC,,138,Win,2,,Chase,Chase
+1254071,IPL,SRH,SRH,,121,Win,2,,Chase,Chase
+1254073,IPL,RCB,RCB,,181,Win,2,,Chase,Chase
+1254074,IPL,PBKS,PBKS,,132,Win,2,,Chase,Chase
+1254075,IPL,RR,RR,,134,Win,2,,Chase,Chase
+1254078,IPL,KKR,KKR,,126,Win,2,,Chase,Chase
+1254080,IPL,CSK,CSK,,173,Win,2,,Chase,Chase
+1254081,IPL,MI,MI,,172,Win,2,,Chase,Chase
+1254082,IPL,DC,DC,,156,Win,2,,Chase,Chase
+1254084,IPL,MI,MI,,219,Win,2,,Chase,Chase
+1254086,IPL,DC,DC,,167,Win,2,,Chase,Chase
+1254087,IPL,KKR,KKR,,94,Win,2,,Chase,Chase
+1254089,IPL,RR,RR,,190,Win,2,,Chase,Chase
+1254091,IPL,CSK,CSK,,139,Win,2,,Chase,Chase
+1254092,IPL,KKR,KKR,,130,Win,2,,Chase,Chase
+1254093,IPL,MI,MI,,94,Win,2,,Chase,Chase
+1254094,IPL,PBKS,PBKS,,139,Win,2,,Chase,Chase
+1254096,IPL,KKR,KKR,,159,Win,2,,Chase,Chase
+1254098,IPL,CSK,CSK,,172,Win,2,,Chase,Chase
+1254099,IPL,MI,MI,,137,Win,2,,Chase,Chase
+1254100,IPL,SRH,SRH,,167,Win,2,,Chase,Chase
+1254101,IPL,RCB,RCB,,166,Win,2,,Chase,Chase
+1254102,IPL,PBKS,PBKS,,168,Win,2,,Chase,Chase
+1254103,IPL,RCB,RCB,,153,Win,2,,Chase,Chase
+1254105,IPL,DC,DC,,139,Win,2,,Chase,Chase
+1254109,IPL,KKR,KKR,,119,Win,2,,Chase,Chase
+1254110,IPL,DC,DC,,139,Win,2,,Chase,Chase
+1254112,IPL,DC,DC,,132,Win,2,,Chase,Chase
+1254113,IPL,CSK,CSK,,157,Win,2,,Chase,Chase
+1254114,IPL,CSK,CSK,,173,Win,2,,Chase,Chase
+1254115,IPL,KKR,KKR,,139,Win,2,,Chase,Chase
+1254116,IPL,KKR,KKR,,136,Win,2,,Chase,Chase
+1256720,T20,West Indies,West Indies,,104,Win,2,,Chase,Chase
+1257404,T20,Namibia,Namibia,,135,Win,2,,Chase,Chase
+1257945,T20,Nepal,Nepal,,141,Win,2,,Chase,Chase
+1257947,T20,Nepal,Nepal,,113,Win,2,,Chase,Chase
+1257948,T20,Netherlands,Netherlands,,209,Win,2,,Chase,Chase
+1262759,T20,Sri Lanka,Sri Lanka,,133,Win,2,,Chase,Chase
+1262760,T20,Sri Lanka,Sri Lanka,,82,Win,2,,Chase,Chase
+1263151,T20,West Indies,West Indies,,161,Win,2,,Chase,Chase
+1263158,T20,West Indies,West Indies,,142,Win,2,,Chase,Chase
+1263473,T20,Australia,Australia,,124,Win,2,,Chase,Chase
+1263474,T20,Australia,Australia,,143,Win,2,,Chase,Chase
+1263475,T20,Sri Lanka,Sri Lanka,,155,Win,2,,Chase,Chase
+1263708,T20,Czech Republic,Czech Republic,,127,Win,2,,Chase,Chase
+1263711,T20,Luxembourg,Luxembourg,,165,Win,2,,Chase,Chase
+1263712,T20,Luxembourg,Luxembourg,,180,Win,2,,Chase,Chase
+1263713,T20,Austria,Austria,,161,Win,2,,Chase,Chase
+1267304,T20,Romania,Romania,,159,Win,2,,Chase,Chase
+1267306,T20,Greece,Greece,,147,Win,2,,Chase,Chase
+1267307,T20,Romania,Romania,,161,Win,2,,Chase,Chase
+1267310,T20,Romania,Romania,,116,Win,2,,Chase,Chase
+1267680,T20,Bangladesh,Bangladesh,,153,Win,2,,Chase,Chase
+1267682,T20,Bangladesh,Bangladesh,,194,Win,2,,Chase,Chase
+1268188,T20,Malta,Malta,,103,Win,2,,Chase,Chase
+1268189,T20,Belgium,Belgium,,52,Win,2,,Chase,Chase
+1268190,T20,Belgium,Belgium,,115,Win,2,,Chase,Chase
+1270835,T20,Bangladesh,Bangladesh,,123,Win,2,,Chase,Chase
+1270837,T20,Australia,Australia,,105,Win,2,,Chase,Chase
+1271445,T20,Germany,Germany,,80,Win,2,,Chase,Chase
+1271446,T20,France,France,,113,Win,2,,Chase,Chase
+1271447,T20,Germany,Germany,,97,Win,2,,Chase,Chase
+1271631,T20,South Africa,South Africa,,105,Win,2,,Chase,Chase
+1271632,T20,South Africa,South Africa,,121,Win,2,,Chase,Chase
+1272093,T20,Bangladesh,Bangladesh,,62,Win,2,,Chase,Chase
+1272096,T20,Bangladesh,Bangladesh,,96,Win,2,,Chase,Chase
+1272374,T20,Ireland,Ireland,,153,Win,2,,Chase,Chase
+1273133,T20,Sweden,Sweden,,137,Win,2,,Chase,Chase
+1273134,T20,Denmark,Denmark,,126,Win,2,,Chase,Chase
+1273136,T20,Malta,Malta,,149,Win,2,,Chase,Chase
+1273141,T20,Rwanda,Rwanda,,165,Win,2,,Chase,Chase
+1273145,T20,Ghana,Ghana,,148,Win,2,,Chase,Chase
+1273146,T20,Finland,Finland,,139,Win,2,,Chase,Chase
+1273147,T20,Finland,Finland,,142,Win,2,,Chase,Chase
+1273149,T20,Sweden,Sweden,,146,Win,2,,Chase,Chase
+1273273,T20,Zimbabwe,Zimbabwe,,180,Win,2,,Chase,Chase
+1273712,T20,Oman,Oman,,131,Win,2,,Chase,Chase
+1273714,T20,Ireland,Ireland,,107,Win,2,,Chase,Chase
+1273715,T20,Sri Lanka,Sri Lanka,,100,Win,2,,Chase,Chase
+1273718,T20,Namibia,Namibia,,166,Win,2,,Chase,Chase
+1273721,T20,Scotland,Scotland,,123,Win,2,,Chase,Chase
+1273722,T20,Namibia,Namibia,,126,Win,2,,Chase,Chase
+1273723,T20,Sri Lanka,Sri Lanka,,45,Win,2,,Chase,Chase
+1273724,T20,Australia,Australia,,121,Win,2,,Chase,Chase
+1273725,T20,England,England,,56,Win,2,,Chase,Chase
+1273726,T20,Sri Lanka,Sri Lanka,,172,Win,2,,Chase,Chase
+1273727,T20,Pakistan,Pakistan,,152,Win,2,,Chase,Chase
+1273729,T20,South Africa,South Africa,,144,Win,2,,Chase,Chase
+1273730,T20,Pakistan,Pakistan,,135,Win,2,,Chase,Chase
+1273731,T20,England,England,,126,Win,2,,Chase,Chase
+1273732,T20,Namibia,Namibia,,115,Win,2,,Chase,Chase
+1273733,T20,Australia,Australia,,155,Win,2,,Chase,Chase
+1273735,T20,Pakistan,Pakistan,,148,Win,2,,Chase,Chase
+1273736,T20,South Africa,South Africa,,146,Win,2,,Chase,Chase
+1273737,T20,England,England,,126,Win,2,,Chase,Chase
+1273739,T20,New Zealand,New Zealand,,111,Win,2,,Chase,Chase
+1273741,T20,South Africa,South Africa,,86,Win,2,,Chase,Chase
+1273745,T20,Australia,Australia,,78,Win,2,,Chase,Chase
+1273748,T20,India,India,,89,Win,2,,Chase,Chase
+1273749,T20,Australia,Australia,,161,Win,2,,Chase,Chase
+1273751,T20,New Zealand,New Zealand,,125,Win,2,,Chase,Chase
+1273753,T20,India,India,,136,Win,2,,Chase,Chase
+1273754,T20,New Zealand,New Zealand,,167,Win,2,,Chase,Chase
+1273755,T20,Australia,Australia,,177,Win,2,,Chase,Chase
+1273756,T20,Australia,Australia,,173,Win,2,,Chase,Chase
+1275039,T20,Kenya,Kenya,,108,Win,2,,Chase,Chase
+1275043,T20,Uganda,Uganda,,124,Win,2,,Chase,Chase
+1275052,T20,Germany,Germany,,132,Win,2,,Chase,Chase
+1275053,T20,Spain,Spain,,116,Win,2,,Chase,Chase
+1275054,T20,Spain,Spain,,120,Win,2,,Chase,Chase
+1275271,T20,Malta,Malta,,113,Win,2,,Chase,Chase
+1275276,T20,Hungary,Hungary,,171,Win,2,,Chase,Chase
+1277974,T20,Pakistan,Pakistan,,132,Win,2,,Chase,Chase
+1277975,T20,Pakistan,Pakistan,,109,Win,2,,Chase,Chase
+1277976,T20,Pakistan,Pakistan,,127,Win,2,,Chase,Chase
+1278671,T20,India,India,,166,Win,2,,Chase,Chase
+1278672,T20,India,India,,155,Win,2,,Chase,Chase
+1278679,T20,India,India,,162,Win,2,,Chase,Chase
+1278685,T20,India,India,,186,Win,2,,Chase,Chase
+1278686,T20,India,India,,148,Win,2,,Chase,Chase
+1278687,T20,South Africa,South Africa,,212,Win,2,,Chase,Chase
+1278688,T20,South Africa,South Africa,,149,Win,2,,Chase,Chase
+1279379,T20,Cyprus,Cyprus,,105,Win,2,,Chase,Chase
+1279380,T20,Cyprus,Cyprus,,131,Win,2,,Chase,Chase
+1279381,T20,Isle of Man,Isle of Man,,93,Win,2,,Chase,Chase
+1279382,T20,Isle of Man,Isle of Man,,122,Win,2,,Chase,Chase
+1279383,T20,Isle of Man,Isle of Man,,151,Win,2,,Chase,Chase
+1279386,T20,Isle of Man,Isle of Man,,72,Win,2,,Chase,Chase
+1280058,T20,Namibia,Namibia,,138,Win,2,,Chase,Chase
+1280060,T20,Ireland,Ireland,,124,Win,2,,Chase,Chase
+1280062,T20,United Arab Emirates,United Arab Emirates,,139,Win,2,,Chase,Chase
+1280063,T20,Scotland,Scotland,,156,Win,2,,Chase,Chase
+1282273,T20,Switzerland,Switzerland,,134,Win,2,,Chase,Chase
+1282275,T20,Switzerland,Switzerland,,82,Win,2,,Chase,Chase
+1282278,T20,Bulgaria,Bulgaria,,178,Win,2,,Chase,Chase
+1282739,T20,Italy,Italy,,101,Win,2,,Chase,Chase
+1282740,T20,Germany,Germany,,112,Win,2,,Chase,Chase
+1282743,T20,Germany,Germany,,104,Win,2,,Chase,Chase
+1282745,T20,Jersey,Jersey,,86,Win,2,,Chase,Chase
+1282746,T20,Jersey,Jersey,,104,Win,2,,Chase,Chase
+1282749,T20,Jersey,Jersey,,131,Win,2,,Chase,Chase
+1283021,T20,Ghana,Ghana,,157,Win,2,,Chase,Chase
+1283023,T20,Ghana,Ghana,,96,Win,2,,Chase,Chase
+1283024,T20,Uganda,Uganda,,101,Win,2,,Chase,Chase
+1283025,T20,Seychelles,Seychelles,,132,Win,2,,Chase,Chase
+1283026,T20,Malawi,Malawi,,99,Win,2,,Chase,Chase
+1283029,T20,Ghana,Ghana,,96,Win,2,,Chase,Chase
+1283030,T20,Uganda,Uganda,,27,Win,2,,Chase,Chase
+1283032,T20,Uganda,Uganda,,76,Win,2,,Chase,Chase
+1283034,T20,Ghana,Ghana,,75,Win,2,,Chase,Chase
+1283035,T20,Seychelles,Seychelles,,130,Win,2,,Chase,Chase
+1283038,T20,Rwanda,Rwanda,,79,Win,2,,Chase,Chase
+1283045,T20,Tanzania,Tanzania,,104,Win,2,,Chase,Chase
+1283046,T20,Botswana,Botswana,,54,Win,2,,Chase,Chase
+1283047,T20,Sierra Leone,Sierra Leone,,97,Win,2,,Chase,Chase
+1283050,T20,Sierra Leone,Sierra Leone,,90,Win,2,,Chase,Chase
+1283089,T20,Sierra Leone,Sierra Leone,,100,Win,2,,Chase,Chase
+1283092,T20,Nigeria,Nigeria,,85,Win,2,,Chase,Chase
+1284489,T20,Saudi Arabia,Saudi Arabia,,101,Win,2,,Chase,Chase
+1284490,T20,Kuwait,Kuwait,,129,Win,2,,Chase,Chase
+1284493,T20,Bahrain,Bahrain,,93,Win,2,,Chase,Chase
+1284495,T20,Kuwait,Kuwait,,107,Win,2,,Chase,Chase
+1284497,T20,Qatar,Qatar,,127,Win,2,,Chase,Chase
+1286667,T20,United States of America,United States of America,,68,Win,2,,Chase,Chase
+1286681,T20,United States of America,United States of America,,94,Win,2,,Chase,Chase
+1286682,T20,United States of America,United States of America,,91,Win,2,,Chase,Chase
+1286683,T20,Bermuda,Bermuda,,89,Win,2,,Chase,Chase
+1286685,T20,Canada,Canada,,115,Win,2,,Chase,Chase
+1287775,T20,Pakistan,Pakistan,,208,Win,2,,Chase,Chase
+1288316,T20,Australia,Australia,,163,Win,2,,Chase,Chase
+1289042,T20,Tanzania,Tanzania,,117,Win,2,,Chase,Chase
+1289046,T20,Uganda,Uganda,,141,Win,2,,Chase,Chase
+1289047,T20,Kenya,Kenya,,136,Win,2,,Chase,Chase
+1289048,T20,Kenya,Kenya,,104,Win,2,,Chase,Chase
+1289049,T20,Uganda,Uganda,,114,Win,2,,Chase,Chase
+1289050,T20,Uganda,Uganda,,74,Win,2,,Chase,Chase
+1298136,T20,Netherlands,Netherlands,,112,Win,2,,Chase,Chase
+1298139,T20,Netherlands,Netherlands,,122,Win,2,,Chase,Chase
+1298141,T20,Ireland,Ireland,,180,Win,2,,Chase,Chase
+1298145,T20,Ireland,Ireland,,150,Win,2,,Chase,Chase
+1298146,T20,Zimbabwe,Zimbabwe,,133,Win,2,,Chase,Chase
+1298148,T20,England,England,,113,Win,2,,Chase,Chase
+1298149,T20,Sri Lanka,Sri Lanka,,133,Win,2,,Chase,Chase
+1298150,T20,India,India,,160,Win,2,,Chase,Chase
+1298153,T20,Australia,Australia,,158,Win,2,,Chase,Chase
+1298163,T20,Pakistan,Pakistan,,95,Win,2,,Chase,Chase
+1298164,T20,South Africa,South Africa,,137,Win,2,,Chase,Chase
+1298166,T20,Sri Lanka,Sri Lanka,,148,Win,2,,Chase,Chase
+1298168,T20,Netherlands,Netherlands,,120,Win,2,,Chase,Chase
+1298173,T20,England,England,,144,Win,2,,Chase,Chase
+1298175,T20,Pakistan,Pakistan,,128,Win,2,,Chase,Chase
+1298177,T20,Pakistan,Pakistan,,153,Win,2,,Chase,Chase
+1298178,T20,England,England,,170,Win,2,,Chase,Chase
+1298179,T20,England,England,,138,Win,2,,Chase,Chase
+1299569,T20,Bahrain,Bahrain,,107,Win,2,,Chase,Chase
+1299570,T20,Oman,Oman,,159,Win,2,,Chase,Chase
+1299574,T20,Ireland,Ireland,,111,Win,2,,Chase,Chase
+1299576,T20,Nepal,Nepal,,81,Win,2,,Chase,Chase
+1299577,T20,Oman,Oman,,40,Win,2,,Chase,Chase
+1299578,T20,Canada,Canada,,132,Win,2,,Chase,Chase
+1299582,T20,Canada,Canada,,132,Win,2,,Chase,Chase
+1299583,T20,Germany,Germany,,115,Win,2,,Chase,Chase
+1299584,T20,Nepal,Nepal,,90,Win,2,,Chase,Chase
+1299585,T20,United Arab Emirates,United Arab Emirates,,160,Win,2,,Chase,Chase
+1299593,T20,Nepal,Nepal,,137,Win,2,,Chase,Chase
+1299594,T20,Ireland,Ireland,,140,Win,2,,Chase,Chase
+1299595,T20,Oman,Oman,,165,Win,2,,Chase,Chase
+1299833,T20,Afghanistan,Afghanistan,,121,Win,2,,Chase,Chase
+1303307,T20,India,India,,111,Win,2,,Chase,Chase
+1303314,T20,New Zealand,New Zealand,,180,Win,2,,Chase,Chase
+1304047,IPL,KKR,KKR,,133,Win,2,,Chase,Chase
+1304048,IPL,DC,DC,,179,Win,2,,Chase,Chase
+1304049,IPL,PBKS,PBKS,,208,Win,2,,Chase,Chase
+1304050,IPL,GT,GT,,161,Win,2,,Chase,Chase
+1304052,IPL,RCB,RCB,,132,Win,2,,Chase,Chase
+1304053,IPL,LSG,LSG,,211,Win,2,,Chase,Chase
+1304054,IPL,KKR,KKR,,141,Win,2,,Chase,Chase
+1304059,IPL,RCB,RCB,,173,Win,2,,Chase,Chase
+1304060,IPL,KKR,KKR,,162,Win,2,,Chase,Chase
+1304061,IPL,LSG,LSG,,155,Win,2,,Chase,Chase
+1304062,IPL,GT,GT,,190,Win,2,,Chase,Chase
+1304063,IPL,SRH,SRH,,155,Win,2,,Chase,Chase
+1304064,IPL,RCB,RCB,,152,Win,2,,Chase,Chase
+1304067,IPL,SRH,SRH,,168,Win,2,,Chase,Chase
+1304071,IPL,SRH,SRH,,176,Win,2,,Chase,Chase
+1304074,IPL,SRH,SRH,,152,Win,2,,Chase,Chase
+1304075,IPL,GT,GT,,170,Win,2,,Chase,Chase
+1304078,IPL,DC,DC,,119,Win,2,,Chase,Chase
+1304079,IPL,CSK,CSK,,156,Win,2,,Chase,Chase
+1304082,IPL,SRH,SRH,,72,Win,2,,Chase,Chase
+1304086,IPL,GT,GT,,199,Win,2,,Chase,Chase
+1304087,IPL,DC,DC,,150,Win,2,,Chase,Chase
+1304089,IPL,GT,GT,,174,Win,2,,Chase,Chase
+1304090,IPL,MI,MI,,161,Win,2,,Chase,Chase
+1304093,IPL,KKR,KKR,,158,Win,2,,Chase,Chase
+1304094,IPL,PBKS,PBKS,,145,Win,2,,Chase,Chase
+1304098,IPL,RR,RR,,190,Win,2,,Chase,Chase
+1304104,IPL,DC,DC,,161,Win,2,,Chase,Chase
+1304105,IPL,MI,MI,,103,Win,2,,Chase,Chase
+1304108,IPL,GT,GT,,137,Win,2,,Chase,Chase
+1304113,IPL,RCB,RCB,,170,Win,2,,Chase,Chase
+1304114,IPL,RR,RR,,151,Win,2,,Chase,Chase
+1304115,IPL,MI,MI,,160,Win,2,,Chase,Chase
+1304116,IPL,PBKS,PBKS,,160,Win,2,,Chase,Chase
+1305500,T20,Nepal,Nepal,,117,Win,2,,Chase,Chase
+1305502,T20,Papua New Guinea,Papua New Guinea,,199,Win,2,,Chase,Chase
+1307159,T20,Ireland,Ireland,,171,Win,2,,Chase,Chase
+1307160,T20,Ireland,Ireland,,125,Win,2,,Chase,Chase
+1307293,T20,Australia,Australia,,134,Win,2,,Chase,Chase
+1307294,T20,Australia,Australia,,126,Win,2,,Chase,Chase
+1307295,T20,Sri Lanka,Sri Lanka,,177,Win,2,,Chase,Chase
+1309701,T20,Namibia,Namibia,,128,Win,2,,Chase,Chase
+1309702,T20,Uganda,Uganda,,178,Win,2,,Chase,Chase
+1310163,T20,Guernsey,Guernsey,,126,Win,2,,Chase,Chase
+1310164,T20,Spain,Spain,,80,Win,2,,Chase,Chase
+1310165,T20,Guernsey,Guernsey,,111,Win,2,,Chase,Chase
+1310167,T20,Finland,Finland,,142,Win,2,,Chase,Chase
+1310170,T20,Malta,Malta,,135,Win,2,,Chase,Chase
+1310172,T20,Hungary,Hungary,,138,Win,2,,Chase,Chase
+1310173,T20,Malta,Malta,,166,Win,2,,Chase,Chase
+1310178,T20,Hungary,Hungary,,162,Win,2,,Chase,Chase
+1310181,T20,Romania,Romania,,132,Win,2,,Chase,Chase
+1310182,T20,Czech Republic,Czech Republic,,175,Win,2,,Chase,Chase
+1310183,T20,Romania,Romania,,142,Win,2,,Chase,Chase
+1310184,T20,Malta,Malta,,205,Win,2,,Chase,Chase
+1310185,T20,Bulgaria,Bulgaria,,171,Win,2,,Chase,Chase
+1310902,T20,New Zealand,New Zealand,,149,Win,2,,Chase,Chase
+1310939,T20,Namibia,Namibia,,124,Win,2,,Chase,Chase
+1310940,T20,Zimbabwe,Zimbabwe,,129,Win,2,,Chase,Chase
+1310941,T20,Namibia,Namibia,,161,Win,2,,Chase,Chase
+1310946,T20,Afghanistan,Afghanistan,,160,Win,2,,Chase,Chase
+1312197,IPL,GT,GT,,191,Win,2,,Chase,Chase
+1312199,IPL,RR,RR,,161,Win,2,,Chase,Chase
+1312200,IPL,GT,GT,,133,Win,2,,Chase,Chase
+1317136,T20,Bulgaria,Bulgaria,,229,Win,2,,Chase,Chase
+1317137,T20,Bulgaria,Bulgaria,,199,Win,2,,Chase,Chase
+1317139,T20,Bulgaria,Bulgaria,,246,Win,2,,Chase,Chase
+1317151,T20,West Indies,West Indies,,169,Win,2,,Chase,Chase
+1317482,T20,Australia,Australia,,146,Win,2,,Chase,Chase
+1317904,T20,West Indies,West Indies,,141,Win,2,,Chase,Chase
+1317905,T20,India,India,,165,Win,2,,Chase,Chase
+1317910,T20,West Indies,West Indies,,150,Win,2,,Chase,Chase
+1318358,T20,Germany,Germany,,95,Win,2,,Chase,Chase
+1320969,T20,Belgium,Belgium,,142,Win,2,,Chase,Chase
+1320975,T20,Spain,Spain,,115,Win,2,,Chase,Chase
+1320976,T20,Belgium,Belgium,,123,Win,2,,Chase,Chase
+1320977,T20,Spain,Spain,,78,Win,2,,Chase,Chase
+1320978,T20,Gibraltar,Gibraltar,,135,Win,2,,Chase,Chase
+1320982,T20,Portugal,Portugal,,114,Win,2,,Chase,Chase
+1320986,T20,Belgium,Belgium,,149,Win,2,,Chase,Chase
+1320987,T20,Malta,Malta,,196,Win,2,,Chase,Chase
+1320988,T20,Denmark,Denmark,,111,Win,2,,Chase,Chase
+1321258,T20,Isle of Man,Isle of Man,,122,Win,2,,Chase,Chase
+1321262,T20,Sweden,Sweden,,70,Win,2,,Chase,Chase
+1321264,T20,Italy,Italy,,144,Win,2,,Chase,Chase
+1321266,T20,Serbia,Serbia,,68,Win,2,,Chase,Chase
+1321268,T20,Isle of Man,Isle of Man,,121,Win,2,,Chase,Chase
+1321274,T20,Serbia,Serbia,,126,Win,2,,Chase,Chase
+1321275,T20,Finland,Finland,,87,Win,2,,Chase,Chase
+1321277,T20,Croatia,Croatia,,94,Win,2,,Chase,Chase
+1321279,T20,Sweden,Sweden,,106,Win,2,,Chase,Chase
+1321280,T20,Italy,Italy,,102,Win,2,,Chase,Chase
+1321282,T20,Norway,Norway,,102,Win,2,,Chase,Chase
+1321287,T20,Switzerland,Switzerland,,158,Win,2,,Chase,Chase
+1321289,T20,Austria,Austria,,141,Win,2,,Chase,Chase
+1321291,T20,Bulgaria,Bulgaria,,143,Win,2,,Chase,Chase
+1321296,T20,Guernsey,Guernsey,,60,Win,2,,Chase,Chase
+1321298,T20,Czech Republic,Czech Republic,,184,Win,2,,Chase,Chase
+1321301,T20,Czech Republic,Czech Republic,,118,Win,2,,Chase,Chase
+1321304,T20,Austria,Austria,,77,Win,2,,Chase,Chase
+1321305,T20,Austria,Austria,,123,Win,2,,Chase,Chase
+1321306,T20,Czech Republic,Czech Republic,,115,Win,2,,Chase,Chase
+1321307,T20,Austria,Austria,,183,Win,2,,Chase,Chase
+1321310,T20,Czech Republic,Czech Republic,,150,Win,2,,Chase,Chase
+1321311,T20,Singapore,Singapore,,138,Win,2,,Chase,Chase
+1321313,T20,Malaysia,Malaysia,,125,Win,2,,Chase,Chase
+1321466,T20,United States of America,United States of America,,159,Win,2,,Chase,Chase
+1321468,T20,Uganda,Uganda,,88,Win,2,,Chase,Chase
+1321471,T20,Netherlands,Netherlands,,117,Win,2,,Chase,Chase
+1321472,T20,Papua New Guinea,Papua New Guinea,,161,Win,2,,Chase,Chase
+1321474,T20,Hong Kong,Hong Kong,,186,Win,2,,Chase,Chase
+1321478,T20,Hong Kong,Hong Kong,,147,Win,2,,Chase,Chase
+1321480,T20,Netherlands,Netherlands,,139,Win,2,,Chase,Chase
+1321482,T20,Jersey,Jersey,,141,Win,2,,Chase,Chase
+1322001,T20,Malaysia,Malaysia,,34,Win,2,,Chase,Chase
+1322003,T20,Bhutan,Bhutan,,50,Win,2,,Chase,Chase
+1322004,T20,Malaysia,Malaysia,,59,Win,2,,Chase,Chase
+1322006,T20,Malaysia,Malaysia,,74,Win,2,,Chase,Chase
+1322010,T20,Malaysia,Malaysia,,84,Win,2,,Chase,Chase
+1322012,T20,Papua New Guinea,Papua New Guinea,,206,Win,2,,Chase,Chase
+1322335,T20,Pakistan,Pakistan,,149,Win,2,,Chase,Chase
+1322336,T20,New Zealand,New Zealand,,142,Win,2,,Chase,Chase
+1322337,T20,New Zealand,New Zealand,,131,Win,2,,Chase,Chase
+1322339,T20,Pakistan,Pakistan,,177,Win,2,,Chase,Chase
+1322340,T20,Pakistan,Pakistan,,168,Win,2,,Chase,Chase
+1322362,T20,New Zealand,New Zealand,,196,Win,2,,Chase,Chase
+1322363,T20,New Zealand,New Zealand,,146,Win,2,,Chase,Chase
+1322364,T20,New Zealand,New Zealand,,183,Win,2,,Chase,Chase
+1323296,T20,Bangladesh,Bangladesh,,136,Win,2,,Chase,Chase
+1323550,T20,Serbia,Serbia,,155,Win,2,,Chase,Chase
+1323551,T20,Serbia,Serbia,,157,Win,2,,Chase,Chase
+1327228,T20,England,England,,160,Win,2,,Chase,Chase
+1327229,T20,Pakistan,Pakistan,,203,Win,2,,Chase,Chase
+1327233,T20,England,England,,170,Win,2,,Chase,Chase
+1327269,T20,Afghanistan,Afghanistan,,106,Win,2,,Chase,Chase
+1327270,T20,India,India,,148,Win,2,,Chase,Chase
+1327271,T20,Afghanistan,Afghanistan,,131,Win,2,,Chase,Chase
+1327273,T20,Sri Lanka,Sri Lanka,,184,Win,2,,Chase,Chase
+1327275,T20,Sri Lanka,Sri Lanka,,179,Win,2,,Chase,Chase
+1327276,T20,Pakistan,Pakistan,,182,Win,2,,Chase,Chase
+1327277,T20,Sri Lanka,Sri Lanka,,174,Win,2,,Chase,Chase
+1327278,T20,Pakistan,Pakistan,,131,Win,2,,Chase,Chase
+1327280,T20,Sri Lanka,Sri Lanka,,124,Win,2,,Chase,Chase
+1327503,T20,Australia,Australia,,211,Win,2,,Chase,Chase
+1327504,T20,India,India,,92,Win,2,,Chase,Chase
+1327505,T20,India,India,,187,Win,2,,Chase,Chase
+1327506,T20,India,India,,110,Win,2,,Chase,Chase
+1328471,T20,Kuwait,Kuwait,,154,Win,2,,Chase,Chase
+1328474,T20,Nepal,Nepal,,133,Win,2,,Chase,Chase
+1328476,T20,Nepal,Nepal,,160,Win,2,,Chase,Chase
+1328850,T20,Kuwait,Kuwait,,177,Win,2,,Chase,Chase
+1328852,T20,Hong Kong,Hong Kong,,153,Win,2,,Chase,Chase
+1328853,T20,Kuwait,Kuwait,,105,Win,2,,Chase,Chase
+1328854,T20,Hong Kong,Hong Kong,,149,Win,2,,Chase,Chase
+1332496,T20,Uganda,Uganda,,107,Win,2,,Chase,Chase
+1332497,T20,Tanzania,Tanzania,,159,Win,2,,Chase,Chase
+1332501,T20,Uganda,Uganda,,135,Win,2,,Chase,Chase
+1332506,T20,Kenya,Kenya,,50,Win,2,,Chase,Chase
+1332508,T20,Uganda,Uganda,,107,Win,2,,Chase,Chase
+1332509,T20,Tanzania,Tanzania,,149,Win,2,,Chase,Chase
+1332510,T20,Uganda,Uganda,,175,Win,2,,Chase,Chase
+1333920,T20,Fiji,Fiji,,143,Win,2,,Chase,Chase
+1333921,T20,Vanuatu,Vanuatu,,123,Win,2,,Chase,Chase
+1333922,T20,Cook Islands,Cook Islands,,128,Win,2,,Chase,Chase
+1333923,T20,Fiji,Fiji,,145,Win,2,,Chase,Chase
+1333924,T20,Cook Islands,Cook Islands,,158,Win,2,,Chase,Chase
+1333926,T20,Vanuatu,Vanuatu,,122,Win,2,,Chase,Chase
+1333927,T20,Cook Islands,Cook Islands,,150,Win,2,,Chase,Chase
+1333932,T20,Indonesia,Indonesia,,82,Win,2,,Chase,Chase
+1336048,T20,England,England,,143,Win,2,,Chase,Chase
+1336051,T20,New Zealand,New Zealand,,179,Win,2,,Chase,Chase
+1336953,T20,Japan,Japan,,84,Win,2,,Chase,Chase
+1336955,T20,Indonesia,Indonesia,,104,Win,2,,Chase,Chase
+1336956,T20,Indonesia,Indonesia,,99,Win,2,,Chase,Chase
+1339205,T20,Germany,Germany,,109,Win,2,,Chase,Chase
+1339206,T20,Germany,Germany,,149,Win,2,,Chase,Chase
+1339207,T20,Spain,Spain,,165,Win,2,,Chase,Chase
+1339604,T20,West Indies,West Indies,,132,Win,2,,Chase,Chase
+1339605,T20,South Africa,South Africa,,259,Win,2,,Chase,Chase
+1339618,T20,New Zealand,New Zealand,,194,Win,2,,Chase,Chase
+1343740,T20,Rwanda,Rwanda,,108,Win,2,,Chase,Chase
+1343745,T20,Botswana,Botswana,,97,Win,2,,Chase,Chase
+1343749,T20,Kenya,Kenya,,34,Win,2,,Chase,Chase
+1343750,T20,Kenya,Kenya,,90,Win,2,,Chase,Chase
+1343756,T20,Botswana,Botswana,,38,Win,2,,Chase,Chase
+1343760,T20,Malawi,Malawi,,39,Win,2,,Chase,Chase
+1343762,T20,Kenya,Kenya,,122,Win,2,,Chase,Chase
+1343763,T20,Rwanda,Rwanda,,34,Win,2,,Chase,Chase
+1343770,T20,Nigeria,Nigeria,,87,Win,2,,Chase,Chase
+1343771,T20,Eswatini,Eswatini,,123,Win,2,,Chase,Chase
+1343772,T20,Nigeria,Nigeria,,63,Win,2,,Chase,Chase
+1343773,T20,Mozambique,Mozambique,,115,Win,2,,Chase,Chase
+1343774,T20,Sierra Leone,Sierra Leone,,150,Win,2,,Chase,Chase
+1343775,T20,Mozambique,Mozambique,,151,Win,2,,Chase,Chase
+1343776,T20,Mozambique,Mozambique,,98,Win,2,,Chase,Chase
+1343778,T20,Tanzania,Tanzania,,122,Win,2,,Chase,Chase
+1343780,T20,Tanzania,Tanzania,,82,Win,2,,Chase,Chase
+1343785,T20,Sierra Leone,Sierra Leone,,84,Win,2,,Chase,Chase
+1343786,T20,Tanzania,Tanzania,,61,Win,2,,Chase,Chase
+1343794,T20,Nigeria,Nigeria,,131,Win,2,,Chase,Chase
+1344782,T20,Oman,Oman,,90,Win,2,,Chase,Chase
+1344783,T20,Canada,Canada,,199,Win,2,,Chase,Chase
+1344785,T20,Bahrain,Bahrain,,139,Win,2,,Chase,Chase
+1344788,T20,Oman,Oman,,118,Win,2,,Chase,Chase
+1344789,T20,Bahrain,Bahrain,,164,Win,2,,Chase,Chase
+1344792,T20,Canada,Canada,,170,Win,2,,Chase,Chase
+1344793,T20,Saudi Arabia,Saudi Arabia,,115,Win,2,,Chase,Chase
+1344795,T20,Canada,Canada,,139,Win,2,,Chase,Chase
+1348323,T20,Zimbabwe,Zimbabwe,,118,Win,2,,Chase,Chase
+1348324,T20,Ireland,Ireland,,150,Win,2,,Chase,Chase
+1348325,T20,Zimbabwe,Zimbabwe,,144,Win,2,,Chase,Chase
+1348650,T20,India,India,,101,Win,2,,Chase,Chase
+1349131,T20,Tanzania,Tanzania,,131,Win,2,,Chase,Chase
+1349133,T20,Tanzania,Tanzania,,123,Win,2,,Chase,Chase
+1349134,T20,Tanzania,Tanzania,,137,Win,2,,Chase,Chase
+1349137,T20,Uganda,Uganda,,68,Win,2,,Chase,Chase
+1349379,T20,Qatar,Qatar,,134,Win,2,,Chase,Chase
+1349380,T20,Malaysia,Malaysia,,127,Win,2,,Chase,Chase
+1349384,T20,Qatar,Qatar,,141,Win,2,,Chase,Chase
+1349385,T20,Malaysia,Malaysia,,182,Win,2,,Chase,Chase
+1349386,T20,Bahrain,Bahrain,,172,Win,2,,Chase,Chase
+1349390,T20,Qatar,Qatar,,165,Win,2,,Chase,Chase
+1349391,T20,Bahrain,Bahrain,,156,Win,2,,Chase,Chase
+1351400,T20,Bangladesh,Bangladesh,,158,Win,2,,Chase,Chase
+1351401,T20,Bangladesh,Bangladesh,,120,Win,2,,Chase,Chase
+1354800,T20,Spain,Spain,,70,Win,2,,Chase,Chase
+1354801,T20,Spain,Spain,,120,Win,2,,Chase,Chase
+1354802,T20,Spain,Spain,,135,Win,2,,Chase,Chase
+1354803,T20,Spain,Spain,,13,Win,2,,Chase,Chase
+1355722,T20,Ireland,Ireland,,126,Win,2,,Chase,Chase
+1357694,T20,Afghanistan,Afghanistan,,146,Win,2,,Chase,Chase
+1357695,T20,United Arab Emirates,United Arab Emirates,,138,Win,2,,Chase,Chase
+1357696,T20,Afghanistan,Afghanistan,,166,Win,2,,Chase,Chase
+1359475,IPL,GT,GT,,182,Win,2,,Chase,Chase
+1359479,IPL,RCB,RCB,,172,Win,2,,Chase,Chase
+1359481,IPL,GT,GT,,163,Win,2,,Chase,Chase
+1359484,IPL,LSG,LSG,,127,Win,2,,Chase,Chase
+1359486,IPL,CSK,CSK,,159,Win,2,,Chase,Chase
+1359487,IPL,KKR,KKR,,207,Win,2,,Chase,Chase
+1359488,IPL,SRH,SRH,,145,Win,2,,Chase,Chase
+1359489,IPL,LSG,LSG,,213,Win,2,,Chase,Chase
+1359490,IPL,MI,MI,,173,Win,2,,Chase,Chase
+1359492,IPL,GT,GT,,154,Win,2,,Chase,Chase
+1359495,IPL,PBKS,PBKS,,161,Win,2,,Chase,Chase
+1359496,IPL,MI,MI,,186,Win,2,,Chase,Chase
+1359497,IPL,RR,RR,,179,Win,2,,Chase,Chase
+1359502,IPL,DC,DC,,128,Win,2,,Chase,Chase
+1359503,IPL,CSK,CSK,,138,Win,2,,Chase,Chase
+1359513,IPL,GT,GT,,180,Win,2,,Chase,Chase
+1359515,IPL,PBKS,PBKS,,201,Win,2,,Chase,Chase
+1359516,IPL,MI,MI,,214,Win,2,,Chase,Chase
+1359520,IPL,MI,MI,,216,Win,2,,Chase,Chase
+1359522,IPL,GT,GT,,119,Win,2,,Chase,Chase
+1359523,IPL,CSK,CSK,,140,Win,2,,Chase,Chase
+1359524,IPL,DC,DC,,187,Win,2,,Chase,Chase
+1359526,IPL,SRH,SRH,,217,Win,2,,Chase,Chase
+1359527,IPL,KKR,KKR,,182,Win,2,,Chase,Chase
+1359528,IPL,MI,MI,,200,Win,2,,Chase,Chase
+1359530,IPL,RR,RR,,151,Win,2,,Chase,Chase
+1359532,IPL,LSG,LSG,,185,Win,2,,Chase,Chase
+1359535,IPL,KKR,KKR,,147,Win,2,,Chase,Chase
+1359539,IPL,RCB,RCB,,187,Win,2,,Chase,Chase
+1359540,IPL,RR,RR,,189,Win,2,,Chase,Chase
+1359543,IPL,MI,MI,,201,Win,2,,Chase,Chase
+1359544,IPL,GT,GT,,198,Win,2,,Chase,Chase
+1359786,T20,Bermuda,Bermuda,,78,Win,2,,Chase,Chase
+1359792,T20,Bahamas,Bahamas,,105,Win,2,,Chase,Chase
+1359800,T20,Bermuda,Bermuda,,74,Win,2,,Chase,Chase
+1359802,T20,Cayman Islands,Cayman Islands,,126,Win,2,,Chase,Chase
+1361770,T20,Malaysia,Malaysia,,163,Win,2,,Chase,Chase
+1361774,T20,Bahrain,Bahrain,,159,Win,2,,Chase,Chase
+1361775,T20,Hong Kong,Hong Kong,,98,Win,2,,Chase,Chase
+1361776,T20,Kuwait,Kuwait,,136,Win,2,,Chase,Chase
+1362815,T20,Afghanistan,Afghanistan,,98,Win,2,,Chase,Chase
+1362816,T20,Afghanistan,Afghanistan,,133,Win,2,,Chase,Chase
+1367723,T20,Portugal,Portugal,,167,Win,2,,Chase,Chase
+1367724,T20,Portugal,Portugal,,129,Win,2,,Chase,Chase
+1367725,T20,Portugal,Portugal,,174,Win,2,,Chase,Chase
+1367728,T20,Portugal,Portugal,,93,Win,2,,Chase,Chase
+1367732,T20,Portugal,Portugal,,129,Win,2,,Chase,Chase
+1367733,T20,Portugal,Portugal,,157,Win,2,,Chase,Chase
+1370782,T20,Denmark,Denmark,,100,Win,2,,Chase,Chase
+1370785,T20,Sweden,Sweden,,110,Win,2,,Chase,Chase
+1370787,T20,Denmark,Denmark,,94,Win,2,,Chase,Chase
+1370790,T20,Norway,Norway,,106,Win,2,,Chase,Chase
+1370791,T20,Finland,Finland,,96,Win,2,,Chase,Chase
+1373569,T20,Australia,Australia,,168,Win,2,,Chase,Chase
+1373570,T20,Australia,Australia,,191,Win,2,,Chase,Chase
+1373579,T20,West Indies,West Indies,,172,Win,2,,Chase,Chase
+1373581,T20,England,England,,226,Win,2,,Chase,Chase
+1373583,T20,West Indies,West Indies,,133,Win,2,,Chase,Chase
+1377015,T20,Bangladesh,Bangladesh,,157,Win,2,,Chase,Chase
+1377016,T20,Bangladesh,Bangladesh,,119,Win,2,,Chase,Chase
+1377728,T20,United Arab Emirates,United Arab Emirates,,144,Win,2,,Chase,Chase
+1379575,T20,Uganda,Uganda,,65,Win,2,,Chase,Chase
+1379576,T20,Kenya,Kenya,,100,Win,2,,Chase,Chase
+1379578,T20,Uganda,Uganda,,82,Win,2,,Chase,Chase
+1379579,T20,Rwanda,Rwanda,,99,Win,2,,Chase,Chase
+1379580,T20,Kenya,Kenya,,98,Win,2,,Chase,Chase
+1379581,T20,Uganda,Uganda,,120,Win,2,,Chase,Chase
+1379582,T20,Kenya,Kenya,,98,Win,2,,Chase,Chase
+1379584,T20,Uganda,Uganda,,87,Win,2,,Chase,Chase
+1379585,T20,Kenya,Kenya,,133,Win,2,,Chase,Chase
+1380583,T20,Germany,Germany,,167,Win,2,,Chase,Chase
+1380584,T20,Germany,Germany,,150,Win,2,,Chase,Chase
+1380587,T20,Czech Republic,Czech Republic,,139,Win,2,,Chase,Chase
+1381218,T20,West Indies,West Indies,,155,Win,2,,Chase,Chase
+1381219,T20,India,India,,164,Win,2,,Chase,Chase
+1381220,T20,India,India,,179,Win,2,,Chase,Chase
+1381221,T20,West Indies,West Indies,,171,Win,2,,Chase,Chase
+1381451,T20,Germany,Germany,,115,Win,2,,Chase,Chase
+1381452,T20,Germany,Germany,,123,Win,2,,Chase,Chase
+1381454,T20,Bulgaria,Bulgaria,,76,Win,2,,Chase,Chase
+1381455,T20,Serbia,Serbia,,168,Win,2,,Chase,Chase
+1381456,T20,Turkey,Turkey,,88,Win,2,,Chase,Chase
+1381457,T20,Serbia,Serbia,,77,Win,2,,Chase,Chase
+1381458,T20,Bulgaria,Bulgaria,,149,Win,2,,Chase,Chase
+1383068,T20,Jersey,Jersey,,106,Win,2,,Chase,Chase
+1383071,T20,Ireland,Ireland,,123,Win,2,,Chase,Chase
+1383072,T20,Germany,Germany,,86,Win,2,,Chase,Chase
+1383076,T20,Germany,Germany,,126,Win,2,,Chase,Chase
+1383078,T20,Denmark,Denmark,,98,Win,2,,Chase,Chase
+1383079,T20,Ireland,Ireland,,80,Win,2,,Chase,Chase
+1383086,T20,Italy,Italy,,147,Win,2,,Chase,Chase
+1383090,T20,Papua New Guinea,Papua New Guinea,,75,Win,2,,Chase,Chase
+1383093,T20,Philippines,Philippines,,98,Win,2,,Chase,Chase
+1383094,T20,Papua New Guinea,Papua New Guinea,,92,Win,2,,Chase,Chase
+1383097,T20,Vanuatu,Vanuatu,,137,Win,2,,Chase,Chase
+1383099,T20,Vanuatu,Vanuatu,,98,Win,2,,Chase,Chase
+1383100,T20,Papua New Guinea,Papua New Guinea,,109,Win,2,,Chase,Chase
+1383101,T20,Malaysia,Malaysia,,24,Win,2,,Chase,Chase
+1383103,T20,Thailand,Thailand,,27,Win,2,,Chase,Chase
+1383108,T20,Thailand,Thailand,,84,Win,2,,Chase,Chase
+1383109,T20,China,China,,78,Win,2,,Chase,Chase
+1383110,T20,Malaysia,Malaysia,,96,Win,2,,Chase,Chase
+1384586,T20,Luxembourg,Luxembourg,,164,Win,2,,Chase,Chase
+1384587,T20,France,France,,113,Win,2,,Chase,Chase
+1384589,T20,Malta,Malta,,175,Win,2,,Chase,Chase
+1384590,T20,Switzerland,Switzerland,,139,Win,2,,Chase,Chase
+1384592,T20,Switzerland,Switzerland,,119,Win,2,,Chase,Chase
+1384594,T20,Switzerland,Switzerland,,151,Win,2,,Chase,Chase
+1384595,T20,Luxembourg,Luxembourg,,163,Win,2,,Chase,Chase
+1384596,T20,Switzerland,Switzerland,,157,Win,2,,Chase,Chase
+1384597,T20,Luxembourg,Luxembourg,,191,Win,2,,Chase,Chase
+1384598,T20,Malta,Malta,,82,Win,2,,Chase,Chase
+1384599,T20,Romania,Romania,,151,Win,2,,Chase,Chase
+1384600,T20,Switzerland,Switzerland,,166,Win,2,,Chase,Chase
+1387243,T20,Germany,Germany,,100,Win,2,,Chase,Chase
+1387244,T20,Guernsey,Guernsey,,165,Win,2,,Chase,Chase
+1388213,T20,Bangladesh,Bangladesh,,137,Win,2,,Chase,Chase
+1388219,T20,New Zealand,New Zealand,,159,Win,2,,Chase,Chase
+1388223,T20,Australia,Australia,,216,Win,2,,Chase,Chase
+1389391,T20,India,India,,209,Win,2,,Chase,Chase
+1389393,T20,Australia,Australia,,225,Win,2,,Chase,Chase
+1389396,T20,India,India,,159,Win,2,,Chase,Chase
+1389397,T20,India,India,,173,Win,2,,Chase,Chase
+1389398,T20,Afghanistan,Afghanistan,,212,Win,2,,Chase,Chase
+1390169,T20,Hungary,Hungary,,68,Win,2,,Chase,Chase
+1391332,T20,Malta,Malta,,163,Win,2,,Chase,Chase
+1391333,T20,Malta,Malta,,151,Win,2,,Chase,Chase
+1391335,T20,Romania,Romania,,116,Win,2,,Chase,Chase
+1391336,T20,Romania,Romania,,159,Win,2,,Chase,Chase
+1391338,T20,Gibraltar,Gibraltar,,151,Win,2,,Chase,Chase
+1391339,T20,Estonia,Estonia,,160,Win,2,,Chase,Chase
+1392802,T20,Kuwait,Kuwait,,143,Win,2,,Chase,Chase
+1392805,T20,Kuwait,Kuwait,,127,Win,2,,Chase,Chase
+1392809,T20,Bahrain,Bahrain,,114,Win,2,,Chase,Chase
+1393310,T20,Uganda,Uganda,,146,Win,2,,Chase,Chase
+1393311,T20,Tanzania,Tanzania,,180,Win,2,,Chase,Chase
+1393315,T20,Tanzania,Tanzania,,134,Win,2,,Chase,Chase
+1393316,T20,Uganda,Uganda,,127,Win,2,,Chase,Chase
+1393318,T20,Uganda,Uganda,,114,Win,2,,Chase,Chase
+1393320,T20,Uganda,Uganda,,133,Win,2,,Chase,Chase
+1393328,T20,Tanzania,Tanzania,,155,Win,2,,Chase,Chase
+1397439,T20,Oman,Oman,,164,Win,2,,Chase,Chase
+1398299,T20,Papua New Guinea,Papua New Guinea,,82,Win,2,,Chase,Chase
+1398300,T20,Papua New Guinea,Papua New Guinea,,90,Win,2,,Chase,Chase
+1399117,T20,India,India,,97,Win,2,,Chase,Chase
+1399118,T20,Afghanistan,Afghanistan,,116,Win,2,,Chase,Chase
+1399119,T20,Bangladesh,Bangladesh,,65,Win,2,,Chase,Chase
+1399138,T20,Kuwait,Kuwait,,124,Win,2,,Chase,Chase
+1399140,T20,Kuwait,Kuwait,,103,Win,2,,Chase,Chase
+1399142,T20,Qatar,Qatar,,125,Win,2,,Chase,Chase
+1399143,T20,Saudi Arabia,Saudi Arabia,,175,Win,2,,Chase,Chase
+1399144,T20,Kuwait,Kuwait,,130,Win,2,,Chase,Chase
+1399145,T20,Saudi Arabia,Saudi Arabia,,78,Win,2,,Chase,Chase
+1399146,T20,Kuwait,Kuwait,,84,Win,2,,Chase,Chase
+1399149,T20,Kuwait,Kuwait,,175,Win,2,,Chase,Chase
+1399151,T20,Cayman Islands,Cayman Islands,,88,Win,2,,Chase,Chase
+1399152,T20,Bermuda,Bermuda,,91,Win,2,,Chase,Chase
+1399157,T20,Bermuda,Bermuda,,89,Win,2,,Chase,Chase
+1400053,T20,Gibraltar,Gibraltar,,108,Win,2,,Chase,Chase
+1400054,T20,Gibraltar,Gibraltar,,83,Win,2,,Chase,Chase
+1400973,T20,Ghana,Ghana,,96,Win,2,,Chase,Chase
+1400975,T20,Ghana,Ghana,,121,Win,2,,Chase,Chase
+1400978,T20,Nigeria,Nigeria,,101,Win,2,,Chase,Chase
+1400980,T20,Nigeria,Nigeria,,50,Win,2,,Chase,Chase
+1400984,T20,Nigeria,Nigeria,,110,Win,2,,Chase,Chase
+1400985,T20,Rwanda,Rwanda,,78,Win,2,,Chase,Chase
+1400986,T20,Rwanda,Rwanda,,58,Win,2,,Chase,Chase
+1400988,T20,Nigeria,Nigeria,,27,Win,2,,Chase,Chase
+1400990,T20,Sierra Leone,Sierra Leone,,73,Win,2,,Chase,Chase
+1403288,T20,Nepal,Nepal,,144,Win,2,,Chase,Chase
+1403289,T20,Nepal,Nepal,,99,Win,2,,Chase,Chase
+1403291,T20,United Arab Emirates,United Arab Emirates,,153,Win,2,,Chase,Chase
+1403292,T20,Nepal,Nepal,,165,Win,2,,Chase,Chase
+1403294,T20,United Arab Emirates,United Arab Emirates,,167,Win,2,,Chase,Chase
+1403297,T20,Mexico,Mexico,,74,Win,2,,Chase,Chase
+1403301,T20,Argentina,Argentina,,125,Win,2,,Chase,Chase
+1403305,T20,Argentina,Argentina,,53,Win,2,,Chase,Chase
+1404390,T20,Namibia,Namibia,,122,Win,2,,Chase,Chase
+1404391,T20,Zimbabwe,Zimbabwe,,200,Win,2,,Chase,Chase
+1404392,T20,Zimbabwe,Zimbabwe,,144,Win,2,,Chase,Chase
+1404393,T20,Namibia,Namibia,,154,Win,2,,Chase,Chase
+1405313,T20,United Arab Emirates,United Arab Emirates,,137,Win,2,,Chase,Chase
+1405314,T20,Nepal,Nepal,,147,Win,2,,Chase,Chase
+1405319,T20,Nepal,Nepal,,166,Win,2,,Chase,Chase
+1405320,T20,United Arab Emirates,United Arab Emirates,,94,Win,2,,Chase,Chase
+1405324,T20,Kuwait,Kuwait,,160,Win,2,,Chase,Chase
+1405325,T20,Oman,Oman,,109,Win,2,,Chase,Chase
+1405326,T20,Nepal,Nepal,,135,Win,2,,Chase,Chase
+1407090,T20,Uganda,Uganda,,105,Win,2,,Chase,Chase
+1407091,T20,Namibia,Namibia,,134,Win,2,,Chase,Chase
+1407092,T20,Kenya,Kenya,,124,Win,2,,Chase,Chase
+1407093,T20,Zimbabwe,Zimbabwe,,98,Win,2,,Chase,Chase
+1407095,T20,Namibia,Namibia,,116,Win,2,,Chase,Chase
+1407098,T20,Nigeria,Nigeria,,140,Win,2,,Chase,Chase
+1407099,T20,Uganda,Uganda,,138,Win,2,,Chase,Chase
+1407100,T20,Uganda,Uganda,,100,Win,2,,Chase,Chase
+1407102,T20,Namibia,Namibia,,106,Win,2,,Chase,Chase
+1407104,T20,Zimbabwe,Zimbabwe,,111,Win,2,,Chase,Chase
+1407108,T20,Uganda,Uganda,,66,Win,2,,Chase,Chase
+1407109,T20,Namibia,Namibia,,96,Win,2,,Chase,Chase
+1407714,T20,Indonesia,Indonesia,,136,Win,2,,Chase,Chase
+1407715,T20,Indonesia,Indonesia,,139,Win,2,,Chase,Chase
+1407716,T20,Cambodia,Cambodia,,157,Win,2,,Chase,Chase
+1407718,T20,Cambodia,Cambodia,,148,Win,2,,Chase,Chase
+1408103,T20,Zimbabwe,Zimbabwe,,148,Win,2,,Chase,Chase
+1408104,T20,Ireland,Ireland,,166,Win,2,,Chase,Chase
+1408105,T20,Ireland,Ireland,,141,Win,2,,Chase,Chase
+1412531,T20,Indonesia,Indonesia,,107,Win,2,,Chase,Chase
+1412533,T20,Philippines,Philippines,,123,Win,2,,Chase,Chase
+1412534,T20,Indonesia,Indonesia,,137,Win,2,,Chase,Chase
+1412535,T20,Philippines,Philippines,,124,Win,2,,Chase,Chase
+1412542,T20,Sri Lanka,Sri Lanka,,144,Win,2,,Chase,Chase
+1412543,T20,Zimbabwe,Zimbabwe,,178,Win,2,,Chase,Chase
+1412544,T20,Sri Lanka,Sri Lanka,,88,Win,2,,Chase,Chase
+1412551,T20,Afghanistan,Afghanistan,,128,Win,2,,Chase,Chase
+1418176,T20,Cambodia,Cambodia,,74,Win,2,,Chase,Chase
+1418184,T20,Saudi Arabia,Saudi Arabia,,93,Win,2,,Chase,Chase
+1418185,T20,Cambodia,Cambodia,,132,Win,2,,Chase,Chase
+1418186,T20,Thailand,Thailand,,116,Win,2,,Chase,Chase
+1418191,T20,Thailand,Thailand,,128,Win,2,,Chase,Chase
+1418192,T20,Thailand,Thailand,,132,Win,2,,Chase,Chase
+1418194,T20,Saudi Arabia,Saudi Arabia,,98,Win,2,,Chase,Chase
+1418195,T20,Cambodia,Cambodia,,113,Win,2,,Chase,Chase
+1418196,T20,Singapore,Singapore,,216,Win,2,,Chase,Chase
+1418197,T20,Saudi Arabia,Saudi Arabia,,151,Win,2,,Chase,Chase
+1418540,T20,Hong Kong,Hong Kong,,184,Win,2,,Chase,Chase
+1418543,T20,Hong Kong,Hong Kong,,42,Win,2,,Chase,Chase
+1419825,T20,Bangladesh,Bangladesh,,170,Win,2,,Chase,Chase
+1420801,T20,Thailand,Thailand,,72,Win,2,,Chase,Chase
+1420803,T20,Saudi Arabia,Saudi Arabia,,115,Win,2,,Chase,Chase
+1420804,T20,Maldives,Maldives,,119,Win,2,,Chase,Chase
+1420805,T20,Thailand,Thailand,,109,Win,2,,Chase,Chase
+1420807,T20,Saudi Arabia,Saudi Arabia,,108,Win,2,,Chase,Chase
+1420808,T20,Bhutan,Bhutan,,141,Win,2,,Chase,Chase
+1421078,T20,United Arab Emirates,United Arab Emirates,,149,Win,2,,Chase,Chase
+1422041,T20,Nepal,Nepal,,121,Win,2,,Chase,Chase
+1422043,T20,Netherlands,Netherlands,,189,Win,2,,Chase,Chase
+1422803,T20,Qatar,Qatar,,200,Win,2,,Chase,Chase
+1422804,T20,Hong Kong,Hong Kong,,125,Win,2,,Chase,Chase
+1422809,T20,Kuwait,Kuwait,,103,Win,2,,Chase,Chase
+1422811,T20,Bahrain,Bahrain,,112,Win,2,,Chase,Chase
+1422812,T20,Kuwait,Kuwait,,105,Win,2,,Chase,Chase
+1422813,T20,Malaysia,Malaysia,,88,Win,2,,Chase,Chase
+1422816,T20,Malaysia,Malaysia,,86,Win,2,,Chase,Chase
+1422817,T20,Kuwait,Kuwait,,109,Win,2,,Chase,Chase
+1422818,T20,Bahrain,Bahrain,,82,Win,2,,Chase,Chase
+1423372,T20,Oman,Oman,,137,Win,2,,Chase,Chase
+1423373,T20,Papua New Guinea,Papua New Guinea,,148,Win,2,,Chase,Chase
+1423374,T20,Oman,Oman,,128,Win,2,,Chase,Chase
+1423442,T20,Papua New Guinea,Papua New Guinea,,124,Win,2,,Chase,Chase
+1233975,T20,Australia,,Australia,142,Lose,1,Defend,,Defend
+1239542,T20,Pakistan,,Pakistan,154,Lose,1,Defend,,Defend
+1243020,T20,Pakistan,,Pakistan,144,Lose,1,Defend,,Defend
+1243021,T20,South Africa,,South Africa,164,Lose,1,Defend,,Defend
+1243388,T20,India,,India,124,Lose,1,Defend,,Defend
+1243389,T20,England,,England,164,Lose,1,Defend,,Defend
+1243390,T20,India,,India,156,Lose,1,Defend,,Defend
+1249206,T20,Sri Lanka,,Sri Lanka,129,Lose,1,Defend,,Defend
+1251575,T20,South Africa,,South Africa,188,Lose,1,Defend,,Defend
+1251576,T20,Pakistan,,Pakistan,140,Lose,1,Defend,,Defend
+1251577,T20,South Africa,,South Africa,203,Lose,1,Defend,,Defend
+1251578,T20,South Africa,,South Africa,144,Lose,1,Defend,,Defend
+1252066,T20,Sri Lanka,,Sri Lanka,131,Lose,1,Defend,,Defend
+1252068,T20,Sri Lanka,,Sri Lanka,131,Lose,1,Defend,,Defend
+1254058,IPL,MI,,MI,159,Lose,1,Defend,,Defend
+1254059,IPL,CSK,,CSK,188,Lose,1,Defend,,Defend
+1254064,IPL,DC,,DC,147,Lose,1,Defend,,Defend
+1254065,IPL,PBKS,,PBKS,106,Lose,1,Defend,,Defend
+1254068,IPL,PBKS,,PBKS,195,Lose,1,Defend,,Defend
+1254070,IPL,MI,,MI,137,Lose,1,Defend,,Defend
+1254071,IPL,PBKS,,PBKS,120,Lose,1,Defend,,Defend
+1254073,IPL,RR,,RR,177,Lose,1,Defend,,Defend
+1254074,IPL,MI,,MI,131,Lose,1,Defend,,Defend
+1254075,IPL,KKR,,KKR,133,Lose,1,Defend,,Defend
+1254078,IPL,PBKS,,PBKS,123,Lose,1,Defend,,Defend
+1254080,IPL,SRH,,SRH,171,Lose,1,Defend,,Defend
+1254081,IPL,RR,,RR,171,Lose,1,Defend,,Defend
+1254082,IPL,KKR,,KKR,154,Lose,1,Defend,,Defend
+1254084,IPL,CSK,,CSK,218,Lose,1,Defend,,Defend
+1254086,IPL,PBKS,,PBKS,166,Lose,1,Defend,,Defend
+1254087,IPL,RCB,,RCB,92,Lose,1,Defend,,Defend
+1254089,IPL,CSK,,CSK,189,Lose,1,Defend,,Defend
+1254091,IPL,SRH,,SRH,134,Lose,1,Defend,,Defend
+1254092,IPL,DC,,DC,127,Lose,1,Defend,,Defend
+1254093,IPL,RR,,RR,90,Lose,1,Defend,,Defend
+1254094,IPL,CSK,,CSK,134,Lose,1,Defend,,Defend
+1254096,IPL,MI,,MI,155,Lose,1,Defend,,Defend
+1254098,IPL,KKR,,KKR,171,Lose,1,Defend,,Defend
+1254099,IPL,PBKS,,PBKS,135,Lose,1,Defend,,Defend
+1254100,IPL,RR,,RR,164,Lose,1,Defend,,Defend
+1254101,IPL,DC,,DC,164,Lose,1,Defend,,Defend
+1254102,IPL,KKR,,KKR,165,Lose,1,Defend,,Defend
+1254103,IPL,RR,,RR,149,Lose,1,Defend,,Defend
+1254105,IPL,SRH,,SRH,134,Lose,1,Defend,,Defend
+1254109,IPL,SRH,,SRH,115,Lose,1,Defend,,Defend
+1254110,IPL,CSK,,CSK,136,Lose,1,Defend,,Defend
+1254112,IPL,MI,,MI,129,Lose,1,Defend,,Defend
+1254113,IPL,RCB,,RCB,156,Lose,1,Defend,,Defend
+1254114,IPL,DC,,DC,172,Lose,1,Defend,,Defend
+1254115,IPL,RCB,,RCB,138,Lose,1,Defend,,Defend
+1254116,IPL,DC,,DC,135,Lose,1,Defend,,Defend
+1256720,T20,England,,England,103,Lose,1,Defend,,Defend
+1257404,T20,Uganda,,Uganda,134,Lose,1,Defend,,Defend
+1257945,T20,Netherlands,,Netherlands,136,Lose,1,Defend,,Defend
+1257947,T20,Malaysia,,Malaysia,109,Lose,1,Defend,,Defend
+1257948,T20,Nepal,,Nepal,206,Lose,1,Defend,,Defend
+1262759,T20,India,,India,132,Lose,1,Defend,,Defend
+1262760,T20,India,,India,81,Lose,1,Defend,,Defend
+1263151,T20,South Africa,,South Africa,160,Lose,1,Defend,,Defend
+1263158,T20,Australia,,Australia,141,Lose,1,Defend,,Defend
+1263473,T20,Sri Lanka,,Sri Lanka,121,Lose,1,Defend,,Defend
+1263474,T20,Sri Lanka,,Sri Lanka,139,Lose,1,Defend,,Defend
+1263475,T20,Australia,,Australia,154,Lose,1,Defend,,Defend
+1263708,T20,Luxembourg,,Luxembourg,126,Lose,1,Defend,,Defend
+1263711,T20,Czech Republic,,Czech Republic,161,Lose,1,Defend,,Defend
+1263712,T20,Austria,,Austria,179,Lose,1,Defend,,Defend
+1263713,T20,Czech Republic,,Czech Republic,156,Lose,1,Defend,,Defend
+1267304,T20,Greece,,Greece,157,Lose,1,Defend,,Defend
+1267306,T20,Serbia,,Serbia,144,Lose,1,Defend,,Defend
+1267307,T20,Bulgaria,,Bulgaria,157,Lose,1,Defend,,Defend
+1267310,T20,Serbia,,Serbia,115,Lose,1,Defend,,Defend
+1267680,T20,Zimbabwe,,Zimbabwe,152,Lose,1,Defend,,Defend
+1267682,T20,Zimbabwe,,Zimbabwe,193,Lose,1,Defend,,Defend
+1268188,T20,Belgium,,Belgium,99,Lose,1,Defend,,Defend
+1268189,T20,Malta,,Malta,50,Lose,1,Defend,,Defend
+1268190,T20,Malta,,Malta,114,Lose,1,Defend,,Defend
+1270835,T20,Australia,,Australia,121,Lose,1,Defend,,Defend
+1270837,T20,Bangladesh,,Bangladesh,104,Lose,1,Defend,,Defend
+1271445,T20,Norway,,Norway,76,Lose,1,Defend,,Defend
+1271446,T20,Norway,,Norway,112,Lose,1,Defend,,Defend
+1271447,T20,France,,France,94,Lose,1,Defend,,Defend
+1271631,T20,Sri Lanka,,Sri Lanka,103,Lose,1,Defend,,Defend
+1271632,T20,Sri Lanka,,Sri Lanka,120,Lose,1,Defend,,Defend
+1272093,T20,New Zealand,,New Zealand,60,Lose,1,Defend,,Defend
+1272096,T20,New Zealand,,New Zealand,93,Lose,1,Defend,,Defend
+1272374,T20,Zimbabwe,,Zimbabwe,152,Lose,1,Defend,,Defend
+1273133,T20,Denmark,,Denmark,135,Lose,1,Defend,,Defend
+1273134,T20,Sweden,,Sweden,122,Lose,1,Defend,,Defend
+1273136,T20,Gibraltar,,Gibraltar,148,Lose,1,Defend,,Defend
+1273141,T20,Ghana,,Ghana,164,Lose,1,Defend,,Defend
+1273145,T20,Rwanda,,Rwanda,147,Lose,1,Defend,,Defend
+1273146,T20,Sweden,,Sweden,135,Lose,1,Defend,,Defend
+1273147,T20,Sweden,,Sweden,141,Lose,1,Defend,,Defend
+1273149,T20,Finland,,Finland,145,Lose,1,Defend,,Defend
+1273273,T20,Scotland,,Scotland,177,Lose,1,Defend,,Defend
+1273712,T20,Papua New Guinea,,Papua New Guinea,129,Lose,1,Defend,,Defend
+1273714,T20,Netherlands,,Netherlands,106,Lose,1,Defend,,Defend
+1273715,T20,Namibia,,Namibia,96,Lose,1,Defend,,Defend
+1273718,T20,Netherlands,,Netherlands,164,Lose,1,Defend,,Defend
+1273721,T20,Oman,,Oman,122,Lose,1,Defend,,Defend
+1273722,T20,Ireland,,Ireland,125,Lose,1,Defend,,Defend
+1273723,T20,Netherlands,,Netherlands,44,Lose,1,Defend,,Defend
+1273724,T20,South Africa,,South Africa,118,Lose,1,Defend,,Defend
+1273725,T20,West Indies,,West Indies,55,Lose,1,Defend,,Defend
+1273726,T20,Bangladesh,,Bangladesh,171,Lose,1,Defend,,Defend
+1273727,T20,India,,India,151,Lose,1,Defend,,Defend
+1273729,T20,West Indies,,West Indies,143,Lose,1,Defend,,Defend
+1273730,T20,New Zealand,,New Zealand,134,Lose,1,Defend,,Defend
+1273731,T20,Bangladesh,,Bangladesh,124,Lose,1,Defend,,Defend
+1273732,T20,Scotland,,Scotland,109,Lose,1,Defend,,Defend
+1273733,T20,Sri Lanka,,Sri Lanka,154,Lose,1,Defend,,Defend
+1273735,T20,Afghanistan,,Afghanistan,147,Lose,1,Defend,,Defend
+1273736,T20,Sri Lanka,,Sri Lanka,142,Lose,1,Defend,,Defend
+1273737,T20,Australia,,Australia,125,Lose,1,Defend,,Defend
+1273739,T20,India,,India,110,Lose,1,Defend,,Defend
+1273741,T20,Bangladesh,,Bangladesh,84,Lose,1,Defend,,Defend
+1273745,T20,Bangladesh,,Bangladesh,73,Lose,1,Defend,,Defend
+1273748,T20,Scotland,,Scotland,85,Lose,1,Defend,,Defend
+1273749,T20,West Indies,,West Indies,157,Lose,1,Defend,,Defend
+1273751,T20,Afghanistan,,Afghanistan,124,Lose,1,Defend,,Defend
+1273753,T20,Namibia,,Namibia,132,Lose,1,Defend,,Defend
+1273754,T20,England,,England,166,Lose,1,Defend,,Defend
+1273755,T20,Pakistan,,Pakistan,176,Lose,1,Defend,,Defend
+1273756,T20,New Zealand,,New Zealand,172,Lose,1,Defend,,Defend
+1275039,T20,Nigeria,,Nigeria,107,Lose,1,Defend,,Defend
+1275043,T20,Nigeria,,Nigeria,123,Lose,1,Defend,,Defend
+1275052,T20,Spain,,Spain,128,Lose,1,Defend,,Defend
+1275053,T20,Germany,,Germany,115,Lose,1,Defend,,Defend
+1275054,T20,Germany,,Germany,119,Lose,1,Defend,,Defend
+1275271,T20,Bulgaria,,Bulgaria,112,Lose,1,Defend,,Defend
+1275276,T20,Malta,,Malta,170,Lose,1,Defend,,Defend
+1277974,T20,Bangladesh,,Bangladesh,127,Lose,1,Defend,,Defend
+1277975,T20,Bangladesh,,Bangladesh,108,Lose,1,Defend,,Defend
+1277976,T20,Bangladesh,,Bangladesh,124,Lose,1,Defend,,Defend
+1278671,T20,New Zealand,,New Zealand,164,Lose,1,Defend,,Defend
+1278672,T20,New Zealand,,New Zealand,153,Lose,1,Defend,,Defend
+1278679,T20,West Indies,,West Indies,157,Lose,1,Defend,,Defend
+1278685,T20,Sri Lanka,,Sri Lanka,183,Lose,1,Defend,,Defend
+1278686,T20,Sri Lanka,,Sri Lanka,146,Lose,1,Defend,,Defend
+1278687,T20,India,,India,211,Lose,1,Defend,,Defend
+1278688,T20,India,,India,148,Lose,1,Defend,,Defend
+1279379,T20,Estonia,,Estonia,102,Lose,1,Defend,,Defend
+1279380,T20,Estonia,,Estonia,130,Lose,1,Defend,,Defend
+1279381,T20,Cyprus,,Cyprus,92,Lose,1,Defend,,Defend
+1279382,T20,Estonia,,Estonia,118,Lose,1,Defend,,Defend
+1279383,T20,Cyprus,,Cyprus,149,Lose,1,Defend,,Defend
+1279386,T20,Estonia,,Estonia,71,Lose,1,Defend,,Defend
+1280058,T20,Scotland,,Scotland,137,Lose,1,Defend,,Defend
+1280060,T20,United Arab Emirates,,United Arab Emirates,123,Lose,1,Defend,,Defend
+1280062,T20,Ireland,,Ireland,134,Lose,1,Defend,,Defend
+1280063,T20,Papua New Guinea,,Papua New Guinea,154,Lose,1,Defend,,Defend
+1282273,T20,Gibraltar,,Gibraltar,133,Lose,1,Defend,,Defend
+1282275,T20,Bulgaria,,Bulgaria,81,Lose,1,Defend,,Defend
+1282278,T20,Gibraltar,,Gibraltar,177,Lose,1,Defend,,Defend
+1282739,T20,Denmark,,Denmark,100,Lose,1,Defend,,Defend
+1282740,T20,Denmark,,Denmark,110,Lose,1,Defend,,Defend
+1282743,T20,Italy,,Italy,103,Lose,1,Defend,,Defend
+1282745,T20,Germany,,Germany,85,Lose,1,Defend,,Defend
+1282746,T20,Italy,,Italy,100,Lose,1,Defend,,Defend
+1282749,T20,Denmark,,Denmark,130,Lose,1,Defend,,Defend
+1283021,T20,Rwanda,,Rwanda,153,Lose,1,Defend,,Defend
+1283023,T20,Seychelles,,Seychelles,95,Lose,1,Defend,,Defend
+1283024,T20,Malawi,,Malawi,98,Lose,1,Defend,,Defend
+1283025,T20,Lesotho,,Lesotho,131,Lose,1,Defend,,Defend
+1283026,T20,Swaziland,,Swaziland,97,Lose,1,Defend,,Defend
+1283029,T20,Malawi,,Malawi,95,Lose,1,Defend,,Defend
+1283030,T20,Lesotho,,Lesotho,26,Lose,1,Defend,,Defend
+1283032,T20,Swaziland,,Swaziland,72,Lose,1,Defend,,Defend
+1283034,T20,Swaziland,,Swaziland,74,Lose,1,Defend,,Defend
+1283035,T20,Swaziland,,Swaziland,128,Lose,1,Defend,,Defend
+1283038,T20,Swaziland,,Swaziland,77,Lose,1,Defend,,Defend
+1283045,T20,Sierra Leone,,Sierra Leone,99,Lose,1,Defend,,Defend
+1283046,T20,Cameroon,,Cameroon,51,Lose,1,Defend,,Defend
+1283047,T20,Mozambique,,Mozambique,96,Lose,1,Defend,,Defend
+1283050,T20,Cameroon,,Cameroon,89,Lose,1,Defend,,Defend
+1283089,T20,Nigeria,,Nigeria,99,Lose,1,Defend,,Defend
+1283092,T20,Sierra Leone,,Sierra Leone,84,Lose,1,Defend,,Defend
+1284489,T20,Maldives,,Maldives,98,Lose,1,Defend,,Defend
+1284490,T20,Bahrain,,Bahrain,124,Lose,1,Defend,,Defend
+1284493,T20,Maldives,,Maldives,88,Lose,1,Defend,,Defend
+1284495,T20,Maldives,,Maldives,103,Lose,1,Defend,,Defend
+1284497,T20,Kuwait,,Kuwait,126,Lose,1,Defend,,Defend
+1286667,T20,Belize,,Belize,64,Lose,1,Defend,,Defend
+1286681,T20,Argentina,,Argentina,90,Lose,1,Defend,,Defend
+1286682,T20,Bahamas,,Bahamas,90,Lose,1,Defend,,Defend
+1286683,T20,Belize,,Belize,85,Lose,1,Defend,,Defend
+1286685,T20,Argentina,,Argentina,109,Lose,1,Defend,,Defend
+1287775,T20,West Indies,,West Indies,207,Lose,1,Defend,,Defend
+1288316,T20,Pakistan,,Pakistan,162,Lose,1,Defend,,Defend
+1289042,T20,Nigeria,,Nigeria,114,Lose,1,Defend,,Defend
+1289046,T20,Tanzania,,Tanzania,140,Lose,1,Defend,,Defend
+1289047,T20,Nigeria,,Nigeria,130,Lose,1,Defend,,Defend
+1289048,T20,Tanzania,,Tanzania,101,Lose,1,Defend,,Defend
+1289049,T20,Nigeria,,Nigeria,112,Lose,1,Defend,,Defend
+1289050,T20,Tanzania,,Tanzania,68,Lose,1,Defend,,Defend
+1298136,T20,United Arab Emirates,,United Arab Emirates,111,Lose,1,Defend,,Defend
+1298139,T20,Namibia,,Namibia,121,Lose,1,Defend,,Defend
+1298141,T20,Scotland,,Scotland,176,Lose,1,Defend,,Defend
+1298145,T20,West Indies,,West Indies,146,Lose,1,Defend,,Defend
+1298146,T20,Scotland,,Scotland,132,Lose,1,Defend,,Defend
+1298148,T20,Afghanistan,,Afghanistan,112,Lose,1,Defend,,Defend
+1298149,T20,Ireland,,Ireland,128,Lose,1,Defend,,Defend
+1298150,T20,Pakistan,,Pakistan,159,Lose,1,Defend,,Defend
+1298153,T20,Sri Lanka,,Sri Lanka,157,Lose,1,Defend,,Defend
+1298163,T20,Netherlands,,Netherlands,91,Lose,1,Defend,,Defend
+1298164,T20,India,,India,133,Lose,1,Defend,,Defend
+1298166,T20,Afghanistan,,Afghanistan,144,Lose,1,Defend,,Defend
+1298168,T20,Zimbabwe,,Zimbabwe,117,Lose,1,Defend,,Defend
+1298173,T20,Sri Lanka,,Sri Lanka,141,Lose,1,Defend,,Defend
+1298175,T20,Bangladesh,,Bangladesh,127,Lose,1,Defend,,Defend
+1298177,T20,New Zealand,,New Zealand,152,Lose,1,Defend,,Defend
+1298178,T20,India,,India,168,Lose,1,Defend,,Defend
+1298179,T20,Pakistan,,Pakistan,137,Lose,1,Defend,,Defend
+1299569,T20,Germany,,Germany,106,Lose,1,Defend,,Defend
+1299570,T20,Canada,,Canada,155,Lose,1,Defend,,Defend
+1299574,T20,Germany,,Germany,107,Lose,1,Defend,,Defend
+1299576,T20,Canada,,Canada,80,Lose,1,Defend,,Defend
+1299577,T20,Philippines,,Philippines,36,Lose,1,Defend,,Defend
+1299578,T20,Germany,,Germany,131,Lose,1,Defend,,Defend
+1299582,T20,Bahrain,,Bahrain,131,Lose,1,Defend,,Defend
+1299583,T20,Philippines,,Philippines,109,Lose,1,Defend,,Defend
+1299584,T20,Oman,,Oman,87,Lose,1,Defend,,Defend
+1299585,T20,Ireland,,Ireland,159,Lose,1,Defend,,Defend
+1299593,T20,Oman,,Oman,135,Lose,1,Defend,,Defend
+1299594,T20,Oman,,Oman,137,Lose,1,Defend,,Defend
+1299595,T20,United Arab Emirates,,United Arab Emirates,164,Lose,1,Defend,,Defend
+1299833,T20,Bangladesh,,Bangladesh,115,Lose,1,Defend,,Defend
+1303307,T20,Ireland,,Ireland,108,Lose,1,Defend,,Defend
+1303314,T20,Ireland,,Ireland,174,Lose,1,Defend,,Defend
+1304047,IPL,CSK,,CSK,131,Lose,1,Defend,,Defend
+1304048,IPL,MI,,MI,177,Lose,1,Defend,,Defend
+1304049,IPL,RCB,,RCB,205,Lose,1,Defend,,Defend
+1304050,IPL,LSG,,LSG,158,Lose,1,Defend,,Defend
+1304052,IPL,KKR,,KKR,128,Lose,1,Defend,,Defend
+1304053,IPL,CSK,,CSK,210,Lose,1,Defend,,Defend
+1304054,IPL,PBKS,,PBKS,137,Lose,1,Defend,,Defend
+1304059,IPL,RR,,RR,169,Lose,1,Defend,,Defend
+1304060,IPL,MI,,MI,161,Lose,1,Defend,,Defend
+1304061,IPL,DC,,DC,149,Lose,1,Defend,,Defend
+1304062,IPL,PBKS,,PBKS,189,Lose,1,Defend,,Defend
+1304063,IPL,CSK,,CSK,154,Lose,1,Defend,,Defend
+1304064,IPL,MI,,MI,151,Lose,1,Defend,,Defend
+1304067,IPL,GT,,GT,162,Lose,1,Defend,,Defend
+1304071,IPL,KKR,,KKR,175,Lose,1,Defend,,Defend
+1304074,IPL,PBKS,,PBKS,151,Lose,1,Defend,,Defend
+1304075,IPL,CSK,,CSK,169,Lose,1,Defend,,Defend
+1304078,IPL,PBKS,,PBKS,115,Lose,1,Defend,,Defend
+1304079,IPL,MI,,MI,155,Lose,1,Defend,,Defend
+1304082,IPL,RCB,,RCB,68,Lose,1,Defend,,Defend
+1304086,IPL,SRH,,SRH,195,Lose,1,Defend,,Defend
+1304087,IPL,KKR,,KKR,146,Lose,1,Defend,,Defend
+1304089,IPL,RCB,,RCB,170,Lose,1,Defend,,Defend
+1304090,IPL,RR,,RR,158,Lose,1,Defend,,Defend
+1304093,IPL,RR,,RR,152,Lose,1,Defend,,Defend
+1304094,IPL,GT,,GT,143,Lose,1,Defend,,Defend
+1304098,IPL,PBKS,,PBKS,189,Lose,1,Defend,,Defend
+1304104,IPL,RR,,RR,160,Lose,1,Defend,,Defend
+1304105,IPL,CSK,,CSK,97,Lose,1,Defend,,Defend
+1304108,IPL,CSK,,CSK,133,Lose,1,Defend,,Defend
+1304113,IPL,GT,,GT,168,Lose,1,Defend,,Defend
+1304114,IPL,CSK,,CSK,150,Lose,1,Defend,,Defend
+1304115,IPL,DC,,DC,159,Lose,1,Defend,,Defend
+1304116,IPL,SRH,,SRH,157,Lose,1,Defend,,Defend
+1305500,T20,Malaysia,,Malaysia,114,Lose,1,Defend,,Defend
+1305502,T20,Malaysia,,Malaysia,196,Lose,1,Defend,,Defend
+1307159,T20,Afghanistan,,Afghanistan,168,Lose,1,Defend,,Defend
+1307160,T20,Afghanistan,,Afghanistan,122,Lose,1,Defend,,Defend
+1307293,T20,Sri Lanka,,Sri Lanka,128,Lose,1,Defend,,Defend
+1307294,T20,Sri Lanka,,Sri Lanka,124,Lose,1,Defend,,Defend
+1307295,T20,Australia,,Australia,176,Lose,1,Defend,,Defend
+1309701,T20,Uganda,,Uganda,127,Lose,1,Defend,,Defend
+1309702,T20,Namibia,,Namibia,177,Lose,1,Defend,,Defend
+1310163,T20,Norway,,Norway,120,Lose,1,Defend,,Defend
+1310164,T20,Guernsey,,Guernsey,78,Lose,1,Defend,,Defend
+1310165,T20,Spain,,Spain,107,Lose,1,Defend,,Defend
+1310167,T20,Denmark,,Denmark,137,Lose,1,Defend,,Defend
+1310170,T20,Gibraltar,,Gibraltar,132,Lose,1,Defend,,Defend
+1310172,T20,Gibraltar,,Gibraltar,137,Lose,1,Defend,,Defend
+1310173,T20,Romania,,Romania,165,Lose,1,Defend,,Defend
+1310178,T20,Romania,,Romania,158,Lose,1,Defend,,Defend
+1310181,T20,Bulgaria,,Bulgaria,131,Lose,1,Defend,,Defend
+1310182,T20,Hungary,,Hungary,169,Lose,1,Defend,,Defend
+1310183,T20,Gibraltar,,Gibraltar,141,Lose,1,Defend,,Defend
+1310184,T20,Bulgaria,,Bulgaria,204,Lose,1,Defend,,Defend
+1310185,T20,Gibraltar,,Gibraltar,170,Lose,1,Defend,,Defend
+1310902,T20,Netherlands,,Netherlands,147,Lose,1,Defend,,Defend
+1310939,T20,Zimbabwe,,Zimbabwe,122,Lose,1,Defend,,Defend
+1310940,T20,Namibia,,Namibia,128,Lose,1,Defend,,Defend
+1310941,T20,Zimbabwe,,Zimbabwe,157,Lose,1,Defend,,Defend
+1310946,T20,Zimbabwe,,Zimbabwe,159,Lose,1,Defend,,Defend
+1312197,IPL,RR,,RR,188,Lose,1,Defend,,Defend
+1312199,IPL,RCB,,RCB,157,Lose,1,Defend,,Defend
+1312200,IPL,RR,,RR,130,Lose,1,Defend,,Defend
+1317136,T20,Serbia,,Serbia,225,Lose,1,Defend,,Defend
+1317137,T20,Serbia,,Serbia,194,Lose,1,Defend,,Defend
+1317139,T20,Serbia,,Serbia,242,Lose,1,Defend,,Defend
+1317151,T20,Bangladesh,,Bangladesh,163,Lose,1,Defend,,Defend
+1317482,T20,West Indies,,West Indies,145,Lose,1,Defend,,Defend
+1317904,T20,India,,India,138,Lose,1,Defend,,Defend
+1317905,T20,West Indies,,West Indies,164,Lose,1,Defend,,Defend
+1317910,T20,New Zealand,,New Zealand,145,Lose,1,Defend,,Defend
+1318358,T20,Sweden,,Sweden,93,Lose,1,Defend,,Defend
+1320969,T20,Gibraltar,,Gibraltar,139,Lose,1,Defend,,Defend
+1320975,T20,Israel,,Israel,114,Lose,1,Defend,,Defend
+1320976,T20,Hungary,,Hungary,120,Lose,1,Defend,,Defend
+1320977,T20,Portugal,,Portugal,77,Lose,1,Defend,,Defend
+1320978,T20,Hungary,,Hungary,134,Lose,1,Defend,,Defend
+1320982,T20,Belgium,,Belgium,113,Lose,1,Defend,,Defend
+1320986,T20,Spain,,Spain,145,Lose,1,Defend,,Defend
+1320987,T20,Gibraltar,,Gibraltar,190,Lose,1,Defend,,Defend
+1320988,T20,Portugal,,Portugal,110,Lose,1,Defend,,Defend
+1321258,T20,Cyprus,,Cyprus,120,Lose,1,Defend,,Defend
+1321262,T20,Croatia,,Croatia,69,Lose,1,Defend,,Defend
+1321264,T20,Finland,,Finland,141,Lose,1,Defend,,Defend
+1321266,T20,Turkey,,Turkey,67,Lose,1,Defend,,Defend
+1321268,T20,Romania,,Romania,120,Lose,1,Defend,,Defend
+1321274,T20,Cyprus,,Cyprus,125,Lose,1,Defend,,Defend
+1321275,T20,Croatia,,Croatia,85,Lose,1,Defend,,Defend
+1321277,T20,Serbia,,Serbia,90,Lose,1,Defend,,Defend
+1321279,T20,Romania,,Romania,104,Lose,1,Defend,,Defend
+1321280,T20,Isle of Man,,Isle of Man,101,Lose,1,Defend,,Defend
+1321282,T20,Estonia,,Estonia,101,Lose,1,Defend,,Defend
+1321287,T20,France,,France,157,Lose,1,Defend,,Defend
+1321289,T20,Guernsey,,Guernsey,139,Lose,1,Defend,,Defend
+1321291,T20,Slovenia,,Slovenia,140,Lose,1,Defend,,Defend
+1321296,T20,Slovenia,,Slovenia,55,Lose,1,Defend,,Defend
+1321298,T20,Switzerland,,Switzerland,183,Lose,1,Defend,,Defend
+1321301,T20,Bulgaria,,Bulgaria,117,Lose,1,Defend,,Defend
+1321304,T20,Norway,,Norway,77,Lose,1,Defend,,Defend
+1321305,T20,Luxembourg,,Luxembourg,119,Lose,1,Defend,,Defend
+1321306,T20,Luxembourg,,Luxembourg,112,Lose,1,Defend,,Defend
+1321307,T20,Czech Republic,,Czech Republic,182,Lose,1,Defend,,Defend
+1321310,T20,Austria,,Austria,146,Lose,1,Defend,,Defend
+1321311,T20,Malaysia,,Malaysia,137,Lose,1,Defend,,Defend
+1321313,T20,Singapore,,Singapore,122,Lose,1,Defend,,Defend
+1321466,T20,Jersey,,Jersey,154,Lose,1,Defend,,Defend
+1321468,T20,Hong Kong,,Hong Kong,87,Lose,1,Defend,,Defend
+1321471,T20,Hong Kong,,Hong Kong,116,Lose,1,Defend,,Defend
+1321472,T20,Uganda,,Uganda,160,Lose,1,Defend,,Defend
+1321474,T20,Papua New Guinea,,Papua New Guinea,185,Lose,1,Defend,,Defend
+1321478,T20,Singapore,,Singapore,146,Lose,1,Defend,,Defend
+1321480,T20,United States of America,,United States of America,138,Lose,1,Defend,,Defend
+1321482,T20,Singapore,,Singapore,140,Lose,1,Defend,,Defend
+1322001,T20,Thailand,,Thailand,30,Lose,1,Defend,,Defend
+1322003,T20,Thailand,,Thailand,49,Lose,1,Defend,,Defend
+1322004,T20,Maldives,,Maldives,57,Lose,1,Defend,,Defend
+1322006,T20,Thailand,,Thailand,73,Lose,1,Defend,,Defend
+1322010,T20,Bhutan,,Bhutan,82,Lose,1,Defend,,Defend
+1322012,T20,Singapore,,Singapore,203,Lose,1,Defend,,Defend
+1322335,T20,New Zealand,,New Zealand,147,Lose,1,Defend,,Defend
+1322336,T20,Bangladesh,,Bangladesh,137,Lose,1,Defend,,Defend
+1322337,T20,Pakistan,,Pakistan,130,Lose,1,Defend,,Defend
+1322339,T20,Bangladesh,,Bangladesh,173,Lose,1,Defend,,Defend
+1322340,T20,New Zealand,,New Zealand,163,Lose,1,Defend,,Defend
+1322362,T20,Sri Lanka,,Sri Lanka,196,Lose,1,Defend,,Defend
+1322363,T20,Sri Lanka,,Sri Lanka,141,Lose,1,Defend,,Defend
+1322364,T20,Sri Lanka,,Sri Lanka,182,Lose,1,Defend,,Defend
+1323296,T20,Zimbabwe,,Zimbabwe,135,Lose,1,Defend,,Defend
+1323550,T20,Bulgaria,,Bulgaria,152,Lose,1,Defend,,Defend
+1323551,T20,Bulgaria,,Bulgaria,154,Lose,1,Defend,,Defend
+1327228,T20,Pakistan,,Pakistan,158,Lose,1,Defend,,Defend
+1327229,T20,England,,England,199,Lose,1,Defend,,Defend
+1327233,T20,Pakistan,,Pakistan,169,Lose,1,Defend,,Defend
+1327269,T20,Sri Lanka,,Sri Lanka,105,Lose,1,Defend,,Defend
+1327270,T20,Pakistan,,Pakistan,147,Lose,1,Defend,,Defend
+1327271,T20,Bangladesh,,Bangladesh,127,Lose,1,Defend,,Defend
+1327273,T20,Bangladesh,,Bangladesh,183,Lose,1,Defend,,Defend
+1327275,T20,Afghanistan,,Afghanistan,175,Lose,1,Defend,,Defend
+1327276,T20,India,,India,181,Lose,1,Defend,,Defend
+1327277,T20,India,,India,173,Lose,1,Defend,,Defend
+1327278,T20,Afghanistan,,Afghanistan,129,Lose,1,Defend,,Defend
+1327280,T20,Pakistan,,Pakistan,121,Lose,1,Defend,,Defend
+1327503,T20,India,,India,208,Lose,1,Defend,,Defend
+1327504,T20,Australia,,Australia,90,Lose,1,Defend,,Defend
+1327505,T20,Australia,,Australia,186,Lose,1,Defend,,Defend
+1327506,T20,South Africa,,South Africa,106,Lose,1,Defend,,Defend
+1328471,T20,Bahrain,,Bahrain,153,Lose,1,Defend,,Defend
+1328474,T20,Kenya,,Kenya,130,Lose,1,Defend,,Defend
+1328476,T20,Kenya,,Kenya,156,Lose,1,Defend,,Defend
+1328850,T20,United Arab Emirates,,United Arab Emirates,173,Lose,1,Defend,,Defend
+1328852,T20,Kuwait,,Kuwait,151,Lose,1,Defend,,Defend
+1328853,T20,Singapore,,Singapore,104,Lose,1,Defend,,Defend
+1328854,T20,United Arab Emirates,,United Arab Emirates,147,Lose,1,Defend,,Defend
+1332496,T20,Botswana,,Botswana,103,Lose,1,Defend,,Defend
+1332497,T20,Kenya,,Kenya,155,Lose,1,Defend,,Defend
+1332501,T20,Ghana,,Ghana,133,Lose,1,Defend,,Defend
+1332506,T20,Cameroon,,Cameroon,48,Lose,1,Defend,,Defend
+1332508,T20,Kenya,,Kenya,105,Lose,1,Defend,,Defend
+1332509,T20,Botswana,,Botswana,146,Lose,1,Defend,,Defend
+1332510,T20,Tanzania,,Tanzania,174,Lose,1,Defend,,Defend
+1333920,T20,Cook Islands,,Cook Islands,142,Lose,1,Defend,,Defend
+1333921,T20,Samoa,,Samoa,122,Lose,1,Defend,,Defend
+1333922,T20,Vanuatu,,Vanuatu,127,Lose,1,Defend,,Defend
+1333923,T20,Samoa,,Samoa,142,Lose,1,Defend,,Defend
+1333924,T20,Samoa,,Samoa,157,Lose,1,Defend,,Defend
+1333926,T20,Samoa,,Samoa,120,Lose,1,Defend,,Defend
+1333927,T20,Fiji,,Fiji,147,Lose,1,Defend,,Defend
+1333932,T20,Japan,,Japan,79,Lose,1,Defend,,Defend
+1336048,T20,New Zealand,,New Zealand,139,Lose,1,Defend,,Defend
+1336051,T20,England,,England,175,Lose,1,Defend,,Defend
+1336953,T20,Indonesia,,Indonesia,83,Lose,1,Defend,,Defend
+1336955,T20,Japan,,Japan,103,Lose,1,Defend,,Defend
+1336956,T20,South Korea,,South Korea,98,Lose,1,Defend,,Defend
+1339205,T20,Italy,,Italy,107,Lose,1,Defend,,Defend
+1339206,T20,Italy,,Italy,146,Lose,1,Defend,,Defend
+1339207,T20,Italy,,Italy,161,Lose,1,Defend,,Defend
+1339604,T20,South Africa,,South Africa,131,Lose,1,Defend,,Defend
+1339605,T20,West Indies,,West Indies,258,Lose,1,Defend,,Defend
+1339618,T20,Pakistan,,Pakistan,193,Lose,1,Defend,,Defend
+1343740,T20,Botswana,,Botswana,106,Lose,1,Defend,,Defend
+1343745,T20,Lesotho,,Lesotho,91,Lose,1,Defend,,Defend
+1343749,T20,Mali,,Mali,30,Lose,1,Defend,,Defend
+1343750,T20,Rwanda,,Rwanda,87,Lose,1,Defend,,Defend
+1343756,T20,Mali,,Mali,37,Lose,1,Defend,,Defend
+1343760,T20,St Helena,,St Helena,37,Lose,1,Defend,,Defend
+1343762,T20,Botswana,,Botswana,116,Lose,1,Defend,,Defend
+1343763,T20,Mali,,Mali,30,Lose,1,Defend,,Defend
+1343770,T20,Mozambique,,Mozambique,86,Lose,1,Defend,,Defend
+1343771,T20,Gambia,,Gambia,122,Lose,1,Defend,,Defend
+1343772,T20,Sierra Leone,,Sierra Leone,62,Lose,1,Defend,,Defend
+1343773,T20,Ghana,,Ghana,111,Lose,1,Defend,,Defend
+1343774,T20,Cameroon,,Cameroon,146,Lose,1,Defend,,Defend
+1343775,T20,Eswatini,,Eswatini,150,Lose,1,Defend,,Defend
+1343776,T20,Cameroon,,Cameroon,95,Lose,1,Defend,,Defend
+1343778,T20,Ghana,,Ghana,121,Lose,1,Defend,,Defend
+1343780,T20,Mozambique,,Mozambique,81,Lose,1,Defend,,Defend
+1343785,T20,Gambia,,Gambia,81,Lose,1,Defend,,Defend
+1343786,T20,Gambia,,Gambia,59,Lose,1,Defend,,Defend
+1343794,T20,Ghana,,Ghana,127,Lose,1,Defend,,Defend
+1344782,T20,Saudi Arabia,,Saudi Arabia,86,Lose,1,Defend,,Defend
+1344783,T20,Bahrain,,Bahrain,195,Lose,1,Defend,,Defend
+1344785,T20,Oman,,Oman,134,Lose,1,Defend,,Defend
+1344788,T20,Saudi Arabia,,Saudi Arabia,114,Lose,1,Defend,,Defend
+1344789,T20,Canada,,Canada,160,Lose,1,Defend,,Defend
+1344792,T20,Oman,,Oman,169,Lose,1,Defend,,Defend
+1344793,T20,Bahrain,,Bahrain,112,Lose,1,Defend,,Defend
+1344795,T20,Oman,,Oman,137,Lose,1,Defend,,Defend
+1348323,T20,Ireland,,Ireland,114,Lose,1,Defend,,Defend
+1348324,T20,Zimbabwe,,Zimbabwe,144,Lose,1,Defend,,Defend
+1348325,T20,Ireland,,Ireland,141,Lose,1,Defend,,Defend
+1348650,T20,New Zealand,,New Zealand,99,Lose,1,Defend,,Defend
+1349131,T20,Rwanda,,Rwanda,128,Lose,1,Defend,,Defend
+1349133,T20,Rwanda,,Rwanda,118,Lose,1,Defend,,Defend
+1349134,T20,Uganda,,Uganda,132,Lose,1,Defend,,Defend
+1349137,T20,Rwanda,,Rwanda,67,Lose,1,Defend,,Defend
+1349379,T20,Singapore,,Singapore,130,Lose,1,Defend,,Defend
+1349380,T20,Qatar,,Qatar,126,Lose,1,Defend,,Defend
+1349384,T20,Singapore,,Singapore,140,Lose,1,Defend,,Defend
+1349385,T20,Bahrain,,Bahrain,179,Lose,1,Defend,,Defend
+1349386,T20,Singapore,,Singapore,168,Lose,1,Defend,,Defend
+1349390,T20,Singapore,,Singapore,164,Lose,1,Defend,,Defend
+1349391,T20,Malaysia,,Malaysia,153,Lose,1,Defend,,Defend
+1351400,T20,England,,England,156,Lose,1,Defend,,Defend
+1351401,T20,England,,England,117,Lose,1,Defend,,Defend
+1354800,T20,Isle of Man,,Isle of Man,66,Lose,1,Defend,,Defend
+1354801,T20,Isle of Man,,Isle of Man,116,Lose,1,Defend,,Defend
+1354802,T20,Isle of Man,,Isle of Man,132,Lose,1,Defend,,Defend
+1354803,T20,Isle of Man,,Isle of Man,10,Lose,1,Defend,,Defend
+1355722,T20,Bangladesh,,Bangladesh,124,Lose,1,Defend,,Defend
+1357694,T20,United Arab Emirates,,United Arab Emirates,142,Lose,1,Defend,,Defend
+1357695,T20,Afghanistan,,Afghanistan,137,Lose,1,Defend,,Defend
+1357696,T20,United Arab Emirates,,United Arab Emirates,163,Lose,1,Defend,,Defend
+1359475,IPL,CSK,,CSK,178,Lose,1,Defend,,Defend
+1359479,IPL,MI,,MI,171,Lose,1,Defend,,Defend
+1359481,IPL,DC,,DC,162,Lose,1,Defend,,Defend
+1359484,IPL,SRH,,SRH,121,Lose,1,Defend,,Defend
+1359486,IPL,MI,,MI,157,Lose,1,Defend,,Defend
+1359487,IPL,GT,,GT,204,Lose,1,Defend,,Defend
+1359488,IPL,PBKS,,PBKS,143,Lose,1,Defend,,Defend
+1359489,IPL,RCB,,RCB,212,Lose,1,Defend,,Defend
+1359490,IPL,DC,,DC,172,Lose,1,Defend,,Defend
+1359492,IPL,PBKS,,PBKS,153,Lose,1,Defend,,Defend
+1359495,IPL,LSG,,LSG,159,Lose,1,Defend,,Defend
+1359496,IPL,KKR,,KKR,185,Lose,1,Defend,,Defend
+1359497,IPL,GT,,GT,177,Lose,1,Defend,,Defend
+1359502,IPL,KKR,,KKR,127,Lose,1,Defend,,Defend
+1359503,IPL,SRH,,SRH,134,Lose,1,Defend,,Defend
+1359513,IPL,KKR,,KKR,179,Lose,1,Defend,,Defend
+1359515,IPL,CSK,,CSK,200,Lose,1,Defend,,Defend
+1359516,IPL,RR,,RR,212,Lose,1,Defend,,Defend
+1359520,IPL,PBKS,,PBKS,214,Lose,1,Defend,,Defend
+1359522,IPL,RR,,RR,118,Lose,1,Defend,,Defend
+1359523,IPL,MI,,MI,139,Lose,1,Defend,,Defend
+1359524,IPL,RCB,,RCB,181,Lose,1,Defend,,Defend
+1359526,IPL,RR,,RR,214,Lose,1,Defend,,Defend
+1359527,IPL,PBKS,,PBKS,179,Lose,1,Defend,,Defend
+1359528,IPL,RCB,,RCB,199,Lose,1,Defend,,Defend
+1359530,IPL,KKR,,KKR,149,Lose,1,Defend,,Defend
+1359532,IPL,SRH,,SRH,182,Lose,1,Defend,,Defend
+1359535,IPL,CSK,,CSK,144,Lose,1,Defend,,Defend
+1359539,IPL,SRH,,SRH,186,Lose,1,Defend,,Defend
+1359540,IPL,PBKS,,PBKS,187,Lose,1,Defend,,Defend
+1359543,IPL,SRH,,SRH,200,Lose,1,Defend,,Defend
+1359544,IPL,RCB,,RCB,197,Lose,1,Defend,,Defend
+1359786,T20,Argentina,,Argentina,77,Lose,1,Defend,,Defend
+1359792,T20,Panama,,Panama,101,Lose,1,Defend,,Defend
+1359800,T20,Bahamas,,Bahamas,73,Lose,1,Defend,,Defend
+1359802,T20,Argentina,,Argentina,125,Lose,1,Defend,,Defend
+1361770,T20,Kuwait,,Kuwait,158,Lose,1,Defend,,Defend
+1361774,T20,Kuwait,,Kuwait,156,Lose,1,Defend,,Defend
+1361775,T20,Malaysia,,Malaysia,95,Lose,1,Defend,,Defend
+1361776,T20,Bahrain,,Bahrain,135,Lose,1,Defend,,Defend
+1362815,T20,Pakistan,,Pakistan,92,Lose,1,Defend,,Defend
+1362816,T20,Pakistan,,Pakistan,130,Lose,1,Defend,,Defend
+1367723,T20,Gibraltar,,Gibraltar,166,Lose,1,Defend,,Defend
+1367724,T20,Gibraltar,,Gibraltar,128,Lose,1,Defend,,Defend
+1367725,T20,Gibraltar,,Gibraltar,171,Lose,1,Defend,,Defend
+1367728,T20,Gibraltar,,Gibraltar,90,Lose,1,Defend,,Defend
+1367732,T20,Gibraltar,,Gibraltar,124,Lose,1,Defend,,Defend
+1367733,T20,Malta,,Malta,156,Lose,1,Defend,,Defend
+1370782,T20,Norway,,Norway,99,Lose,1,Defend,,Defend
+1370785,T20,Denmark,,Denmark,109,Lose,1,Defend,,Defend
+1370787,T20,Finland,,Finland,92,Lose,1,Defend,,Defend
+1370790,T20,Finland,,Finland,102,Lose,1,Defend,,Defend
+1370791,T20,Sweden,,Sweden,96,Lose,1,Defend,,Defend
+1373569,T20,South Africa,,South Africa,164,Lose,1,Defend,,Defend
+1373570,T20,South Africa,,South Africa,190,Lose,1,Defend,,Defend
+1373579,T20,England,,England,171,Lose,1,Defend,,Defend
+1373581,T20,West Indies,,West Indies,222,Lose,1,Defend,,Defend
+1373583,T20,England,,England,132,Lose,1,Defend,,Defend
+1377015,T20,Afghanistan,,Afghanistan,154,Lose,1,Defend,,Defend
+1377016,T20,Afghanistan,,Afghanistan,116,Lose,1,Defend,,Defend
+1377728,T20,New Zealand,,New Zealand,142,Lose,1,Defend,,Defend
+1379575,T20,Botswana,,Botswana,64,Lose,1,Defend,,Defend
+1379576,T20,Rwanda,,Rwanda,99,Lose,1,Defend,,Defend
+1379578,T20,Rwanda,,Rwanda,81,Lose,1,Defend,,Defend
+1379579,T20,Botswana,,Botswana,98,Lose,1,Defend,,Defend
+1379580,T20,Botswana,,Botswana,92,Lose,1,Defend,,Defend
+1379581,T20,Kenya,,Kenya,117,Lose,1,Defend,,Defend
+1379582,T20,Rwanda,,Rwanda,92,Lose,1,Defend,,Defend
+1379584,T20,Rwanda,,Rwanda,85,Lose,1,Defend,,Defend
+1379585,T20,Botswana,,Botswana,131,Lose,1,Defend,,Defend
+1380583,T20,Belgium,,Belgium,164,Lose,1,Defend,,Defend
+1380584,T20,Belgium,,Belgium,148,Lose,1,Defend,,Defend
+1380587,T20,Hungary,,Hungary,138,Lose,1,Defend,,Defend
+1381218,T20,India,,India,152,Lose,1,Defend,,Defend
+1381219,T20,West Indies,,West Indies,159,Lose,1,Defend,,Defend
+1381220,T20,West Indies,,West Indies,178,Lose,1,Defend,,Defend
+1381221,T20,India,,India,165,Lose,1,Defend,,Defend
+1381451,T20,Austria,,Austria,114,Lose,1,Defend,,Defend
+1381452,T20,Austria,,Austria,121,Lose,1,Defend,,Defend
+1381454,T20,Croatia,,Croatia,75,Lose,1,Defend,,Defend
+1381455,T20,Bulgaria,,Bulgaria,166,Lose,1,Defend,,Defend
+1381456,T20,Croatia,,Croatia,83,Lose,1,Defend,,Defend
+1381457,T20,Croatia,,Croatia,76,Lose,1,Defend,,Defend
+1381458,T20,Turkey,,Turkey,147,Lose,1,Defend,,Defend
+1383068,T20,Austria,,Austria,104,Lose,1,Defend,,Defend
+1383071,T20,Denmark,,Denmark,122,Lose,1,Defend,,Defend
+1383072,T20,Austria,,Austria,83,Lose,1,Defend,,Defend
+1383076,T20,Denmark,,Denmark,124,Lose,1,Defend,,Defend
+1383078,T20,Austria,,Austria,97,Lose,1,Defend,,Defend
+1383079,T20,Jersey,,Jersey,78,Lose,1,Defend,,Defend
+1383086,T20,Germany,,Germany,141,Lose,1,Defend,,Defend
+1383090,T20,Vanuatu,,Vanuatu,71,Lose,1,Defend,,Defend
+1383093,T20,Vanuatu,,Vanuatu,97,Lose,1,Defend,,Defend
+1383094,T20,Japan,,Japan,87,Lose,1,Defend,,Defend
+1383097,T20,Japan,,Japan,136,Lose,1,Defend,,Defend
+1383099,T20,Philippines,,Philippines,94,Lose,1,Defend,,Defend
+1383100,T20,Japan,,Japan,106,Lose,1,Defend,,Defend
+1383101,T20,China,,China,23,Lose,1,Defend,,Defend
+1383103,T20,China,,China,26,Lose,1,Defend,,Defend
+1383108,T20,Bhutan,,Bhutan,83,Lose,1,Defend,,Defend
+1383109,T20,Myanmar,,Myanmar,77,Lose,1,Defend,,Defend
+1383110,T20,Thailand,,Thailand,93,Lose,1,Defend,,Defend
+1384586,T20,Malta,,Malta,163,Lose,1,Defend,,Defend
+1384587,T20,Luxembourg,,Luxembourg,110,Lose,1,Defend,,Defend
+1384589,T20,Luxembourg,,Luxembourg,174,Lose,1,Defend,,Defend
+1384590,T20,Romania,,Romania,134,Lose,1,Defend,,Defend
+1384592,T20,Luxembourg,,Luxembourg,118,Lose,1,Defend,,Defend
+1384594,T20,France,,France,148,Lose,1,Defend,,Defend
+1384595,T20,Romania,,Romania,162,Lose,1,Defend,,Defend
+1384596,T20,Malta,,Malta,156,Lose,1,Defend,,Defend
+1384597,T20,France,,France,187,Lose,1,Defend,,Defend
+1384598,T20,France,,France,78,Lose,1,Defend,,Defend
+1384599,T20,Luxembourg,,Luxembourg,149,Lose,1,Defend,,Defend
+1384600,T20,Malta,,Malta,164,Lose,1,Defend,,Defend
+1387243,T20,Guernsey,,Guernsey,98,Lose,1,Defend,,Defend
+1387244,T20,Germany,,Germany,164,Lose,1,Defend,,Defend
+1388213,T20,New Zealand,,New Zealand,134,Lose,1,Defend,,Defend
+1388219,T20,Pakistan,,Pakistan,158,Lose,1,Defend,,Defend
+1388223,T20,New Zealand,,New Zealand,215,Lose,1,Defend,,Defend
+1389391,T20,Australia,,Australia,208,Lose,1,Defend,,Defend
+1389393,T20,India,,India,222,Lose,1,Defend,,Defend
+1389396,T20,Afghanistan,,Afghanistan,158,Lose,1,Defend,,Defend
+1389397,T20,Afghanistan,,Afghanistan,172,Lose,1,Defend,,Defend
+1389398,T20,India,,India,212,Lose,1,Defend,,Defend
+1390169,T20,Croatia,,Croatia,63,Lose,1,Defend,,Defend
+1391332,T20,Romania,,Romania,162,Lose,1,Defend,,Defend
+1391333,T20,Romania,,Romania,147,Lose,1,Defend,,Defend
+1391335,T20,Malta,,Malta,115,Lose,1,Defend,,Defend
+1391336,T20,Malta,,Malta,156,Lose,1,Defend,,Defend
+1391338,T20,Estonia,,Estonia,149,Lose,1,Defend,,Defend
+1391339,T20,Gibraltar,,Gibraltar,159,Lose,1,Defend,,Defend
+1392802,T20,Saudi Arabia,,Saudi Arabia,142,Lose,1,Defend,,Defend
+1392805,T20,Bahrain,,Bahrain,123,Lose,1,Defend,,Defend
+1392809,T20,Saudi Arabia,,Saudi Arabia,110,Lose,1,Defend,,Defend
+1393310,T20,Tanzania,,Tanzania,143,Lose,1,Defend,,Defend
+1393311,T20,Uganda,,Uganda,176,Lose,1,Defend,,Defend
+1393315,T20,Rwanda,,Rwanda,133,Lose,1,Defend,,Defend
+1393316,T20,Rwanda,,Rwanda,126,Lose,1,Defend,,Defend
+1393318,T20,Rwanda,,Rwanda,110,Lose,1,Defend,,Defend
+1393320,T20,Rwanda,,Rwanda,131,Lose,1,Defend,,Defend
+1393328,T20,Rwanda,,Rwanda,154,Lose,1,Defend,,Defend
+1397439,T20,United Arab Emirates,,United Arab Emirates,163,Lose,1,Defend,,Defend
+1398299,T20,Malaysia,,Malaysia,81,Lose,1,Defend,,Defend
+1398300,T20,Hong Kong,,Hong Kong,89,Lose,1,Defend,,Defend
+1399117,T20,Bangladesh,,Bangladesh,96,Lose,1,Defend,,Defend
+1399118,T20,Pakistan,,Pakistan,115,Lose,1,Defend,,Defend
+1399119,T20,Pakistan,,Pakistan,48,Lose,1,Defend,,Defend
+1399138,T20,Qatar,,Qatar,123,Lose,1,Defend,,Defend
+1399140,T20,Maldives,,Maldives,100,Lose,1,Defend,,Defend
+1399142,T20,Maldives,,Maldives,121,Lose,1,Defend,,Defend
+1399143,T20,Kuwait,,Kuwait,174,Lose,1,Defend,,Defend
+1399144,T20,Qatar,,Qatar,129,Lose,1,Defend,,Defend
+1399145,T20,Maldives,,Maldives,76,Lose,1,Defend,,Defend
+1399146,T20,Maldives,,Maldives,83,Lose,1,Defend,,Defend
+1399149,T20,Saudi Arabia,,Saudi Arabia,173,Lose,1,Defend,,Defend
+1399151,T20,Panama,,Panama,85,Lose,1,Defend,,Defend
+1399152,T20,Panama,,Panama,90,Lose,1,Defend,,Defend
+1399157,T20,Panama,,Panama,86,Lose,1,Defend,,Defend
+1400053,T20,Serbia,,Serbia,107,Lose,1,Defend,,Defend
+1400054,T20,Serbia,,Serbia,82,Lose,1,Defend,,Defend
+1400973,T20,Sierra Leone,,Sierra Leone,95,Lose,1,Defend,,Defend
+1400975,T20,Rwanda,,Rwanda,121,Lose,1,Defend,,Defend
+1400978,T20,Rwanda,,Rwanda,95,Lose,1,Defend,,Defend
+1400980,T20,Sierra Leone,,Sierra Leone,49,Lose,1,Defend,,Defend
+1400984,T20,Ghana,,Ghana,109,Lose,1,Defend,,Defend
+1400985,T20,Sierra Leone,,Sierra Leone,77,Lose,1,Defend,,Defend
+1400986,T20,Ghana,,Ghana,54,Lose,1,Defend,,Defend
+1400988,T20,Rwanda,,Rwanda,24,Lose,1,Defend,,Defend
+1400990,T20,Ghana,,Ghana,72,Lose,1,Defend,,Defend
+1403288,T20,United Arab Emirates,,United Arab Emirates,140,Lose,1,Defend,,Defend
+1403289,T20,Hong Kong,,Hong Kong,94,Lose,1,Defend,,Defend
+1403291,T20,Hong Kong,,Hong Kong,149,Lose,1,Defend,,Defend
+1403292,T20,United Arab Emirates,,United Arab Emirates,164,Lose,1,Defend,,Defend
+1403294,T20,Nepal,,Nepal,162,Lose,1,Defend,,Defend
+1403297,T20,Chile,,Chile,72,Lose,1,Defend,,Defend
+1403301,T20,Mexico,,Mexico,124,Lose,1,Defend,,Defend
+1403305,T20,Chile,,Chile,52,Lose,1,Defend,,Defend
+1404390,T20,Zimbabwe,,Zimbabwe,121,Lose,1,Defend,,Defend
+1404391,T20,Namibia,,Namibia,198,Lose,1,Defend,,Defend
+1404392,T20,Namibia,,Namibia,138,Lose,1,Defend,,Defend
+1404393,T20,Zimbabwe,,Zimbabwe,153,Lose,1,Defend,,Defend
+1405313,T20,Bahrain,,Bahrain,135,Lose,1,Defend,,Defend
+1405314,T20,Singapore,,Singapore,145,Lose,1,Defend,,Defend
+1405319,T20,Malaysia,,Malaysia,165,Lose,1,Defend,,Defend
+1405320,T20,Kuwait,,Kuwait,88,Lose,1,Defend,,Defend
+1405324,T20,Bahrain,,Bahrain,158,Lose,1,Defend,,Defend
+1405325,T20,Bahrain,,Bahrain,106,Lose,1,Defend,,Defend
+1405326,T20,United Arab Emirates,,United Arab Emirates,134,Lose,1,Defend,,Defend
+1407090,T20,Tanzania,,Tanzania,99,Lose,1,Defend,,Defend
+1407091,T20,Zimbabwe,,Zimbabwe,132,Lose,1,Defend,,Defend
+1407092,T20,Nigeria,,Nigeria,121,Lose,1,Defend,,Defend
+1407093,T20,Tanzania,,Tanzania,96,Lose,1,Defend,,Defend
+1407095,T20,Uganda,,Uganda,114,Lose,1,Defend,,Defend
+1407098,T20,Tanzania,,Tanzania,139,Lose,1,Defend,,Defend
+1407099,T20,Zimbabwe,,Zimbabwe,136,Lose,1,Defend,,Defend
+1407100,T20,Nigeria,,Nigeria,99,Lose,1,Defend,,Defend
+1407102,T20,Kenya,,Kenya,104,Lose,1,Defend,,Defend
+1407104,T20,Nigeria,,Nigeria,110,Lose,1,Defend,,Defend
+1407108,T20,Rwanda,,Rwanda,65,Lose,1,Defend,,Defend
+1407109,T20,Nigeria,,Nigeria,93,Lose,1,Defend,,Defend
+1407714,T20,Cambodia,,Cambodia,134,Lose,1,Defend,,Defend
+1407715,T20,Cambodia,,Cambodia,138,Lose,1,Defend,,Defend
+1407716,T20,Indonesia,,Indonesia,156,Lose,1,Defend,,Defend
+1407718,T20,Indonesia,,Indonesia,144,Lose,1,Defend,,Defend
+1408103,T20,Ireland,,Ireland,147,Lose,1,Defend,,Defend
+1408104,T20,Zimbabwe,,Zimbabwe,165,Lose,1,Defend,,Defend
+1408105,T20,Zimbabwe,,Zimbabwe,140,Lose,1,Defend,,Defend
+1412531,T20,Philippines,,Philippines,106,Lose,1,Defend,,Defend
+1412533,T20,Indonesia,,Indonesia,119,Lose,1,Defend,,Defend
+1412534,T20,Philippines,,Philippines,137,Lose,1,Defend,,Defend
+1412535,T20,Indonesia,,Indonesia,123,Lose,1,Defend,,Defend
+1412542,T20,Zimbabwe,,Zimbabwe,143,Lose,1,Defend,,Defend
+1412543,T20,Sri Lanka,,Sri Lanka,173,Lose,1,Defend,,Defend
+1412544,T20,Zimbabwe,,Zimbabwe,82,Lose,1,Defend,,Defend
+1412551,T20,United Arab Emirates,,United Arab Emirates,126,Lose,1,Defend,,Defend
+1418176,T20,Myanmar,,Myanmar,72,Lose,1,Defend,,Defend
+1418184,T20,Bhutan,,Bhutan,89,Lose,1,Defend,,Defend
+1418185,T20,Indonesia,,Indonesia,127,Lose,1,Defend,,Defend
+1418186,T20,Singapore,,Singapore,115,Lose,1,Defend,,Defend
+1418191,T20,Maldives,,Maldives,127,Lose,1,Defend,,Defend
+1418192,T20,Indonesia,,Indonesia,131,Lose,1,Defend,,Defend
+1418194,T20,Japan,,Japan,97,Lose,1,Defend,,Defend
+1418195,T20,Singapore,,Singapore,109,Lose,1,Defend,,Defend
+1418196,T20,Japan,,Japan,215,Lose,1,Defend,,Defend
+1418197,T20,Cambodia,,Cambodia,147,Lose,1,Defend,,Defend
+1418540,T20,Japan,,Japan,179,Lose,1,Defend,,Defend
+1418543,T20,China,,China,41,Lose,1,Defend,,Defend
+1419825,T20,Sri Lanka,,Sri Lanka,165,Lose,1,Defend,,Defend
+1420801,T20,Bhutan,,Bhutan,70,Lose,1,Defend,,Defend
+1420803,T20,Thailand,,Thailand,112,Lose,1,Defend,,Defend
+1420804,T20,Bhutan,,Bhutan,115,Lose,1,Defend,,Defend
+1420805,T20,Maldives,,Maldives,105,Lose,1,Defend,,Defend
+1420807,T20,Thailand,,Thailand,104,Lose,1,Defend,,Defend
+1420808,T20,Maldives,,Maldives,138,Lose,1,Defend,,Defend
+1421078,T20,Scotland,,Scotland,147,Lose,1,Defend,,Defend
+1422041,T20,Netherlands,,Netherlands,120,Lose,1,Defend,,Defend
+1422043,T20,Nepal,,Nepal,184,Lose,1,Defend,,Defend
+1422803,T20,Hong Kong,,Hong Kong,197,Lose,1,Defend,,Defend
+1422804,T20,Qatar,,Qatar,125,Lose,1,Defend,,Defend
+1422809,T20,Tanzania,,Tanzania,97,Lose,1,Defend,,Defend
+1422811,T20,Malaysia,,Malaysia,110,Lose,1,Defend,,Defend
+1422812,T20,Vanuatu,,Vanuatu,102,Lose,1,Defend,,Defend
+1422813,T20,Kuwait,,Kuwait,87,Lose,1,Defend,,Defend
+1422816,T20,Tanzania,,Tanzania,83,Lose,1,Defend,,Defend
+1422817,T20,Vanuatu,,Vanuatu,106,Lose,1,Defend,,Defend
+1422818,T20,Malaysia,,Malaysia,77,Lose,1,Defend,,Defend
+1423372,T20,Papua New Guinea,,Papua New Guinea,136,Lose,1,Defend,,Defend
+1423373,T20,Oman,,Oman,145,Lose,1,Defend,,Defend
+1423374,T20,Papua New Guinea,,Papua New Guinea,127,Lose,1,Defend,,Defend
+1423442,T20,Hong Kong,,Hong Kong,121,Lose,1,Defend,,Defend
+1233971,T20,New Zealand,New Zealand,,184,Win,1,Defend,,Defend
+1233972,T20,New Zealand,New Zealand,,219,Win,1,Defend,,Defend
+1233973,T20,Australia,Australia,,208,Win,1,Defend,,Defend
+1233974,T20,Australia,Australia,,156,Win,1,Defend,,Defend
+1233979,T20,New Zealand,New Zealand,,210,Win,1,Defend,,Defend
+1233980,T20,New Zealand,New Zealand,,173,Win,1,Defend,,Defend
+1233981,T20,New Zealand,New Zealand,,141,Win,1,Defend,,Defend
+1239540,T20,Pakistan,Pakistan,,232,Win,1,Defend,,Defend
+1239541,T20,England,England,,200,Win,1,Defend,,Defend
+1243019,T20,Pakistan,Pakistan,,169,Win,1,Defend,,Defend
+1243391,T20,India,India,,185,Win,1,Defend,,Defend
+1243392,T20,India,India,,224,Win,1,Defend,,Defend
+1249207,T20,Sri Lanka,Sri Lanka,,111,Win,1,Defend,,Defend
+1249208,T20,England,England,,180,Win,1,Defend,,Defend
+1251953,T20,South Africa,South Africa,,165,Win,1,Defend,,Defend
+1251954,T20,South Africa,South Africa,,159,Win,1,Defend,,Defend
+1251955,T20,South Africa,South Africa,,189,Win,1,Defend,,Defend
+1252058,T20,Afghanistan,Afghanistan,,198,Win,1,Defend,,Defend
+1252059,T20,Afghanistan,Afghanistan,,193,Win,1,Defend,,Defend
+1252060,T20,Afghanistan,Afghanistan,,183,Win,1,Defend,,Defend
+1252067,T20,Sri Lanka,Sri Lanka,,160,Win,1,Defend,,Defend
+1254060,IPL,KKR,KKR,,187,Win,1,Defend,,Defend
+1254061,IPL,PBKS,PBKS,,221,Win,1,Defend,,Defend
+1254062,IPL,MI,MI,,152,Win,1,Defend,,Defend
+1254063,IPL,RCB,RCB,,149,Win,1,Defend,,Defend
+1254066,IPL,MI,MI,,150,Win,1,Defend,,Defend
+1254067,IPL,RCB,RCB,,204,Win,1,Defend,,Defend
+1254069,IPL,CSK,CSK,,188,Win,1,Defend,,Defend
+1254072,IPL,CSK,CSK,,220,Win,1,Defend,,Defend
+1254076,IPL,CSK,CSK,,191,Win,1,Defend,,Defend
+1254077,IPL,DC,DC,,159,Win,1,Defend,,Defend
+1254079,IPL,RCB,RCB,,171,Win,1,Defend,,Defend
+1254083,IPL,PBKS,PBKS,,179,Win,1,Defend,,Defend
+1254085,IPL,RR,RR,,220,Win,1,Defend,,Defend
+1254088,IPL,MI,MI,,235,Win,1,Defend,,Defend
+1254090,IPL,RCB,RCB,,164,Win,1,Defend,,Defend
+1254095,IPL,SRH,SRH,,141,Win,1,Defend,,Defend
+1254097,IPL,DC,DC,,154,Win,1,Defend,,Defend
+1254104,IPL,CSK,CSK,,156,Win,1,Defend,,Defend
+1254106,IPL,KKR,KKR,,171,Win,1,Defend,,Defend
+1254107,IPL,PBKS,PBKS,,125,Win,1,Defend,,Defend
+1254108,IPL,RCB,RCB,,165,Win,1,Defend,,Defend
+1254111,IPL,RR,RR,,185,Win,1,Defend,,Defend
+1254117,IPL,CSK,CSK,,192,Win,1,Defend,,Defend
+1256721,T20,England,England,,171,Win,1,Defend,,Defend
+1256722,T20,West Indies,West Indies,,224,Win,1,Defend,,Defend
+1256723,T20,England,England,,193,Win,1,Defend,,Defend
+1256724,T20,West Indies,West Indies,,179,Win,1,Defend,,Defend
+1257183,T20,Pakistan,Pakistan,,149,Win,1,Defend,,Defend
+1257184,T20,Zimbabwe,Zimbabwe,,118,Win,1,Defend,,Defend
+1257185,T20,Pakistan,Pakistan,,165,Win,1,Defend,,Defend
+1257405,T20,Namibia,Namibia,,134,Win,1,Defend,,Defend
+1257406,T20,Namibia,Namibia,,189,Win,1,Defend,,Defend
+1257946,T20,Netherlands,Netherlands,,191,Win,1,Defend,,Defend
+1257949,T20,Netherlands,Netherlands,,107,Win,1,Defend,,Defend
+1257950,T20,Nepal,Nepal,,217,Win,1,Defend,,Defend
+1257951,T20,Nepal,Nepal,,238,Win,1,Defend,,Defend
+1262758,T20,India,India,,164,Win,1,Defend,,Defend
+1263152,T20,South Africa,South Africa,,166,Win,1,Defend,,Defend
+1263153,T20,South Africa,South Africa,,167,Win,1,Defend,,Defend
+1263154,T20,West Indies,West Indies,,167,Win,1,Defend,,Defend
+1263155,T20,South Africa,South Africa,,168,Win,1,Defend,,Defend
+1263156,T20,West Indies,West Indies,,145,Win,1,Defend,,Defend
+1263157,T20,West Indies,West Indies,,196,Win,1,Defend,,Defend
+1263159,T20,Australia,Australia,,189,Win,1,Defend,,Defend
+1263160,T20,West Indies,West Indies,,199,Win,1,Defend,,Defend
+1263165,T20,Pakistan,Pakistan,,157,Win,1,Defend,,Defend
+1263471,T20,Australia,Australia,,149,Win,1,Defend,,Defend
+1263472,T20,Australia,Australia,,164,Win,1,Defend,,Defend
+1263710,T20,Austria,Austria,,162,Win,1,Defend,,Defend
+1267308,T20,Romania,Romania,,191,Win,1,Defend,,Defend
+1267311,T20,Bulgaria,Bulgaria,,140,Win,1,Defend,,Defend
+1267681,T20,Zimbabwe,Zimbabwe,,166,Win,1,Defend,,Defend
+1268191,T20,Belgium,Belgium,,128,Win,1,Defend,,Defend
+1268192,T20,Belgium,Belgium,,172,Win,1,Defend,,Defend
+1270834,T20,Bangladesh,Bangladesh,,131,Win,1,Defend,,Defend
+1270836,T20,Bangladesh,Bangladesh,,127,Win,1,Defend,,Defend
+1270838,T20,Bangladesh,Bangladesh,,122,Win,1,Defend,,Defend
+1271448,T20,Germany,Germany,,164,Win,1,Defend,,Defend
+1271449,T20,Norway,Norway,,131,Win,1,Defend,,Defend
+1271450,T20,Norway,Norway,,185,Win,1,Defend,,Defend
+1271451,T20,Norway,Norway,,127,Win,1,Defend,,Defend
+1271630,T20,South Africa,South Africa,,163,Win,1,Defend,,Defend
+1272094,T20,Bangladesh,Bangladesh,,141,Win,1,Defend,,Defend
+1272095,T20,New Zealand,New Zealand,,128,Win,1,Defend,,Defend
+1272097,T20,New Zealand,New Zealand,,161,Win,1,Defend,,Defend
+1272373,T20,Zimbabwe,Zimbabwe,,117,Win,1,Defend,,Defend
+1272375,T20,Ireland,Ireland,,178,Win,1,Defend,,Defend
+1272376,T20,Ireland,Ireland,,174,Win,1,Defend,,Defend
+1272377,T20,Zimbabwe,Zimbabwe,,124,Win,1,Defend,,Defend
+1273138,T20,Malta,Malta,,197,Win,1,Defend,,Defend
+1273139,T20,Portugal,Portugal,,218,Win,1,Defend,,Defend
+1273143,T20,Rwanda,Rwanda,,136,Win,1,Defend,,Defend
+1273144,T20,Ghana,Ghana,,166,Win,1,Defend,,Defend
+1273148,T20,Finland,Finland,,141,Win,1,Defend,,Defend
+1273271,T20,Scotland,Scotland,,141,Win,1,Defend,,Defend
+1273272,T20,Zimbabwe,Zimbabwe,,136,Win,1,Defend,,Defend
+1273713,T20,Scotland,Scotland,,140,Win,1,Defend,,Defend
+1273716,T20,Scotland,Scotland,,165,Win,1,Defend,,Defend
+1273717,T20,Bangladesh,Bangladesh,,153,Win,1,Defend,,Defend
+1273719,T20,Sri Lanka,Sri Lanka,,171,Win,1,Defend,,Defend
+1273720,T20,Bangladesh,Bangladesh,,181,Win,1,Defend,,Defend
+1273728,T20,Afghanistan,Afghanistan,,190,Win,1,Defend,,Defend
+1273734,T20,West Indies,West Indies,,142,Win,1,Defend,,Defend
+1273738,T20,Afghanistan,Afghanistan,,160,Win,1,Defend,,Defend
+1273740,T20,England,England,,163,Win,1,Defend,,Defend
+1273742,T20,Pakistan,Pakistan,,189,Win,1,Defend,,Defend
+1273743,T20,New Zealand,New Zealand,,172,Win,1,Defend,,Defend
+1273744,T20,India,India,,210,Win,1,Defend,,Defend
+1273746,T20,Sri Lanka,Sri Lanka,,189,Win,1,Defend,,Defend
+1273747,T20,New Zealand,New Zealand,,163,Win,1,Defend,,Defend
+1273750,T20,South Africa,South Africa,,189,Win,1,Defend,,Defend
+1273752,T20,Pakistan,Pakistan,,189,Win,1,Defend,,Defend
+1275040,T20,Uganda,Uganda,,152,Win,1,Defend,,Defend
+1275042,T20,Kenya,Kenya,,162,Win,1,Defend,,Defend
+1275044,T20,Kenya,Kenya,,151,Win,1,Defend,,Defend
+1275045,T20,Nigeria,Nigeria,,133,Win,1,Defend,,Defend
+1275047,T20,Uganda,Uganda,,172,Win,1,Defend,,Defend
+1275051,T20,Uganda,Uganda,,120,Win,1,Defend,,Defend
+1275268,T20,Romania,Romania,,211,Win,1,Defend,,Defend
+1275269,T20,Luxembourg,Luxembourg,,187,Win,1,Defend,,Defend
+1275270,T20,Hungary,Hungary,,165,Win,1,Defend,,Defend
+1275272,T20,Romania,Romania,,195,Win,1,Defend,,Defend
+1275274,T20,Luxembourg,Luxembourg,,179,Win,1,Defend,,Defend
+1275275,T20,Romania,Romania,,202,Win,1,Defend,,Defend
+1275277,T20,Romania,Romania,,156,Win,1,Defend,,Defend
+1276904,T20,India,India,,198,Win,1,Defend,,Defend
+1276905,T20,India,India,,170,Win,1,Defend,,Defend
+1276906,T20,England,England,,215,Win,1,Defend,,Defend
+1276913,T20,England,England,,234,Win,1,Defend,,Defend
+1276914,T20,South Africa,South Africa,,207,Win,1,Defend,,Defend
+1276915,T20,South Africa,South Africa,,191,Win,1,Defend,,Defend
+1278673,T20,India,India,,184,Win,1,Defend,,Defend
+1278680,T20,India,India,,186,Win,1,Defend,,Defend
+1278681,T20,India,India,,184,Win,1,Defend,,Defend
+1278684,T20,India,India,,199,Win,1,Defend,,Defend
+1278689,T20,India,India,,179,Win,1,Defend,,Defend
+1278690,T20,India,India,,169,Win,1,Defend,,Defend
+1279385,T20,Cyprus,Cyprus,,160,Win,1,Defend,,Defend
+1280059,T20,Namibia,Namibia,,174,Win,1,Defend,,Defend
+1280061,T20,United Arab Emirates,United Arab Emirates,,163,Win,1,Defend,,Defend
+1282272,T20,Malta,Malta,,213,Win,1,Defend,,Defend
+1282276,T20,Switzerland,Switzerland,,150,Win,1,Defend,,Defend
+1282279,T20,Malta,Malta,,176,Win,1,Defend,,Defend
+1282738,T20,Jersey,Jersey,,137,Win,1,Defend,,Defend
+1282741,T20,Jersey,Jersey,,139,Win,1,Defend,,Defend
+1282742,T20,Jersey,Jersey,,94,Win,1,Defend,,Defend
+1282744,T20,Italy,Italy,,141,Win,1,Defend,,Defend
+1282747,T20,Germany,Germany,,119,Win,1,Defend,,Defend
+1282748,T20,Italy,Italy,,117,Win,1,Defend,,Defend
+1283028,T20,Uganda,Uganda,,169,Win,1,Defend,,Defend
+1283033,T20,Malawi,Malawi,,142,Win,1,Defend,,Defend
+1283036,T20,Rwanda,Rwanda,,102,Win,1,Defend,,Defend
+1283037,T20,Uganda,Uganda,,176,Win,1,Defend,,Defend
+1283040,T20,Malawi,Malawi,,139,Win,1,Defend,,Defend
+1283041,T20,Uganda,Uganda,,164,Win,1,Defend,,Defend
+1283042,T20,Botswana,Botswana,,157,Win,1,Defend,,Defend
+1283043,T20,Tanzania,Tanzania,,242,Win,1,Defend,,Defend
+1283044,T20,Mozambique,Mozambique,,209,Win,1,Defend,,Defend
+1283048,T20,Botswana,Botswana,,152,Win,1,Defend,,Defend
+1283049,T20,Tanzania,Tanzania,,240,Win,1,Defend,,Defend
+1283051,T20,Tanzania,Tanzania,,143,Win,1,Defend,,Defend
+1283091,T20,Nigeria,Nigeria,,124,Win,1,Defend,,Defend
+1283093,T20,Nigeria,Nigeria,,90,Win,1,Defend,,Defend
+1283094,T20,Nigeria,Nigeria,,134,Win,1,Defend,,Defend
+1284491,T20,Qatar,Qatar,,154,Win,1,Defend,,Defend
+1284496,T20,Bahrain,Bahrain,,179,Win,1,Defend,,Defend
+1286670,T20,Canada,Canada,,234,Win,1,Defend,,Defend
+1286671,T20,Bahamas,Bahamas,,121,Win,1,Defend,,Defend
+1286672,T20,Belize,Belize,,143,Win,1,Defend,,Defend
+1286673,T20,United States of America,United States of America,,172,Win,1,Defend,,Defend
+1286674,T20,Canada,Canada,,142,Win,1,Defend,,Defend
+1286675,T20,Argentina,Argentina,,171,Win,1,Defend,,Defend
+1286677,T20,Bermuda,Bermuda,,239,Win,1,Defend,,Defend
+1286684,T20,Panama,Panama,,139,Win,1,Defend,,Defend
+1286686,T20,Canada,Canada,,245,Win,1,Defend,,Defend
+1287773,T20,Pakistan,Pakistan,,200,Win,1,Defend,,Defend
+1287774,T20,Pakistan,Pakistan,,172,Win,1,Defend,,Defend
+1289043,T20,Kenya,Kenya,,161,Win,1,Defend,,Defend
+1289044,T20,Uganda,Uganda,,147,Win,1,Defend,,Defend
+1289045,T20,Tanzania,Tanzania,,187,Win,1,Defend,,Defend
+1289051,T20,Kenya,Kenya,,168,Win,1,Defend,,Defend
+1289052,T20,Kenya,Kenya,,123,Win,1,Defend,,Defend
+1289053,T20,Tanzania,Tanzania,,136,Win,1,Defend,,Defend
+1291187,T20,United States of America,United States of America,,188,Win,1,Defend,,Defend
+1291188,T20,Ireland,Ireland,,150,Win,1,Defend,,Defend
+1298135,T20,Namibia,Namibia,,163,Win,1,Defend,,Defend
+1298137,T20,Scotland,Scotland,,160,Win,1,Defend,,Defend
+1298138,T20,Zimbabwe,Zimbabwe,,174,Win,1,Defend,,Defend
+1298140,T20,Sri Lanka,Sri Lanka,,152,Win,1,Defend,,Defend
+1298142,T20,West Indies,West Indies,,153,Win,1,Defend,,Defend
+1298143,T20,Sri Lanka,Sri Lanka,,162,Win,1,Defend,,Defend
+1298144,T20,United Arab Emirates,United Arab Emirates,,148,Win,1,Defend,,Defend
+1298147,T20,New Zealand,New Zealand,,200,Win,1,Defend,,Defend
+1298151,T20,Bangladesh,Bangladesh,,144,Win,1,Defend,,Defend
+1298152,T20,Zimbabwe,Zimbabwe,,79,Win,1,Defend,,Defend
+1298154,T20,Ireland,Ireland,,157,Win,1,Defend,,Defend
+1298156,T20,South Africa,South Africa,,205,Win,1,Defend,,Defend
+1298157,T20,India,India,,179,Win,1,Defend,,Defend
+1298158,T20,Zimbabwe,Zimbabwe,,130,Win,1,Defend,,Defend
+1298161,T20,New Zealand,New Zealand,,167,Win,1,Defend,,Defend
+1298162,T20,Bangladesh,Bangladesh,,150,Win,1,Defend,,Defend
+1298165,T20,Australia,Australia,,179,Win,1,Defend,,Defend
+1298167,T20,England,England,,179,Win,1,Defend,,Defend
+1298169,T20,India,India,,184,Win,1,Defend,,Defend
+1298170,T20,Pakistan,Pakistan,,185,Win,1,Defend,,Defend
+1298171,T20,New Zealand,New Zealand,,185,Win,1,Defend,,Defend
+1298172,T20,Australia,Australia,,168,Win,1,Defend,,Defend
+1298174,T20,Netherlands,Netherlands,,158,Win,1,Defend,,Defend
+1298176,T20,India,India,,186,Win,1,Defend,,Defend
+1299566,T20,Nepal,Nepal,,117,Win,1,Defend,,Defend
+1299567,T20,Canada,Canada,,216,Win,1,Defend,,Defend
+1299568,T20,United Arab Emirates,United Arab Emirates,,157,Win,1,Defend,,Defend
+1299571,T20,Nepal,Nepal,,218,Win,1,Defend,,Defend
+1299572,T20,United Arab Emirates,United Arab Emirates,,191,Win,1,Defend,,Defend
+1299573,T20,Ireland,Ireland,,158,Win,1,Defend,,Defend
+1299575,T20,Bahrain,Bahrain,,172,Win,1,Defend,,Defend
+1299579,T20,Bahrain,Bahrain,,191,Win,1,Defend,,Defend
+1299580,T20,United Arab Emirates,United Arab Emirates,,175,Win,1,Defend,,Defend
+1299581,T20,Ireland,Ireland,,165,Win,1,Defend,,Defend
+1299592,T20,United Arab Emirates,United Arab Emirates,,178,Win,1,Defend,,Defend
+1299596,T20,Ireland,Ireland,,127,Win,1,Defend,,Defend
+1299638,T20,United Arab Emirates,United Arab Emirates,,192,Win,1,Defend,,Defend
+1299832,T20,Bangladesh,Bangladesh,,155,Win,1,Defend,,Defend
+1303308,T20,India,India,,225,Win,1,Defend,,Defend
+1303312,T20,New Zealand,New Zealand,,173,Win,1,Defend,,Defend
+1303313,T20,New Zealand,New Zealand,,179,Win,1,Defend,,Defend
+1303315,T20,South Africa,South Africa,,211,Win,1,Defend,,Defend
+1303316,T20,South Africa,South Africa,,182,Win,1,Defend,,Defend
+1304051,IPL,RR,RR,,210,Win,1,Defend,,Defend
+1304055,IPL,RR,RR,,193,Win,1,Defend,,Defend
+1304056,IPL,GT,GT,,171,Win,1,Defend,,Defend
+1304057,IPL,PBKS,PBKS,,180,Win,1,Defend,,Defend
+1304058,IPL,LSG,LSG,,169,Win,1,Defend,,Defend
+1304065,IPL,DC,DC,,215,Win,1,Defend,,Defend
+1304066,IPL,RR,RR,,165,Win,1,Defend,,Defend
+1304068,IPL,CSK,CSK,,216,Win,1,Defend,,Defend
+1304069,IPL,PBKS,PBKS,,198,Win,1,Defend,,Defend
+1304070,IPL,GT,GT,,192,Win,1,Defend,,Defend
+1304072,IPL,LSG,LSG,,199,Win,1,Defend,,Defend
+1304073,IPL,RCB,RCB,,189,Win,1,Defend,,Defend
+1304076,IPL,RR,RR,,217,Win,1,Defend,,Defend
+1304077,IPL,RCB,RCB,,181,Win,1,Defend,,Defend
+1304080,IPL,RR,RR,,222,Win,1,Defend,,Defend
+1304081,IPL,GT,GT,,156,Win,1,Defend,,Defend
+1304083,IPL,LSG,LSG,,168,Win,1,Defend,,Defend
+1304084,IPL,PBKS,PBKS,,187,Win,1,Defend,,Defend
+1304085,IPL,RR,RR,,144,Win,1,Defend,,Defend
+1304088,IPL,LSG,LSG,,153,Win,1,Defend,,Defend
+1304091,IPL,LSG,LSG,,195,Win,1,Defend,,Defend
+1304092,IPL,CSK,CSK,,202,Win,1,Defend,,Defend
+1304095,IPL,RCB,RCB,,173,Win,1,Defend,,Defend
+1304096,IPL,DC,DC,,207,Win,1,Defend,,Defend
+1304097,IPL,MI,MI,,177,Win,1,Defend,,Defend
+1304099,IPL,LSG,LSG,,176,Win,1,Defend,,Defend
+1304100,IPL,RCB,RCB,,192,Win,1,Defend,,Defend
+1304101,IPL,CSK,CSK,,208,Win,1,Defend,,Defend
+1304102,IPL,KKR,KKR,,165,Win,1,Defend,,Defend
+1304103,IPL,GT,GT,,144,Win,1,Defend,,Defend
+1304106,IPL,PBKS,PBKS,,209,Win,1,Defend,,Defend
+1304107,IPL,KKR,KKR,,177,Win,1,Defend,,Defend
+1304109,IPL,RR,RR,,178,Win,1,Defend,,Defend
+1304110,IPL,DC,DC,,159,Win,1,Defend,,Defend
+1304111,IPL,SRH,SRH,,193,Win,1,Defend,,Defend
+1304112,IPL,LSG,LSG,,210,Win,1,Defend,,Defend
+1305498,T20,Nepal,Nepal,,183,Win,1,Defend,,Defend
+1305499,T20,Malaysia,Malaysia,,180,Win,1,Defend,,Defend
+1305501,T20,Nepal,Nepal,,203,Win,1,Defend,,Defend
+1305503,T20,Nepal,Nepal,,223,Win,1,Defend,,Defend
+1305504,T20,Nepal,Nepal,,168,Win,1,Defend,,Defend
+1307161,T20,Afghanistan,Afghanistan,,189,Win,1,Defend,,Defend
+1307162,T20,Afghanistan,Afghanistan,,132,Win,1,Defend,,Defend
+1307163,T20,Afghanistan,Afghanistan,,95,Win,1,Defend,,Defend
+1307477,T20,New Zealand,New Zealand,,225,Win,1,Defend,,Defend
+1307478,T20,New Zealand,New Zealand,,254,Win,1,Defend,,Defend
+1309703,T20,Namibia,Namibia,,185,Win,1,Defend,,Defend
+1310161,T20,Norway,Norway,,137,Win,1,Defend,,Defend
+1310162,T20,Spain,Spain,,129,Win,1,Defend,,Defend
+1310166,T20,Spain,Spain,,125,Win,1,Defend,,Defend
+1310168,T20,Denmark,Denmark,,171,Win,1,Defend,,Defend
+1310169,T20,Denmark,Denmark,,164,Win,1,Defend,,Defend
+1310171,T20,Malta,Malta,,206,Win,1,Defend,,Defend
+1310174,T20,Czech Republic,Czech Republic,,184,Win,1,Defend,,Defend
+1310175,T20,Hungary,Hungary,,158,Win,1,Defend,,Defend
+1310176,T20,Malta,Malta,,164,Win,1,Defend,,Defend
+1310177,T20,Czech Republic,Czech Republic,,258,Win,1,Defend,,Defend
+1310179,T20,Gibraltar,Gibraltar,,213,Win,1,Defend,,Defend
+1310180,T20,Romania,Romania,,193,Win,1,Defend,,Defend
+1310186,T20,Czech Republic,Czech Republic,,221,Win,1,Defend,,Defend
+1310187,T20,Romania,Romania,,171,Win,1,Defend,,Defend
+1310188,T20,Jersey,Jersey,,178,Win,1,Defend,,Defend
+1310901,T20,New Zealand,New Zealand,,148,Win,1,Defend,,Defend
+1310938,T20,Zimbabwe,Zimbabwe,,153,Win,1,Defend,,Defend
+1310942,T20,Namibia,Namibia,,127,Win,1,Defend,,Defend
+1310947,T20,Afghanistan,Afghanistan,,170,Win,1,Defend,,Defend
+1310948,T20,Afghanistan,Afghanistan,,125,Win,1,Defend,,Defend
+1312198,IPL,RCB,RCB,,207,Win,1,Defend,,Defend
+1317138,T20,Serbia,Serbia,,185,Win,1,Defend,,Defend
+1317150,T20,West Indies,West Indies,,193,Win,1,Defend,,Defend
+1317483,T20,Australia,Australia,,178,Win,1,Defend,,Defend
+1317486,T20,England,England,,208,Win,1,Defend,,Defend
+1317487,T20,England,England,,178,Win,1,Defend,,Defend
+1317488,T20,England,England,,112,Win,1,Defend,,Defend
+1317903,T20,India,India,,190,Win,1,Defend,,Defend
+1317906,T20,India,India,,191,Win,1,Defend,,Defend
+1317907,T20,India,India,,188,Win,1,Defend,,Defend
+1317908,T20,New Zealand,New Zealand,,185,Win,1,Defend,,Defend
+1317909,T20,New Zealand,New Zealand,,215,Win,1,Defend,,Defend
+1318357,T20,Germany,Germany,,135,Win,1,Defend,,Defend
+1318359,T20,Austria,Austria,,141,Win,1,Defend,,Defend
+1318360,T20,Austria,Austria,,124,Win,1,Defend,,Defend
+1318361,T20,Austria,Austria,,133,Win,1,Defend,,Defend
+1318362,T20,Germany,Germany,,151,Win,1,Defend,,Defend
+1320973,T20,Portugal,Portugal,,154,Win,1,Defend,,Defend
+1320974,T20,Denmark,Denmark,,256,Win,1,Defend,,Defend
+1320979,T20,Malta,Malta,,136,Win,1,Defend,,Defend
+1320980,T20,Belgium,Belgium,,161,Win,1,Defend,,Defend
+1320984,T20,Denmark,Denmark,,154,Win,1,Defend,,Defend
+1320985,T20,Israel,Israel,,166,Win,1,Defend,,Defend
+1321259,T20,Finland,Finland,,115,Win,1,Defend,,Defend
+1321260,T20,Romania,Romania,,147,Win,1,Defend,,Defend
+1321261,T20,Cyprus,Cyprus,,154,Win,1,Defend,,Defend
+1321263,T20,Isle of Man,Isle of Man,,165,Win,1,Defend,,Defend
+1321265,T20,Italy,Italy,,169,Win,1,Defend,,Defend
+1321267,T20,Croatia,Croatia,,104,Win,1,Defend,,Defend
+1321269,T20,Romania,Romania,,133,Win,1,Defend,,Defend
+1321270,T20,Finland,Finland,,183,Win,1,Defend,,Defend
+1321271,T20,Cyprus,Cyprus,,183,Win,1,Defend,,Defend
+1321272,T20,Italy,Italy,,210,Win,1,Defend,,Defend
+1321273,T20,Sweden,Sweden,,150,Win,1,Defend,,Defend
+1321276,T20,Isle of Man,Isle of Man,,171,Win,1,Defend,,Defend
+1321278,T20,Finland,Finland,,159,Win,1,Defend,,Defend
+1321281,T20,Austria,Austria,,139,Win,1,Defend,,Defend
+1321283,T20,Guernsey,Guernsey,,130,Win,1,Defend,,Defend
+1321284,T20,France,France,,153,Win,1,Defend,,Defend
+1321286,T20,Austria,Austria,,214,Win,1,Defend,,Defend
+1321288,T20,Guernsey,Guernsey,,131,Win,1,Defend,,Defend
+1321290,T20,Switzerland,Switzerland,,173,Win,1,Defend,,Defend
+1321292,T20,France,France,,158,Win,1,Defend,,Defend
+1321293,T20,Norway,Norway,,174,Win,1,Defend,,Defend
+1321294,T20,Luxembourg,Luxembourg,,164,Win,1,Defend,,Defend
+1321295,T20,Czech Republic,Czech Republic,,135,Win,1,Defend,,Defend
+1321299,T20,Luxembourg,Luxembourg,,129,Win,1,Defend,,Defend
+1321302,T20,Guernsey,Guernsey,,153,Win,1,Defend,,Defend
+1321303,T20,Luxembourg,Luxembourg,,115,Win,1,Defend,,Defend
+1321308,T20,Austria,Austria,,115,Win,1,Defend,,Defend
+1321309,T20,Czech Republic,Czech Republic,,209,Win,1,Defend,,Defend
+1321312,T20,Malaysia,Malaysia,,177,Win,1,Defend,,Defend
+1321465,T20,Zimbabwe,Zimbabwe,,236,Win,1,Defend,,Defend
+1321467,T20,Netherlands,Netherlands,,163,Win,1,Defend,,Defend
+1321469,T20,Zimbabwe,Zimbabwe,,146,Win,1,Defend,,Defend
+1321470,T20,United States of America,United States of America,,201,Win,1,Defend,,Defend
+1321473,T20,Netherlands,Netherlands,,187,Win,1,Defend,,Defend
+1321475,T20,Zimbabwe,Zimbabwe,,185,Win,1,Defend,,Defend
+1321477,T20,Uganda,Uganda,,110,Win,1,Defend,,Defend
+1321479,T20,Zimbabwe,Zimbabwe,,199,Win,1,Defend,,Defend
+1321481,T20,Uganda,Uganda,,102,Win,1,Defend,,Defend
+1321483,T20,Papua New Guinea,Papua New Guinea,,97,Win,1,Defend,,Defend
+1321484,T20,Zimbabwe,Zimbabwe,,132,Win,1,Defend,,Defend
+1321998,T20,Malaysia,Malaysia,,213,Win,1,Defend,,Defend
+1322002,T20,Bhutan,Bhutan,,110,Win,1,Defend,,Defend
+1322005,T20,Bhutan,Bhutan,,110,Win,1,Defend,,Defend
+1322007,T20,Maldives,Maldives,,97,Win,1,Defend,,Defend
+1322009,T20,Bhutan,Bhutan,,135,Win,1,Defend,,Defend
+1322011,T20,Singapore,Singapore,,168,Win,1,Defend,,Defend
+1322276,T20,India,India,,191,Win,1,Defend,,Defend
+1322277,T20,New Zealand,New Zealand,,160,Win,1,Defend,,Defend
+1322334,T20,Pakistan,Pakistan,,167,Win,1,Defend,,Defend
+1322338,T20,New Zealand,New Zealand,,208,Win,1,Defend,,Defend
+1323295,T20,Zimbabwe,Zimbabwe,,205,Win,1,Defend,,Defend
+1323297,T20,Zimbabwe,Zimbabwe,,156,Win,1,Defend,,Defend
+1323552,T20,Bulgaria,Bulgaria,,206,Win,1,Defend,,Defend
+1327230,T20,England,England,,221,Win,1,Defend,,Defend
+1327231,T20,Pakistan,Pakistan,,166,Win,1,Defend,,Defend
+1327232,T20,Pakistan,Pakistan,,145,Win,1,Defend,,Defend
+1327234,T20,England,England,,209,Win,1,Defend,,Defend
+1327272,T20,India,India,,192,Win,1,Defend,,Defend
+1327274,T20,Pakistan,Pakistan,,193,Win,1,Defend,,Defend
+1327279,T20,India,India,,212,Win,1,Defend,,Defend
+1327281,T20,Sri Lanka,Sri Lanka,,170,Win,1,Defend,,Defend
+1327507,T20,India,India,,237,Win,1,Defend,,Defend
+1327508,T20,South Africa,South Africa,,227,Win,1,Defend,,Defend
+1328470,T20,Kuwait,Kuwait,,209,Win,1,Defend,,Defend
+1328473,T20,Kuwait,Kuwait,,186,Win,1,Defend,,Defend
+1328477,T20,Kenya,Kenya,,101,Win,1,Defend,,Defend
+1328478,T20,Nepal,Nepal,,175,Win,1,Defend,,Defend
+1328849,T20,Hong Kong,Hong Kong,,148,Win,1,Defend,,Defend
+1328851,T20,United Arab Emirates,United Arab Emirates,,160,Win,1,Defend,,Defend
+1332498,T20,Ghana,Ghana,,154,Win,1,Defend,,Defend
+1332503,T20,Uganda,Uganda,,162,Win,1,Defend,,Defend
+1332504,T20,Botswana,Botswana,,185,Win,1,Defend,,Defend
+1332505,T20,Tanzania,Tanzania,,170,Win,1,Defend,,Defend
+1332507,T20,Botswana,Botswana,,146,Win,1,Defend,,Defend
+1333925,T20,Vanuatu,Vanuatu,,167,Win,1,Defend,,Defend
+1333928,T20,Fiji,Fiji,,147,Win,1,Defend,,Defend
+1333929,T20,Vanuatu,Vanuatu,,160,Win,1,Defend,,Defend
+1333931,T20,Japan,Japan,,179,Win,1,Defend,,Defend
+1336031,T20,Bangladesh,Bangladesh,,158,Win,1,Defend,,Defend
+1336032,T20,Bangladesh,Bangladesh,,169,Win,1,Defend,,Defend
+1336049,T20,England,England,,198,Win,1,Defend,,Defend
+1336050,T20,New Zealand,New Zealand,,202,Win,1,Defend,,Defend
+1336951,T20,Indonesia,Indonesia,,130,Win,1,Defend,,Defend
+1336952,T20,Japan,Japan,,218,Win,1,Defend,,Defend
+1339208,T20,Germany,Germany,,131,Win,1,Defend,,Defend
+1339209,T20,Spain,Spain,,132,Win,1,Defend,,Defend
+1339210,T20,Italy,Italy,,160,Win,1,Defend,,Defend
+1339606,T20,West Indies,West Indies,,220,Win,1,Defend,,Defend
+1339614,T20,Pakistan,Pakistan,,182,Win,1,Defend,,Defend
+1339615,T20,Pakistan,Pakistan,,192,Win,1,Defend,,Defend
+1339616,T20,New Zealand,New Zealand,,163,Win,1,Defend,,Defend
+1343741,T20,Lesotho,Lesotho,,138,Win,1,Defend,,Defend
+1343744,T20,Rwanda,Rwanda,,130,Win,1,Defend,,Defend
+1343746,T20,Kenya,Kenya,,209,Win,1,Defend,,Defend
+1343747,T20,Seychelles,Seychelles,,162,Win,1,Defend,,Defend
+1343753,T20,Kenya,Kenya,,237,Win,1,Defend,,Defend
+1343757,T20,St Helena,St Helena,,126,Win,1,Defend,,Defend
+1343761,T20,Rwanda,Rwanda,,122,Win,1,Defend,,Defend
+1343764,T20,Seychelles,Seychelles,,94,Win,1,Defend,,Defend
+1343768,T20,Sierra Leone,Sierra Leone,,57,Win,1,Defend,,Defend
+1343777,T20,Nigeria,Nigeria,,221,Win,1,Defend,,Defend
+1343781,T20,Sierra Leone,Sierra Leone,,52,Win,1,Defend,,Defend
+1343782,T20,Cameroon,Cameroon,,72,Win,1,Defend,,Defend
+1343783,T20,Ghana,Ghana,,135,Win,1,Defend,,Defend
+1343784,T20,Tanzania,Tanzania,,186,Win,1,Defend,,Defend
+1343788,T20,Ghana,Ghana,,215,Win,1,Defend,,Defend
+1343790,T20,Nigeria,Nigeria,,101,Win,1,Defend,,Defend
+1343791,T20,Mozambique,Mozambique,,127,Win,1,Defend,,Defend
+1343793,T20,Gambia,Gambia,,115,Win,1,Defend,,Defend
+1343795,T20,Tanzania,Tanzania,,218,Win,1,Defend,,Defend
+1344784,T20,Canada,Canada,,194,Win,1,Defend,,Defend
+1344786,T20,Bahrain,Bahrain,,170,Win,1,Defend,,Defend
+1344787,T20,Canada,Canada,,191,Win,1,Defend,,Defend
+1344790,T20,Canada,Canada,,171,Win,1,Defend,,Defend
+1344791,T20,Oman,Oman,,220,Win,1,Defend,,Defend
+1344794,T20,Saudi Arabia,Saudi Arabia,,155,Win,1,Defend,,Defend
+1348640,T20,India,India,,162,Win,1,Defend,,Defend
+1348641,T20,Sri Lanka,Sri Lanka,,206,Win,1,Defend,,Defend
+1348642,T20,India,India,,228,Win,1,Defend,,Defend
+1348649,T20,New Zealand,New Zealand,,176,Win,1,Defend,,Defend
+1348651,T20,India,India,,234,Win,1,Defend,,Defend
+1349124,T20,Tanzania,Tanzania,,147,Win,1,Defend,,Defend
+1349126,T20,Uganda,Uganda,,185,Win,1,Defend,,Defend
+1349128,T20,Uganda,Uganda,,168,Win,1,Defend,,Defend
+1349129,T20,Uganda,Uganda,,169,Win,1,Defend,,Defend
+1349132,T20,Uganda,Uganda,,107,Win,1,Defend,,Defend
+1349136,T20,Tanzania,Tanzania,,134,Win,1,Defend,,Defend
+1349138,T20,Tanzania,Tanzania,,136,Win,1,Defend,,Defend
+1349139,T20,Uganda,Uganda,,183,Win,1,Defend,,Defend
+1349140,T20,Uganda,Uganda,,108,Win,1,Defend,,Defend
+1349382,T20,Bahrain,Bahrain,,164,Win,1,Defend,,Defend
+1349383,T20,Malaysia,Malaysia,,207,Win,1,Defend,,Defend
+1349388,T20,Malaysia,Malaysia,,223,Win,1,Defend,,Defend
+1351402,T20,Bangladesh,Bangladesh,,158,Win,1,Defend,,Defend
+1355720,T20,Bangladesh,Bangladesh,,207,Win,1,Defend,,Defend
+1355721,T20,Bangladesh,Bangladesh,,202,Win,1,Defend,,Defend
+1359476,IPL,PBKS,PBKS,,191,Win,1,Defend,,Defend
+1359477,IPL,LSG,LSG,,193,Win,1,Defend,,Defend
+1359478,IPL,RR,RR,,203,Win,1,Defend,,Defend
+1359480,IPL,CSK,CSK,,217,Win,1,Defend,,Defend
+1359482,IPL,PBKS,PBKS,,197,Win,1,Defend,,Defend
+1359483,IPL,KKR,KKR,,204,Win,1,Defend,,Defend
+1359485,IPL,RR,RR,,199,Win,1,Defend,,Defend
+1359491,IPL,RR,RR,,175,Win,1,Defend,,Defend
+1359493,IPL,SRH,SRH,,228,Win,1,Defend,,Defend
+1359494,IPL,RCB,RCB,,174,Win,1,Defend,,Defend
+1359498,IPL,CSK,CSK,,226,Win,1,Defend,,Defend
+1359499,IPL,MI,MI,,192,Win,1,Defend,,Defend
+1359500,IPL,LSG,LSG,,154,Win,1,Defend,,Defend
+1359501,IPL,RCB,RCB,,174,Win,1,Defend,,Defend
+1359504,IPL,GT,GT,,135,Win,1,Defend,,Defend
+1359505,IPL,PBKS,PBKS,,214,Win,1,Defend,,Defend
+1359506,IPL,RCB,RCB,,189,Win,1,Defend,,Defend
+1359507,IPL,CSK,CSK,,235,Win,1,Defend,,Defend
+1359508,IPL,DC,DC,,144,Win,1,Defend,,Defend
+1359509,IPL,GT,GT,,207,Win,1,Defend,,Defend
+1359510,IPL,KKR,KKR,,200,Win,1,Defend,,Defend
+1359511,IPL,RR,RR,,202,Win,1,Defend,,Defend
+1359512,IPL,LSG,LSG,,257,Win,1,Defend,,Defend
+1359514,IPL,SRH,SRH,,197,Win,1,Defend,,Defend
+1359517,IPL,RCB,RCB,,126,Win,1,Defend,,Defend
+1359518,IPL,DC,DC,,130,Win,1,Defend,,Defend
+1359521,IPL,KKR,KKR,,171,Win,1,Defend,,Defend
+1359525,IPL,GT,GT,,227,Win,1,Defend,,Defend
+1359529,IPL,CSK,CSK,,167,Win,1,Defend,,Defend
+1359531,IPL,MI,MI,,218,Win,1,Defend,,Defend
+1359533,IPL,PBKS,PBKS,,167,Win,1,Defend,,Defend
+1359534,IPL,RCB,RCB,,171,Win,1,Defend,,Defend
+1359536,IPL,GT,GT,,188,Win,1,Defend,,Defend
+1359537,IPL,LSG,LSG,,177,Win,1,Defend,,Defend
+1359538,IPL,DC,DC,,213,Win,1,Defend,,Defend
+1359541,IPL,CSK,CSK,,223,Win,1,Defend,,Defend
+1359542,IPL,LSG,LSG,,176,Win,1,Defend,,Defend
+1359787,T20,Bermuda,Bermuda,,226,Win,1,Defend,,Defend
+1359788,T20,Cayman Islands,Cayman Islands,,125,Win,1,Defend,,Defend
+1359789,T20,Bermuda,Bermuda,,196,Win,1,Defend,,Defend
+1359793,T20,Bermuda,Bermuda,,220,Win,1,Defend,,Defend
+1359794,T20,Panama,Panama,,139,Win,1,Defend,,Defend
+1359795,T20,Bermuda,Bermuda,,173,Win,1,Defend,,Defend
+1359798,T20,Argentina,Argentina,,117,Win,1,Defend,,Defend
+1359799,T20,Cayman Islands,Cayman Islands,,138,Win,1,Defend,,Defend
+1361771,T20,Hong Kong,Hong Kong,,153,Win,1,Defend,,Defend
+1361772,T20,Malaysia,Malaysia,,200,Win,1,Defend,,Defend
+1361773,T20,Hong Kong,Hong Kong,,161,Win,1,Defend,,Defend
+1362242,T20,Hong Kong,Hong Kong,,182,Win,1,Defend,,Defend
+1362817,T20,Pakistan,Pakistan,,182,Win,1,Defend,,Defend
+1367722,T20,Portugal,Portugal,,208,Win,1,Defend,,Defend
+1367726,T20,Portugal,Portugal,,160,Win,1,Defend,,Defend
+1367727,T20,Gibraltar,Gibraltar,,176,Win,1,Defend,,Defend
+1367729,T20,Portugal,Portugal,,162,Win,1,Defend,,Defend
+1367730,T20,Gibraltar,Gibraltar,,143,Win,1,Defend,,Defend
+1367731,T20,Malta,Malta,,165,Win,1,Defend,,Defend
+1370350,IPL,CSK,CSK,,172,Win,1,Defend,,Defend
+1370351,IPL,MI,MI,,182,Win,1,Defend,,Defend
+1370352,IPL,GT,GT,,233,Win,1,Defend,,Defend
+1370353,IPL,GT,GT,,214,Win,1,Defend,,Defend
+1370783,T20,Denmark,Denmark,,175,Win,1,Defend,,Defend
+1373568,T20,Australia,Australia,,226,Win,1,Defend,,Defend
+1373580,T20,West Indies,West Indies,,176,Win,1,Defend,,Defend
+1373582,T20,England,England,,267,Win,1,Defend,,Defend
+1375850,T20,Australia,Australia,,213,Win,1,Defend,,Defend
+1375851,T20,Australia,Australia,,241,Win,1,Defend,,Defend
+1375852,T20,West Indies,West Indies,,220,Win,1,Defend,,Defend
+1377727,T20,New Zealand,New Zealand,,155,Win,1,Defend,,Defend
+1377729,T20,New Zealand,New Zealand,,166,Win,1,Defend,,Defend
+1379577,T20,Kenya,Kenya,,185,Win,1,Defend,,Defend
+1379583,T20,Uganda,Uganda,,153,Win,1,Defend,,Defend
+1379586,T20,Rwanda,Rwanda,,158,Win,1,Defend,,Defend
+1379587,T20,Uganda,Uganda,,153,Win,1,Defend,,Defend
+1379589,T20,Uganda,Uganda,,175,Win,1,Defend,,Defend
+1379590,T20,Botswana,Botswana,,145,Win,1,Defend,,Defend
+1379592,T20,Uganda,Uganda,,125,Win,1,Defend,,Defend
+1380586,T20,Czech Republic,Czech Republic,,169,Win,1,Defend,,Defend
+1381217,T20,West Indies,West Indies,,149,Win,1,Defend,,Defend
+1381453,T20,Serbia,Serbia,,181,Win,1,Defend,,Defend
+1383069,T20,Ireland,Ireland,,158,Win,1,Defend,,Defend
+1383070,T20,Scotland,Scotland,,234,Win,1,Defend,,Defend
+1383073,T20,Scotland,Scotland,,149,Win,1,Defend,,Defend
+1383074,T20,Ireland,Ireland,,226,Win,1,Defend,,Defend
+1383075,T20,Italy,Italy,,183,Win,1,Defend,,Defend
+1383077,T20,Scotland,Scotland,,245,Win,1,Defend,,Defend
+1383080,T20,Italy,Italy,,150,Win,1,Defend,,Defend
+1383081,T20,Scotland,Scotland,,232,Win,1,Defend,,Defend
+1383082,T20,Jersey,Jersey,,190,Win,1,Defend,,Defend
+1383083,T20,Scotland,Scotland,,159,Win,1,Defend,,Defend
+1383087,T20,Jersey,Jersey,,159,Win,1,Defend,,Defend
+1383088,T20,Scotland,Scotland,,213,Win,1,Defend,,Defend
+1383089,T20,Japan,Japan,,166,Win,1,Defend,,Defend
+1383091,T20,Japan,Japan,,131,Win,1,Defend,,Defend
+1383095,T20,Papua New Guinea,Papua New Guinea,,148,Win,1,Defend,,Defend
+1383096,T20,Japan,Japan,,127,Win,1,Defend,,Defend
+1383098,T20,Papua New Guinea,Papua New Guinea,,229,Win,1,Defend,,Defend
+1383102,T20,Bhutan,Bhutan,,105,Win,1,Defend,,Defend
+1383104,T20,Malaysia,Malaysia,,180,Win,1,Defend,,Defend
+1383105,T20,Thailand,Thailand,,140,Win,1,Defend,,Defend
+1383106,T20,Bhutan,Bhutan,,161,Win,1,Defend,,Defend
+1383107,T20,Malaysia,Malaysia,,219,Win,1,Defend,,Defend
+1384582,T20,France,France,,115,Win,1,Defend,,Defend
+1384583,T20,Malta,Malta,,125,Win,1,Defend,,Defend
+1384584,T20,Malta,Malta,,179,Win,1,Defend,,Defend
+1384585,T20,France,France,,177,Win,1,Defend,,Defend
+1384588,T20,France,France,,153,Win,1,Defend,,Defend
+1384591,T20,France,France,,191,Win,1,Defend,,Defend
+1384593,T20,Malta,Malta,,187,Win,1,Defend,,Defend
+1384634,T20,Ireland,Ireland,,139,Win,1,Defend,,Defend
+1384637,T20,India,India,,185,Win,1,Defend,,Defend
+1387245,T20,Guernsey,Guernsey,,172,Win,1,Defend,,Defend
+1387598,T20,India,India,,180,Win,1,Defend,,Defend
+1387599,T20,India,India,,201,Win,1,Defend,,Defend
+1388215,T20,Bangladesh,Bangladesh,,110,Win,1,Defend,,Defend
+1388216,T20,New Zealand,New Zealand,,226,Win,1,Defend,,Defend
+1388217,T20,New Zealand,New Zealand,,194,Win,1,Defend,,Defend
+1388218,T20,New Zealand,New Zealand,,224,Win,1,Defend,,Defend
+1388220,T20,Pakistan,Pakistan,,134,Win,1,Defend,,Defend
+1388224,T20,Australia,Australia,,174,Win,1,Defend,,Defend
+1388225,T20,Australia,Australia,,118,Win,1,Defend,,Defend
+1389392,T20,India,India,,235,Win,1,Defend,,Defend
+1389394,T20,India,India,,174,Win,1,Defend,,Defend
+1389395,T20,India,India,,160,Win,1,Defend,,Defend
+1390167,T20,Hungary,Hungary,,209,Win,1,Defend,,Defend
+1391337,T20,Romania,Romania,,190,Win,1,Defend,,Defend
+1392803,T20,Qatar,Qatar,,138,Win,1,Defend,,Defend
+1392808,T20,Qatar,Qatar,,156,Win,1,Defend,,Defend
+1392811,T20,Bahrain,Bahrain,,123,Win,1,Defend,,Defend
+1392812,T20,United Arab Emirates,United Arab Emirates,,166,Win,1,Defend,,Defend
+1393309,T20,Uganda,Uganda,,146,Win,1,Defend,,Defend
+1393312,T20,Uganda,Uganda,,186,Win,1,Defend,,Defend
+1393313,T20,Uganda,Uganda,,192,Win,1,Defend,,Defend
+1393314,T20,Uganda,Uganda,,171,Win,1,Defend,,Defend
+1393317,T20,Uganda,Uganda,,180,Win,1,Defend,,Defend
+1393319,T20,Uganda,Uganda,,141,Win,1,Defend,,Defend
+1393329,T20,Uganda,Uganda,,161,Win,1,Defend,,Defend
+1393330,T20,Tanzania,Tanzania,,152,Win,1,Defend,,Defend
+1393331,T20,Tanzania,Tanzania,,159,Win,1,Defend,,Defend
+1393332,T20,Tanzania,Tanzania,,179,Win,1,Defend,,Defend
+1397437,T20,Bahrain,Bahrain,,150,Win,1,Defend,,Defend
+1397438,T20,Oman,Oman,,171,Win,1,Defend,,Defend
+1398295,T20,Malaysia,Malaysia,,181,Win,1,Defend,,Defend
+1398296,T20,Malaysia,Malaysia,,152,Win,1,Defend,,Defend
+1398298,T20,Malaysia,Malaysia,,149,Win,1,Defend,,Defend
+1399104,T20,Nepal,Nepal,,314,Win,1,Defend,,Defend
+1399113,T20,India,India,,202,Win,1,Defend,,Defend
+1399114,T20,Pakistan,Pakistan,,160,Win,1,Defend,,Defend
+1399115,T20,Afghanistan,Afghanistan,,116,Win,1,Defend,,Defend
+1399116,T20,Bangladesh,Bangladesh,,116,Win,1,Defend,,Defend
+1399148,T20,Qatar,Qatar,,201,Win,1,Defend,,Defend
+1399150,T20,Bermuda,Bermuda,,181,Win,1,Defend,,Defend
+1399153,T20,Canada,Canada,,194,Win,1,Defend,,Defend
+1399154,T20,Canada,Canada,,230,Win,1,Defend,,Defend
+1399155,T20,Bermuda,Bermuda,,176,Win,1,Defend,,Defend
+1399156,T20,Canada,Canada,,196,Win,1,Defend,,Defend
+1399161,T20,Canada,Canada,,132,Win,1,Defend,,Defend
+1400055,T20,Gibraltar,Gibraltar,,172,Win,1,Defend,,Defend
+1400056,T20,Luxembourg,Luxembourg,,165,Win,1,Defend,,Defend
+1400972,T20,Nigeria,Nigeria,,127,Win,1,Defend,,Defend
+1400974,T20,Nigeria,Nigeria,,155,Win,1,Defend,,Defend
+1400976,T20,Nigeria,Nigeria,,129,Win,1,Defend,,Defend
+1400977,T20,Rwanda,Rwanda,,154,Win,1,Defend,,Defend
+1400981,T20,Rwanda,Rwanda,,107,Win,1,Defend,,Defend
+1400982,T20,Nigeria,Nigeria,,142,Win,1,Defend,,Defend
+1400983,T20,Sierra Leone,Sierra Leone,,109,Win,1,Defend,,Defend
+1400987,T20,Nigeria,Nigeria,,106,Win,1,Defend,,Defend
+1400989,T20,Ghana,Ghana,,112,Win,1,Defend,,Defend
+1400991,T20,Nigeria,Nigeria,,103,Win,1,Defend,,Defend
+1403290,T20,Nepal,Nepal,,213,Win,1,Defend,,Defend
+1403293,T20,Hong Kong,Hong Kong,,212,Win,1,Defend,,Defend
+1404394,T20,Namibia,Namibia,,101,Win,1,Defend,,Defend
+1405315,T20,Oman,Oman,,153,Win,1,Defend,,Defend
+1405316,T20,Hong Kong,Hong Kong,,166,Win,1,Defend,,Defend
+1405317,T20,Oman,Oman,,174,Win,1,Defend,,Defend
+1405318,T20,Bahrain,Bahrain,,146,Win,1,Defend,,Defend
+1405321,T20,Oman,Oman,,145,Win,1,Defend,,Defend
+1405322,T20,United Arab Emirates,United Arab Emirates,,176,Win,1,Defend,,Defend
+1405323,T20,Malaysia,Malaysia,,198,Win,1,Defend,,Defend
+1405327,T20,Nepal,Nepal,,184,Win,1,Defend,,Defend
+1407089,T20,Kenya,Kenya,,154,Win,1,Defend,,Defend
+1407096,T20,Kenya,Kenya,,182,Win,1,Defend,,Defend
+1407097,T20,Namibia,Namibia,,207,Win,1,Defend,,Defend
+1407101,T20,Zimbabwe,Zimbabwe,,215,Win,1,Defend,,Defend
+1407103,T20,Namibia,Namibia,,157,Win,1,Defend,,Defend
+1407105,T20,Tanzania,Tanzania,,153,Win,1,Defend,,Defend
+1407106,T20,Uganda,Uganda,,162,Win,1,Defend,,Defend
+1407107,T20,Zimbabwe,Zimbabwe,,217,Win,1,Defend,,Defend
+1407717,T20,Indonesia,Indonesia,,192,Win,1,Defend,,Defend
+1412530,T20,Philippines,Philippines,,158,Win,1,Defend,,Defend
+1412532,T20,Indonesia,Indonesia,,140,Win,1,Defend,,Defend
+1412549,T20,Afghanistan,Afghanistan,,203,Win,1,Defend,,Defend
+1412550,T20,United Arab Emirates,United Arab Emirates,,166,Win,1,Defend,,Defend
+1416077,T20,Sri Lanka,Sri Lanka,,160,Win,1,Defend,,Defend
+1416078,T20,Sri Lanka,Sri Lanka,,187,Win,1,Defend,,Defend
+1416079,T20,Afghanistan,Afghanistan,,209,Win,1,Defend,,Defend
+1416084,T20,Ireland,Ireland,,149,Win,1,Defend,,Defend
+1416085,T20,Afghanistan,Afghanistan,,152,Win,1,Defend,,Defend
+1418177,T20,Cambodia,Cambodia,,130,Win,1,Defend,,Defend
+1418181,T20,Indonesia,Indonesia,,132,Win,1,Defend,,Defend
+1418182,T20,Singapore,Singapore,,199,Win,1,Defend,,Defend
+1418183,T20,Japan,Japan,,166,Win,1,Defend,,Defend
+1418187,T20,Japan,Japan,,150,Win,1,Defend,,Defend
+1418188,T20,Saudi Arabia,Saudi Arabia,,185,Win,1,Defend,,Defend
+1418190,T20,Singapore,Singapore,,176,Win,1,Defend,,Defend
+1418193,T20,Maldives,Maldives,,137,Win,1,Defend,,Defend
+1418539,T20,Hong Kong,Hong Kong,,171,Win,1,Defend,,Defend
+1418541,T20,Japan,Japan,,258,Win,1,Defend,,Defend
+1418542,T20,Hong Kong,Hong Kong,,155,Win,1,Defend,,Defend
+1418544,T20,Japan,Japan,,143,Win,1,Defend,,Defend
+1418545,T20,Hong Kong,Hong Kong,,219,Win,1,Defend,,Defend
+1419824,T20,Sri Lanka,Sri Lanka,,206,Win,1,Defend,,Defend
+1419826,T20,Sri Lanka,Sri Lanka,,174,Win,1,Defend,,Defend
+1420802,T20,Saudi Arabia,Saudi Arabia,,186,Win,1,Defend,,Defend
+1420806,T20,Saudi Arabia,Saudi Arabia,,221,Win,1,Defend,,Defend
+1421079,T20,Scotland,Scotland,,121,Win,1,Defend,,Defend
+1421080,T20,Scotland,Scotland,,94,Win,1,Defend,,Defend
+1422037,T20,Namibia,Namibia,,206,Win,1,Defend,,Defend
+1422038,T20,Netherlands,Netherlands,,184,Win,1,Defend,,Defend
+1422039,T20,Netherlands,Netherlands,,247,Win,1,Defend,,Defend
+1422040,T20,Nepal,Nepal,,180,Win,1,Defend,,Defend
+1422802,T20,Hong Kong,Hong Kong,,172,Win,1,Defend,,Defend
+1422807,T20,Vanuatu,Vanuatu,,128,Win,1,Defend,,Defend
+1422808,T20,Kuwait,Kuwait,,123,Win,1,Defend,,Defend
+1422810,T20,Malaysia,Malaysia,,148,Win,1,Defend,,Defend
+1422814,T20,Bahrain,Bahrain,,135,Win,1,Defend,,Defend
+1422815,T20,Bahrain,Bahrain,,166,Win,1,Defend,,Defend
+1423439,T20,Hong Kong,Hong Kong,,212,Win,1,Defend,,Defend
+1423441,T20,Nepal,Nepal,,198,Win,1,Defend,,Defend
+1423444,T20,Papua New Guinea,Papua New Guinea,,171,Win,1,Defend,,Defend
+1424752,T20,Zimbabwe,Zimbabwe,,197,Win,1,Defend,,Defend
+1424753,T20,Tanzania,Tanzania,,131,Win,1,Defend,,Defend
+1424754,T20,South Africa,South Africa,,237,Win,1,Defend,,Defend
+1424755,T20,Uganda,Uganda,,169,Win,1,Defend,,Defend
+1425110,T20,Papua New Guinea,Papua New Guinea,,206,Win,1,Defend,,Defend
+1425111,T20,Malaysia,Malaysia,,161,Win,1,Defend,,Defend

@@ -1,0 +1,1403 @@
+﻿match_id,Team 1,Team 2,Winner,Loser,Win Type,Event
+1233971,Australia,New Zealand,New Zealand,Australia,Defend,T20
+1233972,Australia,New Zealand,New Zealand,Australia,Defend,T20
+1233973,Australia,New Zealand,Australia,New Zealand,Defend,T20
+1233974,Australia,New Zealand,Australia,New Zealand,Defend,T20
+1233975,Australia,New Zealand,New Zealand,Australia,Chase,T20
+1233979,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1233980,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1233981,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1239540,England,Pakistan,Pakistan,England,Defend,T20
+1239541,England,Pakistan,England,Pakistan,Defend,T20
+1239542,England,Pakistan,England,Pakistan,Chase,T20
+1243019,Pakistan,South Africa,Pakistan,South Africa,Defend,T20
+1243020,Pakistan,South Africa,South Africa,Pakistan,Chase,T20
+1243021,Pakistan,South Africa,Pakistan,South Africa,Chase,T20
+1243388,England,India,England,India,Chase,T20
+1243389,England,India,India,England,Chase,T20
+1243390,England,India,England,India,Chase,T20
+1243391,England,India,India,England,Defend,T20
+1243392,England,India,India,England,Defend,T20
+1249206,England,Sri Lanka,England,Sri Lanka,Chase,T20
+1249207,England,Sri Lanka,Sri Lanka,England,Defend,T20
+1249208,England,Sri Lanka,England,Sri Lanka,Defend,T20
+1251575,Pakistan,South Africa,Pakistan,South Africa,Chase,T20
+1251576,Pakistan,South Africa,South Africa,Pakistan,Chase,T20
+1251577,Pakistan,South Africa,Pakistan,South Africa,Chase,T20
+1251578,Pakistan,South Africa,Pakistan,South Africa,Chase,T20
+1251953,Ireland,South Africa,South Africa,Ireland,Defend,T20
+1251954,Ireland,South Africa,South Africa,Ireland,Defend,T20
+1251955,Ireland,South Africa,South Africa,Ireland,Defend,T20
+1252058,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Defend,T20
+1252059,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Defend,T20
+1252060,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Defend,T20
+1252066,Sri Lanka,West Indies,West Indies,Sri Lanka,Chase,T20
+1252067,Sri Lanka,West Indies,Sri Lanka,West Indies,Defend,T20
+1252068,Sri Lanka,West Indies,West Indies,Sri Lanka,Chase,T20
+1254058,MI,RCB,RCB,MI,Chase,IPL
+1254059,CSK,DC,DC,CSK,Chase,IPL
+1254060,KKR,SRH,KKR,SRH,Defend,IPL
+1254061,PBKS,RR,PBKS,RR,Defend,IPL
+1254062,KKR,MI,MI,KKR,Defend,IPL
+1254063,RCB,SRH,RCB,SRH,Defend,IPL
+1254064,DC,RR,RR,DC,Chase,IPL
+1254065,CSK,PBKS,CSK,PBKS,Chase,IPL
+1254066,MI,SRH,MI,SRH,Defend,IPL
+1254067,KKR,RCB,RCB,KKR,Defend,IPL
+1254068,DC,PBKS,DC,PBKS,Chase,IPL
+1254069,CSK,RR,CSK,RR,Defend,IPL
+1254070,DC,MI,DC,MI,Chase,IPL
+1254071,PBKS,SRH,SRH,PBKS,Chase,IPL
+1254072,CSK,KKR,CSK,KKR,Defend,IPL
+1254073,RCB,RR,RCB,RR,Chase,IPL
+1254074,MI,PBKS,PBKS,MI,Chase,IPL
+1254075,KKR,RR,RR,KKR,Chase,IPL
+1254076,CSK,RCB,CSK,RCB,Defend,IPL
+1254077,DC,SRH,DC,SRH,Defend,IPL
+1254078,KKR,PBKS,KKR,PBKS,Chase,IPL
+1254079,DC,RCB,RCB,DC,Defend,IPL
+1254080,CSK,SRH,CSK,SRH,Chase,IPL
+1254081,MI,RR,MI,RR,Chase,IPL
+1254082,DC,KKR,DC,KKR,Chase,IPL
+1254083,PBKS,RCB,PBKS,RCB,Defend,IPL
+1254084,CSK,MI,MI,CSK,Chase,IPL
+1254085,RR,SRH,RR,SRH,Defend,IPL
+1254086,DC,PBKS,DC,PBKS,Chase,IPL
+1254087,KKR,RCB,KKR,RCB,Chase,IPL
+1254088,MI,SRH,MI,SRH,Defend,IPL
+1254089,CSK,RR,RR,CSK,Chase,IPL
+1254090,PBKS,RCB,RCB,PBKS,Defend,IPL
+1254091,CSK,SRH,CSK,SRH,Chase,IPL
+1254092,DC,KKR,KKR,DC,Chase,IPL
+1254093,MI,RR,MI,RR,Chase,IPL
+1254094,CSK,PBKS,PBKS,CSK,Chase,IPL
+1254095,RCB,SRH,SRH,RCB,Defend,IPL
+1254096,KKR,MI,KKR,MI,Chase,IPL
+1254097,DC,RR,DC,RR,Defend,IPL
+1254098,CSK,KKR,CSK,KKR,Chase,IPL
+1254099,MI,PBKS,MI,PBKS,Chase,IPL
+1254100,RR,SRH,SRH,RR,Chase,IPL
+1254101,DC,RCB,RCB,DC,Chase,IPL
+1254102,KKR,PBKS,PBKS,KKR,Chase,IPL
+1254103,RCB,RR,RCB,RR,Chase,IPL
+1254104,CSK,MI,CSK,MI,Defend,IPL
+1254105,DC,SRH,DC,SRH,Chase,IPL
+1254106,KKR,RR,KKR,RR,Defend,IPL
+1254107,PBKS,SRH,PBKS,SRH,Defend,IPL
+1254108,MI,RCB,RCB,MI,Defend,IPL
+1254109,KKR,SRH,KKR,SRH,Chase,IPL
+1254110,CSK,DC,DC,CSK,Chase,IPL
+1254111,PBKS,RR,RR,PBKS,Defend,IPL
+1254112,DC,MI,DC,MI,Chase,IPL
+1254113,CSK,RCB,CSK,RCB,Chase,IPL
+1254114,CSK,DC,CSK,DC,Chase,IPL
+1254115,KKR,RCB,KKR,RCB,Chase,IPL
+1254116,DC,KKR,KKR,DC,Chase,IPL
+1254117,CSK,KKR,CSK,KKR,Defend,IPL
+1256720,England,West Indies,West Indies,England,Chase,T20
+1256721,England,West Indies,England,West Indies,Defend,T20
+1256722,England,West Indies,West Indies,England,Defend,T20
+1256723,England,West Indies,England,West Indies,Defend,T20
+1256724,England,West Indies,West Indies,England,Defend,T20
+1257183,Pakistan,Zimbabwe,Pakistan,Zimbabwe,Defend,T20
+1257184,Pakistan,Zimbabwe,Zimbabwe,Pakistan,Defend,T20
+1257185,Pakistan,Zimbabwe,Pakistan,Zimbabwe,Defend,T20
+1257404,Namibia,Uganda,Namibia,Uganda,Chase,T20
+1257405,Namibia,Uganda,Namibia,Uganda,Defend,T20
+1257406,Namibia,Uganda,Namibia,Uganda,Defend,T20
+1257945,Nepal,Netherlands,Nepal,Netherlands,Chase,T20
+1257946,Malaysia,Netherlands,Netherlands,Malaysia,Defend,T20
+1257947,Malaysia,Nepal,Nepal,Malaysia,Chase,T20
+1257948,Nepal,Netherlands,Netherlands,Nepal,Chase,T20
+1257949,Malaysia,Netherlands,Netherlands,Malaysia,Defend,T20
+1257950,Malaysia,Nepal,Nepal,Malaysia,Defend,T20
+1257951,Nepal,Netherlands,Nepal,Netherlands,Defend,T20
+1262758,India,Sri Lanka,India,Sri Lanka,Defend,T20
+1262759,India,Sri Lanka,Sri Lanka,India,Chase,T20
+1262760,India,Sri Lanka,Sri Lanka,India,Chase,T20
+1263151,South Africa,West Indies,West Indies,South Africa,Chase,T20
+1263152,South Africa,West Indies,South Africa,West Indies,Defend,T20
+1263153,South Africa,West Indies,South Africa,West Indies,Defend,T20
+1263154,South Africa,West Indies,West Indies,South Africa,Defend,T20
+1263155,South Africa,West Indies,South Africa,West Indies,Defend,T20
+1263156,Australia,West Indies,West Indies,Australia,Defend,T20
+1263157,Australia,West Indies,West Indies,Australia,Defend,T20
+1263158,Australia,West Indies,West Indies,Australia,Chase,T20
+1263159,Australia,West Indies,Australia,West Indies,Defend,T20
+1263160,Australia,West Indies,West Indies,Australia,Defend,T20
+1263165,Pakistan,West Indies,Pakistan,West Indies,Defend,T20
+1263471,Australia,Sri Lanka,Australia,Sri Lanka,Defend,T20
+1263472,Australia,Sri Lanka,Australia,Sri Lanka,Defend,T20
+1263473,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1263474,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1263475,Australia,Sri Lanka,Sri Lanka,Australia,Chase,T20
+1263708,Czech Republic,Luxembourg,Czech Republic,Luxembourg,Chase,T20
+1263710,Austria,Czech Republic,Austria,Czech Republic,Defend,T20
+1263711,Czech Republic,Luxembourg,Luxembourg,Czech Republic,Chase,T20
+1263712,Austria,Luxembourg,Luxembourg,Austria,Chase,T20
+1263713,Austria,Czech Republic,Austria,Czech Republic,Chase,T20
+1267304,Greece,Romania,Romania,Greece,Chase,T20
+1267306,Greece,Serbia,Greece,Serbia,Chase,T20
+1267307,Bulgaria,Romania,Romania,Bulgaria,Chase,T20
+1267308,Romania,Serbia,Romania,Serbia,Defend,T20
+1267310,Romania,Serbia,Romania,Serbia,Chase,T20
+1267311,Bulgaria,Greece,Bulgaria,Greece,Defend,T20
+1267680,Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,Chase,T20
+1267681,Bangladesh,Zimbabwe,Zimbabwe,Bangladesh,Defend,T20
+1267682,Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,Chase,T20
+1268188,Belgium,Malta,Malta,Belgium,Chase,T20
+1268189,Belgium,Malta,Belgium,Malta,Chase,T20
+1268190,Belgium,Malta,Belgium,Malta,Chase,T20
+1268191,Belgium,Malta,Belgium,Malta,Defend,T20
+1268192,Belgium,Malta,Belgium,Malta,Defend,T20
+1270834,Australia,Bangladesh,Bangladesh,Australia,Defend,T20
+1270835,Australia,Bangladesh,Bangladesh,Australia,Chase,T20
+1270836,Australia,Bangladesh,Bangladesh,Australia,Defend,T20
+1270837,Australia,Bangladesh,Australia,Bangladesh,Chase,T20
+1270838,Australia,Bangladesh,Bangladesh,Australia,Defend,T20
+1271445,Germany,Norway,Germany,Norway,Chase,T20
+1271446,France,Norway,France,Norway,Chase,T20
+1271447,France,Germany,Germany,France,Chase,T20
+1271448,France,Germany,Germany,France,Defend,T20
+1271449,France,Norway,Norway,France,Defend,T20
+1271450,Germany,Norway,Norway,Germany,Defend,T20
+1271451,Germany,Norway,Norway,Germany,Defend,T20
+1271630,South Africa,Sri Lanka,South Africa,Sri Lanka,Defend,T20
+1271631,South Africa,Sri Lanka,South Africa,Sri Lanka,Chase,T20
+1271632,South Africa,Sri Lanka,South Africa,Sri Lanka,Chase,T20
+1272093,Bangladesh,New Zealand,Bangladesh,New Zealand,Chase,T20
+1272094,Bangladesh,New Zealand,Bangladesh,New Zealand,Defend,T20
+1272095,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1272096,Bangladesh,New Zealand,Bangladesh,New Zealand,Chase,T20
+1272097,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1272373,Ireland,Zimbabwe,Zimbabwe,Ireland,Defend,T20
+1272374,Ireland,Zimbabwe,Ireland,Zimbabwe,Chase,T20
+1272375,Ireland,Zimbabwe,Ireland,Zimbabwe,Defend,T20
+1272376,Ireland,Zimbabwe,Ireland,Zimbabwe,Defend,T20
+1272377,Ireland,Zimbabwe,Zimbabwe,Ireland,Defend,T20
+1273133,Denmark,Sweden,Sweden,Denmark,Chase,T20
+1273134,Denmark,Sweden,Denmark,Sweden,Chase,T20
+1273136,Gibraltar,Malta,Malta,Gibraltar,Chase,T20
+1273138,Gibraltar,Malta,Malta,Gibraltar,Defend,T20
+1273139,Gibraltar,Portugal,Portugal,Gibraltar,Defend,T20
+1273141,Ghana,Rwanda,Rwanda,Ghana,Chase,T20
+1273143,Ghana,Rwanda,Rwanda,Ghana,Defend,T20
+1273144,Ghana,Rwanda,Ghana,Rwanda,Defend,T20
+1273145,Ghana,Rwanda,Ghana,Rwanda,Chase,T20
+1273146,Finland,Sweden,Finland,Sweden,Chase,T20
+1273147,Finland,Sweden,Finland,Sweden,Chase,T20
+1273148,Finland,Sweden,Finland,Sweden,Defend,T20
+1273149,Finland,Sweden,Sweden,Finland,Chase,T20
+1273271,Scotland,Zimbabwe,Scotland,Zimbabwe,Defend,T20
+1273272,Scotland,Zimbabwe,Zimbabwe,Scotland,Defend,T20
+1273273,Scotland,Zimbabwe,Zimbabwe,Scotland,Chase,T20
+1273712,Oman,Papua New Guinea,Oman,Papua New Guinea,Chase,T20
+1273713,Bangladesh,Scotland,Scotland,Bangladesh,Defend,T20
+1273714,Ireland,Netherlands,Ireland,Netherlands,Chase,T20
+1273715,Namibia,Sri Lanka,Sri Lanka,Namibia,Chase,T20
+1273716,Papua New Guinea,Scotland,Scotland,Papua New Guinea,Defend,T20
+1273717,Bangladesh,Oman,Bangladesh,Oman,Defend,T20
+1273718,Namibia,Netherlands,Namibia,Netherlands,Chase,T20
+1273719,Ireland,Sri Lanka,Sri Lanka,Ireland,Defend,T20
+1273720,Bangladesh,Papua New Guinea,Bangladesh,Papua New Guinea,Defend,T20
+1273721,Oman,Scotland,Scotland,Oman,Chase,T20
+1273722,Ireland,Namibia,Namibia,Ireland,Chase,T20
+1273723,Netherlands,Sri Lanka,Sri Lanka,Netherlands,Chase,T20
+1273724,Australia,South Africa,Australia,South Africa,Chase,T20
+1273725,England,West Indies,England,West Indies,Chase,T20
+1273726,Bangladesh,Sri Lanka,Sri Lanka,Bangladesh,Chase,T20
+1273727,India,Pakistan,Pakistan,India,Chase,T20
+1273728,Afghanistan,Scotland,Afghanistan,Scotland,Defend,T20
+1273729,South Africa,West Indies,South Africa,West Indies,Chase,T20
+1273730,New Zealand,Pakistan,Pakistan,New Zealand,Chase,T20
+1273731,Bangladesh,England,England,Bangladesh,Chase,T20
+1273732,Namibia,Scotland,Namibia,Scotland,Chase,T20
+1273733,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1273734,Bangladesh,West Indies,West Indies,Bangladesh,Defend,T20
+1273735,Afghanistan,Pakistan,Pakistan,Afghanistan,Chase,T20
+1273736,South Africa,Sri Lanka,South Africa,Sri Lanka,Chase,T20
+1273737,Australia,England,England,Australia,Chase,T20
+1273738,Afghanistan,Namibia,Afghanistan,Namibia,Defend,T20
+1273739,India,New Zealand,New Zealand,India,Chase,T20
+1273740,England,Sri Lanka,England,Sri Lanka,Defend,T20
+1273741,Bangladesh,South Africa,South Africa,Bangladesh,Chase,T20
+1273742,Namibia,Pakistan,Pakistan,Namibia,Defend,T20
+1273743,New Zealand,Scotland,New Zealand,Scotland,Defend,T20
+1273744,Afghanistan,India,India,Afghanistan,Defend,T20
+1273745,Australia,Bangladesh,Australia,Bangladesh,Chase,T20
+1273746,Sri Lanka,West Indies,Sri Lanka,West Indies,Defend,T20
+1273747,Namibia,New Zealand,New Zealand,Namibia,Defend,T20
+1273748,India,Scotland,India,Scotland,Chase,T20
+1273749,Australia,West Indies,Australia,West Indies,Chase,T20
+1273750,England,South Africa,South Africa,England,Defend,T20
+1273751,Afghanistan,New Zealand,New Zealand,Afghanistan,Chase,T20
+1273752,Pakistan,Scotland,Pakistan,Scotland,Defend,T20
+1273753,India,Namibia,India,Namibia,Chase,T20
+1273754,England,New Zealand,New Zealand,England,Chase,T20
+1273755,Australia,Pakistan,Australia,Pakistan,Chase,T20
+1273756,Australia,New Zealand,Australia,New Zealand,Chase,T20
+1275039,Kenya,Nigeria,Kenya,Nigeria,Chase,T20
+1275040,Nigeria,Uganda,Uganda,Nigeria,Defend,T20
+1275042,Kenya,Nigeria,Kenya,Nigeria,Defend,T20
+1275043,Nigeria,Uganda,Uganda,Nigeria,Chase,T20
+1275044,Kenya,Uganda,Kenya,Uganda,Defend,T20
+1275045,Kenya,Nigeria,Nigeria,Kenya,Defend,T20
+1275047,Nigeria,Uganda,Uganda,Nigeria,Defend,T20
+1275051,Kenya,Uganda,Uganda,Kenya,Defend,T20
+1275052,Germany,Spain,Germany,Spain,Chase,T20
+1275053,Germany,Spain,Spain,Germany,Chase,T20
+1275054,Germany,Spain,Spain,Germany,Chase,T20
+1275268,Czech Republic,Romania,Romania,Czech Republic,Defend,T20
+1275269,Bulgaria,Luxembourg,Luxembourg,Bulgaria,Defend,T20
+1275270,Czech Republic,Hungary,Hungary,Czech Republic,Defend,T20
+1275271,Bulgaria,Malta,Malta,Bulgaria,Chase,T20
+1275272,Hungary,Romania,Romania,Hungary,Defend,T20
+1275274,Hungary,Luxembourg,Luxembourg,Hungary,Defend,T20
+1275275,Malta,Romania,Romania,Malta,Defend,T20
+1275276,Hungary,Malta,Hungary,Malta,Chase,T20
+1275277,Luxembourg,Romania,Romania,Luxembourg,Defend,T20
+1276904,England,India,India,England,Defend,T20
+1276905,England,India,India,England,Defend,T20
+1276906,England,India,England,India,Defend,T20
+1276913,England,South Africa,England,South Africa,Defend,T20
+1276914,England,South Africa,South Africa,England,Defend,T20
+1276915,England,South Africa,South Africa,England,Defend,T20
+1277974,Bangladesh,Pakistan,Pakistan,Bangladesh,Chase,T20
+1277975,Bangladesh,Pakistan,Pakistan,Bangladesh,Chase,T20
+1277976,Bangladesh,Pakistan,Pakistan,Bangladesh,Chase,T20
+1278671,India,New Zealand,India,New Zealand,Chase,T20
+1278672,India,New Zealand,India,New Zealand,Chase,T20
+1278673,India,New Zealand,India,New Zealand,Defend,T20
+1278679,India,West Indies,India,West Indies,Chase,T20
+1278680,India,West Indies,India,West Indies,Defend,T20
+1278681,India,West Indies,India,West Indies,Defend,T20
+1278684,India,Sri Lanka,India,Sri Lanka,Defend,T20
+1278685,India,Sri Lanka,India,Sri Lanka,Chase,T20
+1278686,India,Sri Lanka,India,Sri Lanka,Chase,T20
+1278687,India,South Africa,South Africa,India,Chase,T20
+1278688,India,South Africa,South Africa,India,Chase,T20
+1278689,India,South Africa,India,South Africa,Defend,T20
+1278690,India,South Africa,India,South Africa,Defend,T20
+1279379,Cyprus,Estonia,Cyprus,Estonia,Chase,T20
+1279380,Cyprus,Estonia,Cyprus,Estonia,Chase,T20
+1279381,Cyprus,Isle of Man,Isle of Man,Cyprus,Chase,T20
+1279382,Estonia,Isle of Man,Isle of Man,Estonia,Chase,T20
+1279383,Cyprus,Isle of Man,Isle of Man,Cyprus,Chase,T20
+1279385,Cyprus,Estonia,Cyprus,Estonia,Defend,T20
+1279386,Estonia,Isle of Man,Isle of Man,Estonia,Chase,T20
+1280058,Namibia,Scotland,Namibia,Scotland,Chase,T20
+1280059,Namibia,Papua New Guinea,Namibia,Papua New Guinea,Defend,T20
+1280060,Ireland,United Arab Emirates,Ireland,United Arab Emirates,Chase,T20
+1280061,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Defend,T20
+1280062,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Chase,T20
+1280063,Papua New Guinea,Scotland,Scotland,Papua New Guinea,Chase,T20
+1282272,Gibraltar,Malta,Malta,Gibraltar,Defend,T20
+1282273,Gibraltar,Switzerland,Switzerland,Gibraltar,Chase,T20
+1282275,Bulgaria,Switzerland,Switzerland,Bulgaria,Chase,T20
+1282276,Malta,Switzerland,Switzerland,Malta,Defend,T20
+1282278,Bulgaria,Gibraltar,Bulgaria,Gibraltar,Chase,T20
+1282279,Malta,Switzerland,Malta,Switzerland,Defend,T20
+1282738,Germany,Jersey,Jersey,Germany,Defend,T20
+1282739,Denmark,Italy,Italy,Denmark,Chase,T20
+1282740,Denmark,Germany,Germany,Denmark,Chase,T20
+1282741,Italy,Jersey,Jersey,Italy,Defend,T20
+1282742,Denmark,Jersey,Jersey,Denmark,Defend,T20
+1282743,Germany,Italy,Germany,Italy,Chase,T20
+1282744,Denmark,Italy,Italy,Denmark,Defend,T20
+1282745,Germany,Jersey,Jersey,Germany,Chase,T20
+1282746,Italy,Jersey,Jersey,Italy,Chase,T20
+1282747,Denmark,Germany,Germany,Denmark,Defend,T20
+1282748,Germany,Italy,Italy,Germany,Defend,T20
+1282749,Denmark,Jersey,Jersey,Denmark,Chase,T20
+1283021,Ghana,Rwanda,Ghana,Rwanda,Chase,T20
+1283023,Ghana,Seychelles,Ghana,Seychelles,Chase,T20
+1283024,Malawi,Uganda,Uganda,Malawi,Chase,T20
+1283025,Lesotho,Seychelles,Seychelles,Lesotho,Chase,T20
+1283026,Malawi,Swaziland,Malawi,Swaziland,Chase,T20
+1283028,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1283029,Ghana,Malawi,Ghana,Malawi,Chase,T20
+1283030,Lesotho,Uganda,Uganda,Lesotho,Chase,T20
+1283032,Swaziland,Uganda,Uganda,Swaziland,Chase,T20
+1283033,Malawi,Seychelles,Malawi,Seychelles,Defend,T20
+1283034,Ghana,Swaziland,Ghana,Swaziland,Chase,T20
+1283035,Seychelles,Swaziland,Seychelles,Swaziland,Chase,T20
+1283036,Lesotho,Rwanda,Rwanda,Lesotho,Defend,T20
+1283037,Ghana,Uganda,Uganda,Ghana,Defend,T20
+1283038,Rwanda,Swaziland,Rwanda,Swaziland,Chase,T20
+1283040,Malawi,Rwanda,Malawi,Rwanda,Defend,T20
+1283041,Seychelles,Uganda,Uganda,Seychelles,Defend,T20
+1283042,Botswana,Sierra Leone,Botswana,Sierra Leone,Defend,T20
+1283043,Mozambique,Tanzania,Tanzania,Mozambique,Defend,T20
+1283044,Cameroon,Mozambique,Mozambique,Cameroon,Defend,T20
+1283045,Sierra Leone,Tanzania,Tanzania,Sierra Leone,Chase,T20
+1283046,Botswana,Cameroon,Botswana,Cameroon,Chase,T20
+1283047,Mozambique,Sierra Leone,Sierra Leone,Mozambique,Chase,T20
+1283048,Botswana,Mozambique,Botswana,Mozambique,Defend,T20
+1283049,Cameroon,Tanzania,Tanzania,Cameroon,Defend,T20
+1283050,Cameroon,Sierra Leone,Sierra Leone,Cameroon,Chase,T20
+1283051,Botswana,Tanzania,Tanzania,Botswana,Defend,T20
+1283089,Nigeria,Sierra Leone,Sierra Leone,Nigeria,Chase,T20
+1283091,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Defend,T20
+1283092,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Chase,T20
+1283093,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Defend,T20
+1283094,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Defend,T20
+1284489,Maldives,Saudi Arabia,Saudi Arabia,Maldives,Chase,T20
+1284490,Bahrain,Kuwait,Kuwait,Bahrain,Chase,T20
+1284491,Maldives,Qatar,Qatar,Maldives,Defend,T20
+1284493,Bahrain,Maldives,Bahrain,Maldives,Chase,T20
+1284495,Kuwait,Maldives,Kuwait,Maldives,Chase,T20
+1284496,Bahrain,Saudi Arabia,Bahrain,Saudi Arabia,Defend,T20
+1284497,Kuwait,Qatar,Qatar,Kuwait,Chase,T20
+1286667,Belize,United States of America,United States of America,Belize,Chase,T20
+1286670,Belize,Canada,Canada,Belize,Defend,T20
+1286671,Argentina,Bahamas,Bahamas,Argentina,Defend,T20
+1286672,Belize,Panama,Belize,Panama,Defend,T20
+1286673,Bermuda,United States of America,United States of America,Bermuda,Defend,T20
+1286674,Canada,United States of America,Canada,United States of America,Defend,T20
+1286675,Argentina,Belize,Argentina,Belize,Defend,T20
+1286677,Bahamas,Bermuda,Bermuda,Bahamas,Defend,T20
+1286681,Argentina,United States of America,United States of America,Argentina,Chase,T20
+1286682,Bahamas,United States of America,United States of America,Bahamas,Chase,T20
+1286683,Belize,Bermuda,Bermuda,Belize,Chase,T20
+1286684,Bahamas,Panama,Panama,Bahamas,Defend,T20
+1286685,Argentina,Canada,Canada,Argentina,Chase,T20
+1286686,Canada,Panama,Canada,Panama,Defend,T20
+1287773,Pakistan,West Indies,Pakistan,West Indies,Defend,T20
+1287774,Pakistan,West Indies,Pakistan,West Indies,Defend,T20
+1287775,Pakistan,West Indies,Pakistan,West Indies,Chase,T20
+1288316,Australia,Pakistan,Australia,Pakistan,Chase,T20
+1289042,Nigeria,Tanzania,Tanzania,Nigeria,Chase,T20
+1289043,Kenya,Uganda,Kenya,Uganda,Defend,T20
+1289044,Nigeria,Uganda,Uganda,Nigeria,Defend,T20
+1289045,Kenya,Tanzania,Tanzania,Kenya,Defend,T20
+1289046,Tanzania,Uganda,Uganda,Tanzania,Chase,T20
+1289047,Kenya,Nigeria,Kenya,Nigeria,Chase,T20
+1289048,Kenya,Tanzania,Kenya,Tanzania,Chase,T20
+1289049,Nigeria,Uganda,Uganda,Nigeria,Chase,T20
+1289050,Tanzania,Uganda,Uganda,Tanzania,Chase,T20
+1289051,Kenya,Nigeria,Kenya,Nigeria,Defend,T20
+1289052,Kenya,Uganda,Kenya,Uganda,Defend,T20
+1289053,Nigeria,Tanzania,Tanzania,Nigeria,Defend,T20
+1291187,Ireland,United States of America,United States of America,Ireland,Defend,T20
+1291188,Ireland,United States of America,Ireland,United States of America,Defend,T20
+1298135,Namibia,Sri Lanka,Namibia,Sri Lanka,Defend,T20
+1298136,Netherlands,United Arab Emirates,Netherlands,United Arab Emirates,Chase,T20
+1298137,Scotland,West Indies,Scotland,West Indies,Defend,T20
+1298138,Ireland,Zimbabwe,Zimbabwe,Ireland,Defend,T20
+1298139,Namibia,Netherlands,Netherlands,Namibia,Chase,T20
+1298140,Sri Lanka,United Arab Emirates,Sri Lanka,United Arab Emirates,Defend,T20
+1298141,Ireland,Scotland,Ireland,Scotland,Chase,T20
+1298142,West Indies,Zimbabwe,West Indies,Zimbabwe,Defend,T20
+1298143,Netherlands,Sri Lanka,Sri Lanka,Netherlands,Defend,T20
+1298144,Namibia,United Arab Emirates,United Arab Emirates,Namibia,Defend,T20
+1298145,Ireland,West Indies,Ireland,West Indies,Chase,T20
+1298146,Scotland,Zimbabwe,Zimbabwe,Scotland,Chase,T20
+1298147,Australia,New Zealand,New Zealand,Australia,Defend,T20
+1298148,Afghanistan,England,England,Afghanistan,Chase,T20
+1298149,Ireland,Sri Lanka,Sri Lanka,Ireland,Chase,T20
+1298150,India,Pakistan,India,Pakistan,Chase,T20
+1298151,Bangladesh,Netherlands,Bangladesh,Netherlands,Defend,T20
+1298152,South Africa,Zimbabwe,Zimbabwe,South Africa,Defend,T20
+1298153,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1298154,England,Ireland,Ireland,England,Defend,T20
+1298156,Bangladesh,South Africa,South Africa,Bangladesh,Defend,T20
+1298157,India,Netherlands,India,Netherlands,Defend,T20
+1298158,Pakistan,Zimbabwe,Zimbabwe,Pakistan,Defend,T20
+1298161,New Zealand,Sri Lanka,New Zealand,Sri Lanka,Defend,T20
+1298162,Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,Defend,T20
+1298163,Netherlands,Pakistan,Pakistan,Netherlands,Chase,T20
+1298164,India,South Africa,South Africa,India,Chase,T20
+1298165,Australia,Ireland,Australia,Ireland,Defend,T20
+1298166,Afghanistan,Sri Lanka,Sri Lanka,Afghanistan,Chase,T20
+1298167,England,New Zealand,England,New Zealand,Defend,T20
+1298168,Netherlands,Zimbabwe,Netherlands,Zimbabwe,Chase,T20
+1298169,Bangladesh,India,India,Bangladesh,Defend,T20
+1298170,Pakistan,South Africa,Pakistan,South Africa,Defend,T20
+1298171,Ireland,New Zealand,New Zealand,Ireland,Defend,T20
+1298172,Afghanistan,Australia,Australia,Afghanistan,Defend,T20
+1298173,England,Sri Lanka,England,Sri Lanka,Chase,T20
+1298174,Netherlands,South Africa,Netherlands,South Africa,Defend,T20
+1298175,Bangladesh,Pakistan,Pakistan,Bangladesh,Chase,T20
+1298176,India,Zimbabwe,India,Zimbabwe,Defend,T20
+1298177,New Zealand,Pakistan,Pakistan,New Zealand,Chase,T20
+1298178,England,India,England,India,Chase,T20
+1298179,England,Pakistan,England,Pakistan,Chase,T20
+1299566,Nepal,Oman,Nepal,Oman,Defend,T20
+1299567,Canada,Philippines,Canada,Philippines,Defend,T20
+1299568,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Defend,T20
+1299569,Bahrain,Germany,Bahrain,Germany,Chase,T20
+1299570,Canada,Oman,Oman,Canada,Chase,T20
+1299571,Nepal,Philippines,Nepal,Philippines,Defend,T20
+1299572,Germany,United Arab Emirates,United Arab Emirates,Germany,Defend,T20
+1299573,Bahrain,Ireland,Ireland,Bahrain,Defend,T20
+1299574,Germany,Ireland,Ireland,Germany,Chase,T20
+1299575,Bahrain,United Arab Emirates,Bahrain,United Arab Emirates,Defend,T20
+1299576,Canada,Nepal,Nepal,Canada,Chase,T20
+1299577,Oman,Philippines,Oman,Philippines,Chase,T20
+1299578,Canada,Germany,Canada,Germany,Chase,T20
+1299579,Bahrain,Philippines,Bahrain,Philippines,Defend,T20
+1299580,Nepal,United Arab Emirates,United Arab Emirates,Nepal,Defend,T20
+1299581,Ireland,Oman,Ireland,Oman,Defend,T20
+1299582,Bahrain,Canada,Canada,Bahrain,Chase,T20
+1299583,Germany,Philippines,Germany,Philippines,Chase,T20
+1299584,Nepal,Oman,Nepal,Oman,Chase,T20
+1299585,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Chase,T20
+1299592,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Defend,T20
+1299593,Nepal,Oman,Nepal,Oman,Chase,T20
+1299594,Ireland,Oman,Ireland,Oman,Chase,T20
+1299595,Oman,United Arab Emirates,Oman,United Arab Emirates,Chase,T20
+1299596,Ireland,Nepal,Ireland,Nepal,Defend,T20
+1299638,Nepal,United Arab Emirates,United Arab Emirates,Nepal,Defend,T20
+1299832,Afghanistan,Bangladesh,Bangladesh,Afghanistan,Defend,T20
+1299833,Afghanistan,Bangladesh,Afghanistan,Bangladesh,Chase,T20
+1303307,India,Ireland,India,Ireland,Chase,T20
+1303308,India,Ireland,India,Ireland,Defend,T20
+1303312,Ireland,New Zealand,New Zealand,Ireland,Defend,T20
+1303313,Ireland,New Zealand,New Zealand,Ireland,Defend,T20
+1303314,Ireland,New Zealand,New Zealand,Ireland,Chase,T20
+1303315,Ireland,South Africa,South Africa,Ireland,Defend,T20
+1303316,Ireland,South Africa,South Africa,Ireland,Defend,T20
+1304047,CSK,KKR,KKR,CSK,Chase,IPL
+1304048,DC,MI,DC,MI,Chase,IPL
+1304049,PBKS,RCB,PBKS,RCB,Chase,IPL
+1304050,GT,LSG,GT,LSG,Chase,IPL
+1304051,RR,SRH,RR,SRH,Defend,IPL
+1304052,KKR,RCB,RCB,KKR,Chase,IPL
+1304053,CSK,LSG,LSG,CSK,Chase,IPL
+1304054,KKR,PBKS,KKR,PBKS,Chase,IPL
+1304055,MI,RR,RR,MI,Defend,IPL
+1304056,DC,GT,GT,DC,Defend,IPL
+1304057,CSK,PBKS,PBKS,CSK,Defend,IPL
+1304058,LSG,SRH,LSG,SRH,Defend,IPL
+1304059,RCB,RR,RCB,RR,Chase,IPL
+1304060,KKR,MI,KKR,MI,Chase,IPL
+1304061,DC,LSG,LSG,DC,Chase,IPL
+1304062,GT,PBKS,GT,PBKS,Chase,IPL
+1304063,CSK,SRH,SRH,CSK,Chase,IPL
+1304064,MI,RCB,RCB,MI,Chase,IPL
+1304065,DC,KKR,DC,KKR,Defend,IPL
+1304066,LSG,RR,RR,LSG,Defend,IPL
+1304067,GT,SRH,SRH,GT,Chase,IPL
+1304068,CSK,RCB,CSK,RCB,Defend,IPL
+1304069,MI,PBKS,PBKS,MI,Defend,IPL
+1304070,GT,RR,GT,RR,Defend,IPL
+1304071,KKR,SRH,SRH,KKR,Chase,IPL
+1304072,LSG,MI,LSG,MI,Defend,IPL
+1304073,DC,RCB,RCB,DC,Defend,IPL
+1304074,PBKS,SRH,SRH,PBKS,Chase,IPL
+1304075,CSK,GT,GT,CSK,Chase,IPL
+1304076,KKR,RR,RR,KKR,Defend,IPL
+1304077,LSG,RCB,RCB,LSG,Defend,IPL
+1304078,DC,PBKS,DC,PBKS,Chase,IPL
+1304079,CSK,MI,CSK,MI,Chase,IPL
+1304080,DC,RR,RR,DC,Defend,IPL
+1304081,GT,KKR,GT,KKR,Defend,IPL
+1304082,RCB,SRH,SRH,RCB,Chase,IPL
+1304083,LSG,MI,LSG,MI,Defend,IPL
+1304084,CSK,PBKS,PBKS,CSK,Defend,IPL
+1304085,RCB,RR,RR,RCB,Defend,IPL
+1304086,GT,SRH,GT,SRH,Chase,IPL
+1304087,DC,KKR,DC,KKR,Chase,IPL
+1304088,LSG,PBKS,LSG,PBKS,Defend,IPL
+1304089,GT,RCB,GT,RCB,Chase,IPL
+1304090,MI,RR,MI,RR,Chase,IPL
+1304091,DC,LSG,LSG,DC,Defend,IPL
+1304092,CSK,SRH,CSK,SRH,Defend,IPL
+1304093,KKR,RR,KKR,RR,Chase,IPL
+1304094,GT,PBKS,PBKS,GT,Chase,IPL
+1304095,CSK,RCB,RCB,CSK,Defend,IPL
+1304096,DC,SRH,DC,SRH,Defend,IPL
+1304097,GT,MI,MI,GT,Defend,IPL
+1304098,PBKS,RR,RR,PBKS,Chase,IPL
+1304099,KKR,LSG,LSG,KKR,Defend,IPL
+1304100,RCB,SRH,RCB,SRH,Defend,IPL
+1304101,CSK,DC,CSK,DC,Defend,IPL
+1304102,KKR,MI,KKR,MI,Defend,IPL
+1304103,GT,LSG,GT,LSG,Defend,IPL
+1304104,DC,RR,DC,RR,Chase,IPL
+1304105,CSK,MI,MI,CSK,Chase,IPL
+1304106,PBKS,RCB,PBKS,RCB,Defend,IPL
+1304107,KKR,SRH,KKR,SRH,Defend,IPL
+1304108,CSK,GT,GT,CSK,Chase,IPL
+1304109,LSG,RR,RR,LSG,Defend,IPL
+1304110,DC,PBKS,DC,PBKS,Defend,IPL
+1304111,MI,SRH,SRH,MI,Defend,IPL
+1304112,KKR,LSG,LSG,KKR,Defend,IPL
+1304113,GT,RCB,RCB,GT,Chase,IPL
+1304114,CSK,RR,RR,CSK,Chase,IPL
+1304115,DC,MI,MI,DC,Chase,IPL
+1304116,PBKS,SRH,PBKS,SRH,Chase,IPL
+1305498,Nepal,Papua New Guinea,Nepal,Papua New Guinea,Defend,T20
+1305499,Malaysia,Papua New Guinea,Malaysia,Papua New Guinea,Defend,T20
+1305500,Malaysia,Nepal,Nepal,Malaysia,Chase,T20
+1305501,Nepal,Papua New Guinea,Nepal,Papua New Guinea,Defend,T20
+1305502,Malaysia,Papua New Guinea,Papua New Guinea,Malaysia,Chase,T20
+1305503,Malaysia,Nepal,Nepal,Malaysia,Defend,T20
+1305504,Nepal,Papua New Guinea,Nepal,Papua New Guinea,Defend,T20
+1307159,Afghanistan,Ireland,Ireland,Afghanistan,Chase,T20
+1307160,Afghanistan,Ireland,Ireland,Afghanistan,Chase,T20
+1307161,Afghanistan,Ireland,Afghanistan,Ireland,Defend,T20
+1307162,Afghanistan,Ireland,Afghanistan,Ireland,Defend,T20
+1307163,Afghanistan,Ireland,Afghanistan,Ireland,Defend,T20
+1307293,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1307294,Australia,Sri Lanka,Australia,Sri Lanka,Chase,T20
+1307295,Australia,Sri Lanka,Sri Lanka,Australia,Chase,T20
+1307477,New Zealand,Scotland,New Zealand,Scotland,Defend,T20
+1307478,New Zealand,Scotland,New Zealand,Scotland,Defend,T20
+1309701,Namibia,Uganda,Namibia,Uganda,Chase,T20
+1309702,Namibia,Uganda,Uganda,Namibia,Chase,T20
+1309703,Namibia,Uganda,Namibia,Uganda,Defend,T20
+1310161,Guernsey,Norway,Norway,Guernsey,Defend,T20
+1310162,Norway,Spain,Spain,Norway,Defend,T20
+1310163,Guernsey,Norway,Guernsey,Norway,Chase,T20
+1310164,Guernsey,Spain,Spain,Guernsey,Chase,T20
+1310165,Guernsey,Spain,Guernsey,Spain,Chase,T20
+1310166,Norway,Spain,Spain,Norway,Defend,T20
+1310167,Denmark,Finland,Finland,Denmark,Chase,T20
+1310168,Denmark,Finland,Denmark,Finland,Defend,T20
+1310169,Denmark,Finland,Denmark,Finland,Defend,T20
+1310170,Gibraltar,Malta,Malta,Gibraltar,Chase,T20
+1310171,Hungary,Malta,Malta,Hungary,Defend,T20
+1310172,Gibraltar,Hungary,Hungary,Gibraltar,Chase,T20
+1310173,Malta,Romania,Malta,Romania,Chase,T20
+1310174,Czech Republic,Gibraltar,Czech Republic,Gibraltar,Defend,T20
+1310175,Bulgaria,Hungary,Hungary,Bulgaria,Defend,T20
+1310176,Czech Republic,Malta,Malta,Czech Republic,Defend,T20
+1310177,Bulgaria,Czech Republic,Czech Republic,Bulgaria,Defend,T20
+1310178,Hungary,Romania,Hungary,Romania,Chase,T20
+1310179,Bulgaria,Gibraltar,Gibraltar,Bulgaria,Defend,T20
+1310180,Czech Republic,Romania,Romania,Czech Republic,Defend,T20
+1310181,Bulgaria,Romania,Romania,Bulgaria,Chase,T20
+1310182,Czech Republic,Hungary,Czech Republic,Hungary,Chase,T20
+1310183,Gibraltar,Romania,Romania,Gibraltar,Chase,T20
+1310184,Bulgaria,Malta,Malta,Bulgaria,Chase,T20
+1310185,Bulgaria,Gibraltar,Bulgaria,Gibraltar,Chase,T20
+1310186,Czech Republic,Hungary,Czech Republic,Hungary,Defend,T20
+1310187,Malta,Romania,Romania,Malta,Defend,T20
+1310188,Guernsey,Jersey,Jersey,Guernsey,Defend,T20
+1310901,Netherlands,New Zealand,New Zealand,Netherlands,Defend,T20
+1310902,Netherlands,New Zealand,New Zealand,Netherlands,Chase,T20
+1310938,Namibia,Zimbabwe,Zimbabwe,Namibia,Defend,T20
+1310939,Namibia,Zimbabwe,Namibia,Zimbabwe,Chase,T20
+1310940,Namibia,Zimbabwe,Zimbabwe,Namibia,Chase,T20
+1310941,Namibia,Zimbabwe,Namibia,Zimbabwe,Chase,T20
+1310942,Namibia,Zimbabwe,Namibia,Zimbabwe,Defend,T20
+1310946,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Chase,T20
+1310947,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Defend,T20
+1310948,Afghanistan,Zimbabwe,Afghanistan,Zimbabwe,Defend,T20
+1312197,GT,RR,GT,RR,Chase,IPL
+1312198,LSG,RCB,RCB,LSG,Defend,IPL
+1312199,RCB,RR,RR,RCB,Chase,IPL
+1312200,GT,RR,GT,RR,Chase,IPL
+1317136,Bulgaria,Serbia,Bulgaria,Serbia,Chase,T20
+1317137,Bulgaria,Serbia,Bulgaria,Serbia,Chase,T20
+1317138,Bulgaria,Serbia,Serbia,Bulgaria,Defend,T20
+1317139,Bulgaria,Serbia,Bulgaria,Serbia,Chase,T20
+1317150,Bangladesh,West Indies,West Indies,Bangladesh,Defend,T20
+1317151,Bangladesh,West Indies,West Indies,Bangladesh,Chase,T20
+1317482,Australia,West Indies,Australia,West Indies,Chase,T20
+1317483,Australia,West Indies,Australia,West Indies,Defend,T20
+1317486,Australia,England,England,Australia,Defend,T20
+1317487,Australia,England,England,Australia,Defend,T20
+1317488,Australia,England,England,Australia,Defend,T20
+1317903,India,West Indies,India,West Indies,Defend,T20
+1317904,India,West Indies,West Indies,India,Chase,T20
+1317905,India,West Indies,India,West Indies,Chase,T20
+1317906,India,West Indies,India,West Indies,Defend,T20
+1317907,India,West Indies,India,West Indies,Defend,T20
+1317908,New Zealand,West Indies,New Zealand,West Indies,Defend,T20
+1317909,New Zealand,West Indies,New Zealand,West Indies,Defend,T20
+1317910,New Zealand,West Indies,West Indies,New Zealand,Chase,T20
+1318357,Austria,Germany,Germany,Austria,Defend,T20
+1318358,Germany,Sweden,Germany,Sweden,Chase,T20
+1318359,Austria,Germany,Austria,Germany,Defend,T20
+1318360,Austria,Sweden,Austria,Sweden,Defend,T20
+1318361,Austria,Sweden,Austria,Sweden,Defend,T20
+1318362,Germany,Sweden,Germany,Sweden,Defend,T20
+1320969,Belgium,Gibraltar,Belgium,Gibraltar,Chase,T20
+1320973,Malta,Portugal,Portugal,Malta,Defend,T20
+1320974,Denmark,Gibraltar,Denmark,Gibraltar,Defend,T20
+1320975,Israel,Spain,Spain,Israel,Chase,T20
+1320976,Belgium,Hungary,Belgium,Hungary,Chase,T20
+1320977,Portugal,Spain,Spain,Portugal,Chase,T20
+1320978,Gibraltar,Hungary,Gibraltar,Hungary,Chase,T20
+1320979,Israel,Malta,Malta,Israel,Defend,T20
+1320980,Belgium,Denmark,Belgium,Denmark,Defend,T20
+1320982,Belgium,Portugal,Portugal,Belgium,Chase,T20
+1320984,Denmark,Spain,Denmark,Spain,Defend,T20
+1320985,Hungary,Israel,Israel,Hungary,Defend,T20
+1320986,Belgium,Spain,Belgium,Spain,Chase,T20
+1320987,Gibraltar,Malta,Malta,Gibraltar,Chase,T20
+1320988,Denmark,Portugal,Denmark,Portugal,Chase,T20
+1321258,Cyprus,Isle of Man,Isle of Man,Cyprus,Chase,T20
+1321259,Finland,Sweden,Finland,Sweden,Defend,T20
+1321260,Romania,Turkey,Romania,Turkey,Defend,T20
+1321261,Cyprus,Romania,Cyprus,Romania,Defend,T20
+1321262,Croatia,Sweden,Sweden,Croatia,Chase,T20
+1321263,Isle of Man,Serbia,Isle of Man,Serbia,Defend,T20
+1321264,Finland,Italy,Italy,Finland,Chase,T20
+1321265,Italy,Sweden,Italy,Sweden,Defend,T20
+1321266,Serbia,Turkey,Serbia,Turkey,Chase,T20
+1321267,Croatia,Greece,Croatia,Greece,Defend,T20
+1321268,Isle of Man,Romania,Isle of Man,Romania,Chase,T20
+1321269,Romania,Serbia,Romania,Serbia,Defend,T20
+1321270,Finland,Greece,Finland,Greece,Defend,T20
+1321271,Cyprus,Turkey,Cyprus,Turkey,Defend,T20
+1321272,Croatia,Italy,Italy,Croatia,Defend,T20
+1321273,Greece,Sweden,Sweden,Greece,Defend,T20
+1321274,Cyprus,Serbia,Serbia,Cyprus,Chase,T20
+1321275,Croatia,Finland,Finland,Croatia,Chase,T20
+1321276,Isle of Man,Turkey,Isle of Man,Turkey,Defend,T20
+1321277,Croatia,Serbia,Croatia,Serbia,Chase,T20
+1321278,Cyprus,Finland,Finland,Cyprus,Defend,T20
+1321279,Romania,Sweden,Sweden,Romania,Chase,T20
+1321280,Isle of Man,Italy,Italy,Isle of Man,Chase,T20
+1321281,Austria,Luxembourg,Austria,Luxembourg,Defend,T20
+1321282,Estonia,Norway,Norway,Estonia,Chase,T20
+1321283,Bulgaria,Guernsey,Guernsey,Bulgaria,Defend,T20
+1321284,Czech Republic,France,France,Czech Republic,Defend,T20
+1321286,Austria,Slovenia,Austria,Slovenia,Defend,T20
+1321287,France,Switzerland,Switzerland,France,Chase,T20
+1321288,Guernsey,Luxembourg,Guernsey,Luxembourg,Defend,T20
+1321289,Austria,Guernsey,Austria,Guernsey,Chase,T20
+1321290,Estonia,Switzerland,Switzerland,Estonia,Defend,T20
+1321291,Bulgaria,Slovenia,Bulgaria,Slovenia,Chase,T20
+1321292,France,Norway,France,Norway,Defend,T20
+1321293,Norway,Switzerland,Norway,Switzerland,Defend,T20
+1321294,Bulgaria,Luxembourg,Luxembourg,Bulgaria,Defend,T20
+1321295,Czech Republic,Estonia,Czech Republic,Estonia,Defend,T20
+1321296,Guernsey,Slovenia,Guernsey,Slovenia,Chase,T20
+1321298,Czech Republic,Switzerland,Czech Republic,Switzerland,Chase,T20
+1321299,Luxembourg,Slovenia,Luxembourg,Slovenia,Defend,T20
+1321301,Bulgaria,Czech Republic,Czech Republic,Bulgaria,Chase,T20
+1321302,France,Guernsey,Guernsey,France,Defend,T20
+1321303,Luxembourg,Switzerland,Luxembourg,Switzerland,Defend,T20
+1321304,Austria,Norway,Austria,Norway,Chase,T20
+1321305,Austria,Luxembourg,Austria,Luxembourg,Chase,T20
+1321306,Czech Republic,Luxembourg,Czech Republic,Luxembourg,Chase,T20
+1321307,Austria,Czech Republic,Austria,Czech Republic,Chase,T20
+1321308,Austria,Luxembourg,Austria,Luxembourg,Defend,T20
+1321309,Czech Republic,Luxembourg,Czech Republic,Luxembourg,Defend,T20
+1321310,Austria,Czech Republic,Czech Republic,Austria,Chase,T20
+1321311,Malaysia,Singapore,Singapore,Malaysia,Chase,T20
+1321312,Malaysia,Singapore,Malaysia,Singapore,Defend,T20
+1321313,Malaysia,Singapore,Malaysia,Singapore,Chase,T20
+1321465,Singapore,Zimbabwe,Zimbabwe,Singapore,Defend,T20
+1321466,Jersey,United States of America,United States of America,Jersey,Chase,T20
+1321467,Netherlands,Papua New Guinea,Netherlands,Papua New Guinea,Defend,T20
+1321468,Hong Kong,Uganda,Uganda,Hong Kong,Chase,T20
+1321469,Jersey,Zimbabwe,Zimbabwe,Jersey,Defend,T20
+1321470,Singapore,United States of America,United States of America,Singapore,Defend,T20
+1321471,Hong Kong,Netherlands,Netherlands,Hong Kong,Chase,T20
+1321472,Papua New Guinea,Uganda,Papua New Guinea,Uganda,Chase,T20
+1321473,Netherlands,Uganda,Netherlands,Uganda,Defend,T20
+1321474,Hong Kong,Papua New Guinea,Hong Kong,Papua New Guinea,Chase,T20
+1321475,United States of America,Zimbabwe,Zimbabwe,United States of America,Defend,T20
+1321477,Jersey,Uganda,Uganda,Jersey,Defend,T20
+1321478,Hong Kong,Singapore,Hong Kong,Singapore,Chase,T20
+1321479,Papua New Guinea,Zimbabwe,Zimbabwe,Papua New Guinea,Defend,T20
+1321480,Netherlands,United States of America,Netherlands,United States of America,Chase,T20
+1321481,Hong Kong,Uganda,Uganda,Hong Kong,Defend,T20
+1321482,Jersey,Singapore,Jersey,Singapore,Chase,T20
+1321483,Papua New Guinea,United States of America,Papua New Guinea,United States of America,Defend,T20
+1321484,Netherlands,Zimbabwe,Zimbabwe,Netherlands,Defend,T20
+1321998,Bhutan,Malaysia,Malaysia,Bhutan,Defend,T20
+1322001,Malaysia,Thailand,Malaysia,Thailand,Chase,T20
+1322002,Bhutan,Maldives,Bhutan,Maldives,Defend,T20
+1322003,Bhutan,Thailand,Bhutan,Thailand,Chase,T20
+1322004,Malaysia,Maldives,Malaysia,Maldives,Chase,T20
+1322005,Bhutan,Maldives,Bhutan,Maldives,Defend,T20
+1322006,Malaysia,Thailand,Malaysia,Thailand,Chase,T20
+1322007,Maldives,Thailand,Maldives,Thailand,Defend,T20
+1322009,Bhutan,Thailand,Bhutan,Thailand,Defend,T20
+1322010,Bhutan,Malaysia,Malaysia,Bhutan,Chase,T20
+1322011,Papua New Guinea,Singapore,Singapore,Papua New Guinea,Defend,T20
+1322012,Papua New Guinea,Singapore,Papua New Guinea,Singapore,Chase,T20
+1322276,India,New Zealand,India,New Zealand,Defend,T20
+1322277,India,New Zealand,New Zealand,India,Defend,T20
+1322334,Bangladesh,Pakistan,Pakistan,Bangladesh,Defend,T20
+1322335,New Zealand,Pakistan,Pakistan,New Zealand,Chase,T20
+1322336,Bangladesh,New Zealand,New Zealand,Bangladesh,Chase,T20
+1322337,New Zealand,Pakistan,New Zealand,Pakistan,Chase,T20
+1322338,Bangladesh,New Zealand,New Zealand,Bangladesh,Defend,T20
+1322339,Bangladesh,Pakistan,Pakistan,Bangladesh,Chase,T20
+1322340,New Zealand,Pakistan,Pakistan,New Zealand,Chase,T20
+1322362,New Zealand,Sri Lanka,New Zealand,Sri Lanka,Chase,T20
+1322363,New Zealand,Sri Lanka,New Zealand,Sri Lanka,Chase,T20
+1322364,New Zealand,Sri Lanka,New Zealand,Sri Lanka,Chase,T20
+1323295,Bangladesh,Zimbabwe,Zimbabwe,Bangladesh,Defend,T20
+1323296,Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,Chase,T20
+1323297,Bangladesh,Zimbabwe,Zimbabwe,Bangladesh,Defend,T20
+1323550,Bulgaria,Serbia,Serbia,Bulgaria,Chase,T20
+1323551,Bulgaria,Serbia,Serbia,Bulgaria,Chase,T20
+1323552,Bulgaria,Serbia,Bulgaria,Serbia,Defend,T20
+1327228,England,Pakistan,England,Pakistan,Chase,T20
+1327229,England,Pakistan,Pakistan,England,Chase,T20
+1327230,England,Pakistan,England,Pakistan,Defend,T20
+1327231,England,Pakistan,Pakistan,England,Defend,T20
+1327232,England,Pakistan,Pakistan,England,Defend,T20
+1327233,England,Pakistan,England,Pakistan,Chase,T20
+1327234,England,Pakistan,England,Pakistan,Defend,T20
+1327269,Afghanistan,Sri Lanka,Afghanistan,Sri Lanka,Chase,T20
+1327270,India,Pakistan,India,Pakistan,Chase,T20
+1327271,Afghanistan,Bangladesh,Afghanistan,Bangladesh,Chase,T20
+1327272,Hong Kong,India,India,Hong Kong,Defend,T20
+1327273,Bangladesh,Sri Lanka,Sri Lanka,Bangladesh,Chase,T20
+1327274,Hong Kong,Pakistan,Pakistan,Hong Kong,Defend,T20
+1327275,Afghanistan,Sri Lanka,Sri Lanka,Afghanistan,Chase,T20
+1327276,India,Pakistan,Pakistan,India,Chase,T20
+1327277,India,Sri Lanka,Sri Lanka,India,Chase,T20
+1327278,Afghanistan,Pakistan,Pakistan,Afghanistan,Chase,T20
+1327279,Afghanistan,India,India,Afghanistan,Defend,T20
+1327280,Pakistan,Sri Lanka,Sri Lanka,Pakistan,Chase,T20
+1327281,Pakistan,Sri Lanka,Sri Lanka,Pakistan,Defend,T20
+1327503,Australia,India,Australia,India,Chase,T20
+1327504,Australia,India,India,Australia,Chase,T20
+1327505,Australia,India,India,Australia,Chase,T20
+1327506,India,South Africa,India,South Africa,Chase,T20
+1327507,India,South Africa,India,South Africa,Defend,T20
+1327508,India,South Africa,South Africa,India,Defend,T20
+1328470,Bahrain,Kuwait,Kuwait,Bahrain,Defend,T20
+1328471,Bahrain,Kuwait,Kuwait,Bahrain,Chase,T20
+1328473,Bahrain,Kuwait,Kuwait,Bahrain,Defend,T20
+1328474,Kenya,Nepal,Nepal,Kenya,Chase,T20
+1328476,Kenya,Nepal,Nepal,Kenya,Chase,T20
+1328477,Kenya,Nepal,Kenya,Nepal,Defend,T20
+1328478,Kenya,Nepal,Nepal,Kenya,Defend,T20
+1328849,Hong Kong,Singapore,Hong Kong,Singapore,Defend,T20
+1328850,Kuwait,United Arab Emirates,Kuwait,United Arab Emirates,Chase,T20
+1328851,Singapore,United Arab Emirates,United Arab Emirates,Singapore,Defend,T20
+1328852,Hong Kong,Kuwait,Hong Kong,Kuwait,Chase,T20
+1328853,Kuwait,Singapore,Kuwait,Singapore,Chase,T20
+1328854,Hong Kong,United Arab Emirates,Hong Kong,United Arab Emirates,Chase,T20
+1332496,Botswana,Uganda,Uganda,Botswana,Chase,T20
+1332497,Kenya,Tanzania,Tanzania,Kenya,Chase,T20
+1332498,Ghana,Mozambique,Ghana,Mozambique,Defend,T20
+1332501,Ghana,Uganda,Uganda,Ghana,Chase,T20
+1332503,Mozambique,Uganda,Uganda,Mozambique,Defend,T20
+1332504,Botswana,Mozambique,Botswana,Mozambique,Defend,T20
+1332505,Malawi,Tanzania,Tanzania,Malawi,Defend,T20
+1332506,Cameroon,Kenya,Kenya,Cameroon,Chase,T20
+1332507,Botswana,Ghana,Botswana,Ghana,Defend,T20
+1332508,Kenya,Uganda,Uganda,Kenya,Chase,T20
+1332509,Botswana,Tanzania,Tanzania,Botswana,Chase,T20
+1332510,Tanzania,Uganda,Uganda,Tanzania,Chase,T20
+1333920,Cook Islands,Fiji,Fiji,Cook Islands,Chase,T20
+1333921,Samoa,Vanuatu,Vanuatu,Samoa,Chase,T20
+1333922,Cook Islands,Vanuatu,Cook Islands,Vanuatu,Chase,T20
+1333923,Fiji,Samoa,Fiji,Samoa,Chase,T20
+1333924,Cook Islands,Samoa,Cook Islands,Samoa,Chase,T20
+1333925,Fiji,Vanuatu,Vanuatu,Fiji,Defend,T20
+1333926,Samoa,Vanuatu,Vanuatu,Samoa,Chase,T20
+1333927,Cook Islands,Fiji,Cook Islands,Fiji,Chase,T20
+1333928,Fiji,Samoa,Fiji,Samoa,Defend,T20
+1333929,Cook Islands,Vanuatu,Vanuatu,Cook Islands,Defend,T20
+1333931,Indonesia,Japan,Japan,Indonesia,Defend,T20
+1333932,Indonesia,Japan,Indonesia,Japan,Chase,T20
+1336031,Bangladesh,United Arab Emirates,Bangladesh,United Arab Emirates,Defend,T20
+1336032,Bangladesh,United Arab Emirates,Bangladesh,United Arab Emirates,Defend,T20
+1336048,England,New Zealand,England,New Zealand,Chase,T20
+1336049,England,New Zealand,England,New Zealand,Defend,T20
+1336050,England,New Zealand,New Zealand,England,Defend,T20
+1336051,England,New Zealand,New Zealand,England,Chase,T20
+1336951,Indonesia,South Korea,Indonesia,South Korea,Defend,T20
+1336952,Japan,South Korea,Japan,South Korea,Defend,T20
+1336953,Indonesia,Japan,Japan,Indonesia,Chase,T20
+1336955,Indonesia,Japan,Indonesia,Japan,Chase,T20
+1336956,Indonesia,South Korea,Indonesia,South Korea,Chase,T20
+1339205,Germany,Italy,Germany,Italy,Chase,T20
+1339206,Germany,Italy,Germany,Italy,Chase,T20
+1339207,Italy,Spain,Spain,Italy,Chase,T20
+1339208,Germany,Spain,Germany,Spain,Defend,T20
+1339209,Germany,Spain,Spain,Germany,Defend,T20
+1339210,Italy,Spain,Italy,Spain,Defend,T20
+1339604,South Africa,West Indies,West Indies,South Africa,Chase,T20
+1339605,South Africa,West Indies,South Africa,West Indies,Chase,T20
+1339606,South Africa,West Indies,West Indies,South Africa,Defend,T20
+1339614,New Zealand,Pakistan,Pakistan,New Zealand,Defend,T20
+1339615,New Zealand,Pakistan,Pakistan,New Zealand,Defend,T20
+1339616,New Zealand,Pakistan,New Zealand,Pakistan,Defend,T20
+1339618,New Zealand,Pakistan,New Zealand,Pakistan,Chase,T20
+1343740,Botswana,Rwanda,Rwanda,Botswana,Chase,T20
+1343741,Lesotho,Mali,Lesotho,Mali,Defend,T20
+1343744,Rwanda,St Helena,Rwanda,St Helena,Defend,T20
+1343745,Botswana,Lesotho,Botswana,Lesotho,Chase,T20
+1343746,Kenya,Malawi,Kenya,Malawi,Defend,T20
+1343747,Mali,Seychelles,Seychelles,Mali,Defend,T20
+1343749,Kenya,Mali,Kenya,Mali,Chase,T20
+1343750,Kenya,Rwanda,Kenya,Rwanda,Chase,T20
+1343753,Kenya,Lesotho,Kenya,Lesotho,Defend,T20
+1343756,Botswana,Mali,Botswana,Mali,Chase,T20
+1343757,Lesotho,St Helena,St Helena,Lesotho,Defend,T20
+1343760,Malawi,St Helena,Malawi,St Helena,Chase,T20
+1343761,Rwanda,Seychelles,Rwanda,Seychelles,Defend,T20
+1343762,Botswana,Kenya,Kenya,Botswana,Chase,T20
+1343763,Mali,Rwanda,Rwanda,Mali,Chase,T20
+1343764,Kenya,Seychelles,Seychelles,Kenya,Defend,T20
+1343768,Sierra Leone,Tanzania,Sierra Leone,Tanzania,Defend,T20
+1343770,Mozambique,Nigeria,Nigeria,Mozambique,Chase,T20
+1343771,Eswatini,Gambia,Eswatini,Gambia,Chase,T20
+1343772,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Chase,T20
+1343773,Ghana,Mozambique,Mozambique,Ghana,Chase,T20
+1343774,Cameroon,Sierra Leone,Sierra Leone,Cameroon,Chase,T20
+1343775,Eswatini,Mozambique,Mozambique,Eswatini,Chase,T20
+1343776,Cameroon,Mozambique,Mozambique,Cameroon,Chase,T20
+1343777,Eswatini,Nigeria,Nigeria,Eswatini,Defend,T20
+1343778,Ghana,Tanzania,Tanzania,Ghana,Chase,T20
+1343780,Mozambique,Tanzania,Tanzania,Mozambique,Chase,T20
+1343781,Eswatini,Sierra Leone,Sierra Leone,Eswatini,Defend,T20
+1343782,Cameroon,Nigeria,Cameroon,Nigeria,Defend,T20
+1343783,Ghana,Sierra Leone,Ghana,Sierra Leone,Defend,T20
+1343784,Eswatini,Tanzania,Tanzania,Eswatini,Defend,T20
+1343785,Gambia,Sierra Leone,Sierra Leone,Gambia,Chase,T20
+1343786,Gambia,Tanzania,Tanzania,Gambia,Chase,T20
+1343788,Gambia,Ghana,Ghana,Gambia,Defend,T20
+1343790,Nigeria,Tanzania,Nigeria,Tanzania,Defend,T20
+1343791,Gambia,Mozambique,Mozambique,Gambia,Defend,T20
+1343793,Cameroon,Gambia,Gambia,Cameroon,Defend,T20
+1343794,Ghana,Nigeria,Nigeria,Ghana,Chase,T20
+1343795,Cameroon,Tanzania,Tanzania,Cameroon,Defend,T20
+1344782,Oman,Saudi Arabia,Oman,Saudi Arabia,Chase,T20
+1344783,Bahrain,Canada,Canada,Bahrain,Chase,T20
+1344784,Canada,Saudi Arabia,Canada,Saudi Arabia,Defend,T20
+1344785,Bahrain,Oman,Bahrain,Oman,Chase,T20
+1344786,Bahrain,Saudi Arabia,Bahrain,Saudi Arabia,Defend,T20
+1344787,Canada,Oman,Canada,Oman,Defend,T20
+1344788,Oman,Saudi Arabia,Oman,Saudi Arabia,Chase,T20
+1344789,Bahrain,Canada,Bahrain,Canada,Chase,T20
+1344790,Canada,Saudi Arabia,Canada,Saudi Arabia,Defend,T20
+1344791,Bahrain,Oman,Oman,Bahrain,Defend,T20
+1344792,Canada,Oman,Canada,Oman,Chase,T20
+1344793,Bahrain,Saudi Arabia,Saudi Arabia,Bahrain,Chase,T20
+1344794,Bahrain,Saudi Arabia,Saudi Arabia,Bahrain,Defend,T20
+1344795,Canada,Oman,Canada,Oman,Chase,T20
+1348323,Ireland,Zimbabwe,Zimbabwe,Ireland,Chase,T20
+1348324,Ireland,Zimbabwe,Ireland,Zimbabwe,Chase,T20
+1348325,Ireland,Zimbabwe,Zimbabwe,Ireland,Chase,T20
+1348640,India,Sri Lanka,India,Sri Lanka,Defend,T20
+1348641,India,Sri Lanka,Sri Lanka,India,Defend,T20
+1348642,India,Sri Lanka,India,Sri Lanka,Defend,T20
+1348649,India,New Zealand,New Zealand,India,Defend,T20
+1348650,India,New Zealand,India,New Zealand,Chase,T20
+1348651,India,New Zealand,India,New Zealand,Defend,T20
+1349124,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1349126,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1349128,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1349129,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1349131,Rwanda,Tanzania,Tanzania,Rwanda,Chase,T20
+1349132,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1349133,Rwanda,Tanzania,Tanzania,Rwanda,Chase,T20
+1349134,Tanzania,Uganda,Tanzania,Uganda,Chase,T20
+1349136,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1349137,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1349138,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1349139,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1349140,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1349379,Qatar,Singapore,Qatar,Singapore,Chase,T20
+1349380,Malaysia,Qatar,Malaysia,Qatar,Chase,T20
+1349382,Bahrain,Qatar,Bahrain,Qatar,Defend,T20
+1349383,Malaysia,Singapore,Malaysia,Singapore,Defend,T20
+1349384,Qatar,Singapore,Qatar,Singapore,Chase,T20
+1349385,Bahrain,Malaysia,Malaysia,Bahrain,Chase,T20
+1349386,Bahrain,Singapore,Bahrain,Singapore,Chase,T20
+1349388,Malaysia,Singapore,Malaysia,Singapore,Defend,T20
+1349390,Qatar,Singapore,Qatar,Singapore,Chase,T20
+1349391,Bahrain,Malaysia,Bahrain,Malaysia,Chase,T20
+1351400,Bangladesh,England,Bangladesh,England,Chase,T20
+1351401,Bangladesh,England,Bangladesh,England,Chase,T20
+1351402,Bangladesh,England,Bangladesh,England,Defend,T20
+1354800,Isle of Man,Spain,Spain,Isle of Man,Chase,T20
+1354801,Isle of Man,Spain,Spain,Isle of Man,Chase,T20
+1354802,Isle of Man,Spain,Spain,Isle of Man,Chase,T20
+1354803,Isle of Man,Spain,Spain,Isle of Man,Chase,T20
+1355720,Bangladesh,Ireland,Bangladesh,Ireland,Defend,T20
+1355721,Bangladesh,Ireland,Bangladesh,Ireland,Defend,T20
+1355722,Bangladesh,Ireland,Ireland,Bangladesh,Chase,T20
+1357694,Afghanistan,United Arab Emirates,Afghanistan,United Arab Emirates,Chase,T20
+1357695,Afghanistan,United Arab Emirates,United Arab Emirates,Afghanistan,Chase,T20
+1357696,Afghanistan,United Arab Emirates,Afghanistan,United Arab Emirates,Chase,T20
+1359475,CSK,GT,GT,CSK,Chase,IPL
+1359476,KKR,PBKS,PBKS,KKR,Defend,IPL
+1359477,DC,LSG,LSG,DC,Defend,IPL
+1359478,RR,SRH,RR,SRH,Defend,IPL
+1359479,MI,RCB,RCB,MI,Chase,IPL
+1359480,CSK,LSG,CSK,LSG,Defend,IPL
+1359481,DC,GT,GT,DC,Chase,IPL
+1359482,PBKS,RR,PBKS,RR,Defend,IPL
+1359483,KKR,RCB,KKR,RCB,Defend,IPL
+1359484,LSG,SRH,LSG,SRH,Chase,IPL
+1359485,DC,RR,RR,DC,Defend,IPL
+1359486,CSK,MI,CSK,MI,Chase,IPL
+1359487,GT,KKR,KKR,GT,Chase,IPL
+1359488,PBKS,SRH,SRH,PBKS,Chase,IPL
+1359489,LSG,RCB,LSG,RCB,Chase,IPL
+1359490,DC,MI,MI,DC,Chase,IPL
+1359491,CSK,RR,RR,CSK,Defend,IPL
+1359492,GT,PBKS,GT,PBKS,Chase,IPL
+1359493,KKR,SRH,SRH,KKR,Defend,IPL
+1359494,DC,RCB,RCB,DC,Defend,IPL
+1359495,LSG,PBKS,PBKS,LSG,Chase,IPL
+1359496,KKR,MI,MI,KKR,Chase,IPL
+1359497,GT,RR,RR,GT,Chase,IPL
+1359498,CSK,RCB,CSK,RCB,Defend,IPL
+1359499,MI,SRH,MI,SRH,Defend,IPL
+1359500,LSG,RR,LSG,RR,Defend,IPL
+1359501,PBKS,RCB,RCB,PBKS,Defend,IPL
+1359502,DC,KKR,DC,KKR,Chase,IPL
+1359503,CSK,SRH,CSK,SRH,Chase,IPL
+1359504,GT,LSG,GT,LSG,Defend,IPL
+1359505,MI,PBKS,PBKS,MI,Defend,IPL
+1359506,RCB,RR,RCB,RR,Defend,IPL
+1359507,CSK,KKR,CSK,KKR,Defend,IPL
+1359508,DC,SRH,DC,SRH,Defend,IPL
+1359509,GT,MI,GT,MI,Defend,IPL
+1359510,KKR,RCB,KKR,RCB,Defend,IPL
+1359511,CSK,RR,RR,CSK,Defend,IPL
+1359512,LSG,PBKS,LSG,PBKS,Defend,IPL
+1359513,GT,KKR,GT,KKR,Chase,IPL
+1359514,DC,SRH,SRH,DC,Defend,IPL
+1359515,CSK,PBKS,PBKS,CSK,Chase,IPL
+1359516,MI,RR,MI,RR,Chase,IPL
+1359517,LSG,RCB,RCB,LSG,Defend,IPL
+1359518,DC,GT,DC,GT,Defend,IPL
+1359520,MI,PBKS,MI,PBKS,Chase,IPL
+1359521,KKR,SRH,KKR,SRH,Defend,IPL
+1359522,GT,RR,GT,RR,Chase,IPL
+1359523,CSK,MI,CSK,MI,Chase,IPL
+1359524,DC,RCB,DC,RCB,Chase,IPL
+1359525,GT,LSG,GT,LSG,Defend,IPL
+1359526,RR,SRH,SRH,RR,Chase,IPL
+1359527,KKR,PBKS,KKR,PBKS,Chase,IPL
+1359528,MI,RCB,MI,RCB,Chase,IPL
+1359529,CSK,DC,CSK,DC,Defend,IPL
+1359530,KKR,RR,RR,KKR,Chase,IPL
+1359531,GT,MI,MI,GT,Defend,IPL
+1359532,LSG,SRH,LSG,SRH,Chase,IPL
+1359533,DC,PBKS,PBKS,DC,Defend,IPL
+1359534,RCB,RR,RCB,RR,Defend,IPL
+1359535,CSK,KKR,KKR,CSK,Chase,IPL
+1359536,GT,SRH,GT,SRH,Defend,IPL
+1359537,LSG,MI,LSG,MI,Defend,IPL
+1359538,DC,PBKS,DC,PBKS,Defend,IPL
+1359539,RCB,SRH,RCB,SRH,Chase,IPL
+1359540,PBKS,RR,RR,PBKS,Chase,IPL
+1359541,CSK,DC,CSK,DC,Defend,IPL
+1359542,KKR,LSG,LSG,KKR,Defend,IPL
+1359543,MI,SRH,MI,SRH,Chase,IPL
+1359544,GT,RCB,GT,RCB,Chase,IPL
+1359786,Argentina,Bermuda,Bermuda,Argentina,Chase,T20
+1359787,Argentina,Bermuda,Bermuda,Argentina,Defend,T20
+1359788,Bahamas,Cayman Islands,Cayman Islands,Bahamas,Defend,T20
+1359789,Bermuda,Panama,Bermuda,Panama,Defend,T20
+1359792,Bahamas,Panama,Bahamas,Panama,Chase,T20
+1359793,Argentina,Bermuda,Bermuda,Argentina,Defend,T20
+1359794,Argentina,Panama,Panama,Argentina,Defend,T20
+1359795,Bermuda,Cayman Islands,Bermuda,Cayman Islands,Defend,T20
+1359798,Argentina,Bahamas,Argentina,Bahamas,Defend,T20
+1359799,Cayman Islands,Panama,Cayman Islands,Panama,Defend,T20
+1359800,Bahamas,Bermuda,Bermuda,Bahamas,Chase,T20
+1359802,Argentina,Cayman Islands,Cayman Islands,Argentina,Chase,T20
+1361770,Kuwait,Malaysia,Malaysia,Kuwait,Chase,T20
+1361771,Bahrain,Hong Kong,Hong Kong,Bahrain,Defend,T20
+1361772,Bahrain,Malaysia,Malaysia,Bahrain,Defend,T20
+1361773,Hong Kong,Kuwait,Hong Kong,Kuwait,Defend,T20
+1361774,Bahrain,Kuwait,Bahrain,Kuwait,Chase,T20
+1361775,Hong Kong,Malaysia,Hong Kong,Malaysia,Chase,T20
+1361776,Bahrain,Kuwait,Kuwait,Bahrain,Chase,T20
+1362242,Hong Kong,Malaysia,Hong Kong,Malaysia,Defend,T20
+1362815,Afghanistan,Pakistan,Afghanistan,Pakistan,Chase,T20
+1362816,Afghanistan,Pakistan,Afghanistan,Pakistan,Chase,T20
+1362817,Afghanistan,Pakistan,Pakistan,Afghanistan,Defend,T20
+1367722,Gibraltar,Portugal,Portugal,Gibraltar,Defend,T20
+1367723,Gibraltar,Portugal,Portugal,Gibraltar,Chase,T20
+1367724,Gibraltar,Portugal,Portugal,Gibraltar,Chase,T20
+1367725,Gibraltar,Portugal,Portugal,Gibraltar,Chase,T20
+1367726,Malta,Portugal,Portugal,Malta,Defend,T20
+1367727,Gibraltar,Malta,Gibraltar,Malta,Defend,T20
+1367728,Gibraltar,Portugal,Portugal,Gibraltar,Chase,T20
+1367729,Malta,Portugal,Portugal,Malta,Defend,T20
+1367730,Gibraltar,Malta,Gibraltar,Malta,Defend,T20
+1367731,Gibraltar,Malta,Malta,Gibraltar,Defend,T20
+1367732,Gibraltar,Portugal,Portugal,Gibraltar,Chase,T20
+1367733,Malta,Portugal,Portugal,Malta,Chase,T20
+1370350,CSK,GT,CSK,GT,Defend,IPL
+1370351,LSG,MI,MI,LSG,Defend,IPL
+1370352,GT,MI,GT,MI,Defend,IPL
+1370353,CSK,GT,GT,CSK,Defend,IPL
+1370782,Denmark,Norway,Denmark,Norway,Chase,T20
+1370783,Denmark,Finland,Denmark,Finland,Defend,T20
+1370785,Denmark,Sweden,Sweden,Denmark,Chase,T20
+1370787,Denmark,Finland,Denmark,Finland,Chase,T20
+1370790,Finland,Norway,Norway,Finland,Chase,T20
+1370791,Finland,Sweden,Finland,Sweden,Chase,T20
+1373568,Australia,South Africa,Australia,South Africa,Defend,T20
+1373569,Australia,South Africa,Australia,South Africa,Chase,T20
+1373570,Australia,South Africa,Australia,South Africa,Chase,T20
+1373579,England,West Indies,West Indies,England,Chase,T20
+1373580,England,West Indies,West Indies,England,Defend,T20
+1373581,England,West Indies,England,West Indies,Chase,T20
+1373582,England,West Indies,England,West Indies,Defend,T20
+1373583,England,West Indies,West Indies,England,Chase,T20
+1375850,Australia,West Indies,Australia,West Indies,Defend,T20
+1375851,Australia,West Indies,Australia,West Indies,Defend,T20
+1375852,Australia,West Indies,West Indies,Australia,Defend,T20
+1377015,Afghanistan,Bangladesh,Bangladesh,Afghanistan,Chase,T20
+1377016,Afghanistan,Bangladesh,Bangladesh,Afghanistan,Chase,T20
+1377727,New Zealand,United Arab Emirates,New Zealand,United Arab Emirates,Defend,T20
+1377728,New Zealand,United Arab Emirates,United Arab Emirates,New Zealand,Chase,T20
+1377729,New Zealand,United Arab Emirates,New Zealand,United Arab Emirates,Defend,T20
+1379575,Botswana,Uganda,Uganda,Botswana,Chase,T20
+1379576,Kenya,Rwanda,Kenya,Rwanda,Chase,T20
+1379577,Kenya,Uganda,Kenya,Uganda,Defend,T20
+1379578,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1379579,Botswana,Rwanda,Rwanda,Botswana,Chase,T20
+1379580,Botswana,Kenya,Kenya,Botswana,Chase,T20
+1379581,Kenya,Uganda,Uganda,Kenya,Chase,T20
+1379582,Kenya,Rwanda,Kenya,Rwanda,Chase,T20
+1379583,Botswana,Uganda,Uganda,Botswana,Defend,T20
+1379584,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1379585,Botswana,Kenya,Kenya,Botswana,Chase,T20
+1379586,Botswana,Rwanda,Rwanda,Botswana,Defend,T20
+1379587,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1379589,Kenya,Uganda,Uganda,Kenya,Defend,T20
+1379590,Botswana,Kenya,Botswana,Kenya,Defend,T20
+1379592,Kenya,Uganda,Uganda,Kenya,Defend,T20
+1380583,Belgium,Germany,Germany,Belgium,Chase,T20
+1380584,Belgium,Germany,Germany,Belgium,Chase,T20
+1380586,Czech Republic,Hungary,Czech Republic,Hungary,Defend,T20
+1380587,Czech Republic,Hungary,Czech Republic,Hungary,Chase,T20
+1381217,India,West Indies,West Indies,India,Defend,T20
+1381218,India,West Indies,West Indies,India,Chase,T20
+1381219,India,West Indies,India,West Indies,Chase,T20
+1381220,India,West Indies,India,West Indies,Chase,T20
+1381221,India,West Indies,West Indies,India,Chase,T20
+1381451,Austria,Germany,Germany,Austria,Chase,T20
+1381452,Austria,Germany,Germany,Austria,Chase,T20
+1381453,Serbia,Turkey,Serbia,Turkey,Defend,T20
+1381454,Bulgaria,Croatia,Bulgaria,Croatia,Chase,T20
+1381455,Bulgaria,Serbia,Serbia,Bulgaria,Chase,T20
+1381456,Croatia,Turkey,Turkey,Croatia,Chase,T20
+1381457,Croatia,Serbia,Serbia,Croatia,Chase,T20
+1381458,Bulgaria,Turkey,Bulgaria,Turkey,Chase,T20
+1383068,Austria,Jersey,Jersey,Austria,Chase,T20
+1383069,Ireland,Italy,Ireland,Italy,Defend,T20
+1383070,Germany,Scotland,Scotland,Germany,Defend,T20
+1383071,Denmark,Ireland,Ireland,Denmark,Chase,T20
+1383072,Austria,Germany,Germany,Austria,Chase,T20
+1383073,Jersey,Scotland,Scotland,Jersey,Defend,T20
+1383074,Austria,Ireland,Ireland,Austria,Defend,T20
+1383075,Italy,Jersey,Italy,Jersey,Defend,T20
+1383076,Denmark,Germany,Germany,Denmark,Chase,T20
+1383077,Italy,Scotland,Scotland,Italy,Defend,T20
+1383078,Austria,Denmark,Denmark,Austria,Chase,T20
+1383079,Ireland,Jersey,Ireland,Jersey,Chase,T20
+1383080,Denmark,Italy,Italy,Denmark,Defend,T20
+1383081,Austria,Scotland,Scotland,Austria,Defend,T20
+1383082,Germany,Jersey,Jersey,Germany,Defend,T20
+1383083,Denmark,Scotland,Scotland,Denmark,Defend,T20
+1383086,Germany,Italy,Italy,Germany,Chase,T20
+1383087,Denmark,Jersey,Jersey,Denmark,Defend,T20
+1383088,Ireland,Scotland,Scotland,Ireland,Defend,T20
+1383089,Japan,Philippines,Japan,Philippines,Defend,T20
+1383090,Papua New Guinea,Vanuatu,Papua New Guinea,Vanuatu,Chase,T20
+1383091,Japan,Vanuatu,Japan,Vanuatu,Defend,T20
+1383093,Philippines,Vanuatu,Philippines,Vanuatu,Chase,T20
+1383094,Japan,Papua New Guinea,Papua New Guinea,Japan,Chase,T20
+1383095,Papua New Guinea,Vanuatu,Papua New Guinea,Vanuatu,Defend,T20
+1383096,Japan,Philippines,Japan,Philippines,Defend,T20
+1383097,Japan,Vanuatu,Vanuatu,Japan,Chase,T20
+1383098,Papua New Guinea,Philippines,Papua New Guinea,Philippines,Defend,T20
+1383099,Philippines,Vanuatu,Vanuatu,Philippines,Chase,T20
+1383100,Japan,Papua New Guinea,Papua New Guinea,Japan,Chase,T20
+1383101,China,Malaysia,Malaysia,China,Chase,T20
+1383102,Bhutan,Myanmar,Bhutan,Myanmar,Defend,T20
+1383103,China,Thailand,Thailand,China,Chase,T20
+1383104,Bhutan,Malaysia,Malaysia,Bhutan,Defend,T20
+1383105,Myanmar,Thailand,Thailand,Myanmar,Defend,T20
+1383106,Bhutan,China,Bhutan,China,Defend,T20
+1383107,Malaysia,Myanmar,Malaysia,Myanmar,Defend,T20
+1383108,Bhutan,Thailand,Thailand,Bhutan,Chase,T20
+1383109,China,Myanmar,China,Myanmar,Chase,T20
+1383110,Malaysia,Thailand,Malaysia,Thailand,Chase,T20
+1384582,France,Malta,France,Malta,Defend,T20
+1384583,France,Malta,Malta,France,Defend,T20
+1384584,Luxembourg,Malta,Malta,Luxembourg,Defend,T20
+1384585,France,Luxembourg,France,Luxembourg,Defend,T20
+1384586,Luxembourg,Malta,Luxembourg,Malta,Chase,T20
+1384587,France,Luxembourg,France,Luxembourg,Chase,T20
+1384588,France,Malta,France,Malta,Defend,T20
+1384589,Luxembourg,Malta,Malta,Luxembourg,Chase,T20
+1384590,Romania,Switzerland,Switzerland,Romania,Chase,T20
+1384591,France,Romania,France,Romania,Defend,T20
+1384592,Luxembourg,Switzerland,Switzerland,Luxembourg,Chase,T20
+1384593,Malta,Romania,Malta,Romania,Defend,T20
+1384594,France,Switzerland,Switzerland,France,Chase,T20
+1384595,Luxembourg,Romania,Luxembourg,Romania,Chase,T20
+1384596,Malta,Switzerland,Switzerland,Malta,Chase,T20
+1384597,France,Luxembourg,Luxembourg,France,Chase,T20
+1384598,France,Malta,Malta,France,Chase,T20
+1384599,Luxembourg,Romania,Romania,Luxembourg,Chase,T20
+1384600,Malta,Switzerland,Switzerland,Malta,Chase,T20
+1384634,India,Ireland,Ireland,India,Defend,T20
+1384637,India,Ireland,India,Ireland,Defend,T20
+1387243,Germany,Guernsey,Germany,Guernsey,Chase,T20
+1387244,Germany,Guernsey,Guernsey,Germany,Chase,T20
+1387245,Germany,Guernsey,Guernsey,Germany,Defend,T20
+1387598,India,South Africa,India,South Africa,Defend,T20
+1387599,India,South Africa,India,South Africa,Defend,T20
+1388213,Bangladesh,New Zealand,Bangladesh,New Zealand,Chase,T20
+1388215,Bangladesh,New Zealand,Bangladesh,New Zealand,Defend,T20
+1388216,New Zealand,Pakistan,New Zealand,Pakistan,Defend,T20
+1388217,New Zealand,Pakistan,New Zealand,Pakistan,Defend,T20
+1388218,New Zealand,Pakistan,New Zealand,Pakistan,Defend,T20
+1388219,New Zealand,Pakistan,New Zealand,Pakistan,Chase,T20
+1388220,New Zealand,Pakistan,Pakistan,New Zealand,Defend,T20
+1388223,Australia,New Zealand,Australia,New Zealand,Chase,T20
+1388224,Australia,New Zealand,Australia,New Zealand,Defend,T20
+1388225,Australia,New Zealand,Australia,New Zealand,Defend,T20
+1389391,Australia,India,India,Australia,Chase,T20
+1389392,Australia,India,India,Australia,Defend,T20
+1389393,Australia,India,Australia,India,Chase,T20
+1389394,Australia,India,India,Australia,Defend,T20
+1389395,Australia,India,India,Australia,Defend,T20
+1389396,Afghanistan,India,India,Afghanistan,Chase,T20
+1389397,Afghanistan,India,India,Afghanistan,Chase,T20
+1389398,Afghanistan,India,Afghanistan,India,Chase,T20
+1390167,Croatia,Hungary,Hungary,Croatia,Defend,T20
+1390169,Croatia,Hungary,Hungary,Croatia,Chase,T20
+1391332,Malta,Romania,Malta,Romania,Chase,T20
+1391333,Malta,Romania,Malta,Romania,Chase,T20
+1391335,Malta,Romania,Romania,Malta,Chase,T20
+1391336,Malta,Romania,Romania,Malta,Chase,T20
+1391337,Malta,Romania,Romania,Malta,Defend,T20
+1391338,Estonia,Gibraltar,Gibraltar,Estonia,Chase,T20
+1391339,Estonia,Gibraltar,Estonia,Gibraltar,Chase,T20
+1392802,Kuwait,Saudi Arabia,Kuwait,Saudi Arabia,Chase,T20
+1392803,Bahrain,Qatar,Qatar,Bahrain,Defend,T20
+1392805,Bahrain,Kuwait,Kuwait,Bahrain,Chase,T20
+1392808,Kuwait,Qatar,Qatar,Kuwait,Defend,T20
+1392809,Bahrain,Saudi Arabia,Bahrain,Saudi Arabia,Chase,T20
+1392811,Bahrain,Oman,Bahrain,Oman,Defend,T20
+1392812,Qatar,United Arab Emirates,United Arab Emirates,Qatar,Defend,T20
+1393309,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1393310,Tanzania,Uganda,Uganda,Tanzania,Chase,T20
+1393311,Tanzania,Uganda,Tanzania,Uganda,Chase,T20
+1393312,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1393313,Rwanda,Uganda,Uganda,Rwanda,Defend,T20
+1393314,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1393315,Rwanda,Tanzania,Tanzania,Rwanda,Chase,T20
+1393316,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1393317,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1393318,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1393319,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1393320,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1393328,Rwanda,Tanzania,Tanzania,Rwanda,Chase,T20
+1393329,Tanzania,Uganda,Uganda,Tanzania,Defend,T20
+1393330,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1393331,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1393332,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1397437,Bahrain,United Arab Emirates,Bahrain,United Arab Emirates,Defend,T20
+1397438,Kuwait,Oman,Oman,Kuwait,Defend,T20
+1397439,Oman,United Arab Emirates,Oman,United Arab Emirates,Chase,T20
+1398295,Hong Kong,Malaysia,Malaysia,Hong Kong,Defend,T20
+1398296,Malaysia,Papua New Guinea,Malaysia,Papua New Guinea,Defend,T20
+1398298,Hong Kong,Malaysia,Malaysia,Hong Kong,Defend,T20
+1398299,Malaysia,Papua New Guinea,Papua New Guinea,Malaysia,Chase,T20
+1398300,Hong Kong,Papua New Guinea,Papua New Guinea,Hong Kong,Chase,T20
+1399104,Mongolia,Nepal,Nepal,Mongolia,Defend,T20
+1399113,India,Nepal,India,Nepal,Defend,T20
+1399114,Hong Kong,Pakistan,Pakistan,Hong Kong,Defend,T20
+1399115,Afghanistan,Sri Lanka,Afghanistan,Sri Lanka,Defend,T20
+1399116,Bangladesh,Malaysia,Bangladesh,Malaysia,Defend,T20
+1399117,Bangladesh,India,India,Bangladesh,Chase,T20
+1399118,Afghanistan,Pakistan,Afghanistan,Pakistan,Chase,T20
+1399119,Bangladesh,Pakistan,Bangladesh,Pakistan,Chase,T20
+1399138,Kuwait,Qatar,Kuwait,Qatar,Chase,T20
+1399140,Kuwait,Maldives,Kuwait,Maldives,Chase,T20
+1399142,Maldives,Qatar,Qatar,Maldives,Chase,T20
+1399143,Kuwait,Saudi Arabia,Saudi Arabia,Kuwait,Chase,T20
+1399144,Kuwait,Qatar,Kuwait,Qatar,Chase,T20
+1399145,Maldives,Saudi Arabia,Saudi Arabia,Maldives,Chase,T20
+1399146,Kuwait,Maldives,Kuwait,Maldives,Chase,T20
+1399148,Maldives,Qatar,Qatar,Maldives,Defend,T20
+1399149,Kuwait,Saudi Arabia,Kuwait,Saudi Arabia,Chase,T20
+1399150,Bermuda,Canada,Bermuda,Canada,Defend,T20
+1399151,Cayman Islands,Panama,Cayman Islands,Panama,Chase,T20
+1399152,Bermuda,Panama,Bermuda,Panama,Chase,T20
+1399153,Canada,Cayman Islands,Canada,Cayman Islands,Defend,T20
+1399154,Canada,Panama,Canada,Panama,Defend,T20
+1399155,Bermuda,Cayman Islands,Bermuda,Cayman Islands,Defend,T20
+1399156,Canada,Cayman Islands,Canada,Cayman Islands,Defend,T20
+1399157,Bermuda,Panama,Bermuda,Panama,Chase,T20
+1399161,Bermuda,Canada,Canada,Bermuda,Defend,T20
+1400053,Gibraltar,Serbia,Gibraltar,Serbia,Chase,T20
+1400054,Gibraltar,Serbia,Gibraltar,Serbia,Chase,T20
+1400055,Gibraltar,Luxembourg,Gibraltar,Luxembourg,Defend,T20
+1400056,Gibraltar,Luxembourg,Luxembourg,Gibraltar,Defend,T20
+1400972,Nigeria,Rwanda,Nigeria,Rwanda,Defend,T20
+1400973,Ghana,Sierra Leone,Ghana,Sierra Leone,Chase,T20
+1400974,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Defend,T20
+1400975,Ghana,Rwanda,Ghana,Rwanda,Chase,T20
+1400976,Ghana,Nigeria,Nigeria,Ghana,Defend,T20
+1400977,Rwanda,Sierra Leone,Rwanda,Sierra Leone,Defend,T20
+1400978,Nigeria,Rwanda,Nigeria,Rwanda,Chase,T20
+1400980,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Chase,T20
+1400981,Ghana,Rwanda,Rwanda,Ghana,Defend,T20
+1400982,Ghana,Nigeria,Nigeria,Ghana,Defend,T20
+1400983,Rwanda,Sierra Leone,Sierra Leone,Rwanda,Defend,T20
+1400984,Ghana,Nigeria,Nigeria,Ghana,Chase,T20
+1400985,Rwanda,Sierra Leone,Rwanda,Sierra Leone,Chase,T20
+1400986,Ghana,Rwanda,Rwanda,Ghana,Chase,T20
+1400987,Nigeria,Sierra Leone,Nigeria,Sierra Leone,Defend,T20
+1400988,Nigeria,Rwanda,Nigeria,Rwanda,Chase,T20
+1400989,Ghana,Sierra Leone,Ghana,Sierra Leone,Defend,T20
+1400990,Ghana,Sierra Leone,Sierra Leone,Ghana,Chase,T20
+1400991,Nigeria,Rwanda,Nigeria,Rwanda,Defend,T20
+1403288,Nepal,United Arab Emirates,Nepal,United Arab Emirates,Chase,T20
+1403289,Hong Kong,Nepal,Nepal,Hong Kong,Chase,T20
+1403290,Hong Kong,Nepal,Nepal,Hong Kong,Defend,T20
+1403291,Hong Kong,United Arab Emirates,United Arab Emirates,Hong Kong,Chase,T20
+1403292,Nepal,United Arab Emirates,Nepal,United Arab Emirates,Chase,T20
+1403293,Hong Kong,United Arab Emirates,Hong Kong,United Arab Emirates,Defend,T20
+1403294,Nepal,United Arab Emirates,United Arab Emirates,Nepal,Chase,T20
+1403297,Chile,Mexico,Mexico,Chile,Chase,T20
+1403301,Argentina,Mexico,Argentina,Mexico,Chase,T20
+1403305,Argentina,Chile,Argentina,Chile,Chase,T20
+1404390,Namibia,Zimbabwe,Namibia,Zimbabwe,Chase,T20
+1404391,Namibia,Zimbabwe,Zimbabwe,Namibia,Chase,T20
+1404392,Namibia,Zimbabwe,Zimbabwe,Namibia,Chase,T20
+1404393,Namibia,Zimbabwe,Namibia,Zimbabwe,Chase,T20
+1404394,Namibia,Zimbabwe,Namibia,Zimbabwe,Defend,T20
+1405313,Bahrain,United Arab Emirates,United Arab Emirates,Bahrain,Chase,T20
+1405314,Nepal,Singapore,Nepal,Singapore,Chase,T20
+1405315,Malaysia,Oman,Oman,Malaysia,Defend,T20
+1405316,Hong Kong,Kuwait,Hong Kong,Kuwait,Defend,T20
+1405317,Oman,Singapore,Oman,Singapore,Defend,T20
+1405318,Bahrain,Hong Kong,Bahrain,Hong Kong,Defend,T20
+1405319,Malaysia,Nepal,Nepal,Malaysia,Chase,T20
+1405320,Kuwait,United Arab Emirates,United Arab Emirates,Kuwait,Chase,T20
+1405321,Nepal,Oman,Oman,Nepal,Defend,T20
+1405322,Hong Kong,United Arab Emirates,United Arab Emirates,Hong Kong,Defend,T20
+1405323,Malaysia,Singapore,Malaysia,Singapore,Defend,T20
+1405324,Bahrain,Kuwait,Kuwait,Bahrain,Chase,T20
+1405325,Bahrain,Oman,Oman,Bahrain,Chase,T20
+1405326,Nepal,United Arab Emirates,Nepal,United Arab Emirates,Chase,T20
+1405327,Nepal,Oman,Nepal,Oman,Defend,T20
+1407089,Kenya,Rwanda,Kenya,Rwanda,Defend,T20
+1407090,Tanzania,Uganda,Uganda,Tanzania,Chase,T20
+1407091,Namibia,Zimbabwe,Namibia,Zimbabwe,Chase,T20
+1407092,Kenya,Nigeria,Kenya,Nigeria,Chase,T20
+1407093,Tanzania,Zimbabwe,Zimbabwe,Tanzania,Chase,T20
+1407095,Namibia,Uganda,Namibia,Uganda,Chase,T20
+1407096,Kenya,Tanzania,Kenya,Tanzania,Defend,T20
+1407097,Namibia,Rwanda,Namibia,Rwanda,Defend,T20
+1407098,Nigeria,Tanzania,Nigeria,Tanzania,Chase,T20
+1407099,Uganda,Zimbabwe,Uganda,Zimbabwe,Chase,T20
+1407100,Nigeria,Uganda,Uganda,Nigeria,Chase,T20
+1407101,Rwanda,Zimbabwe,Zimbabwe,Rwanda,Defend,T20
+1407102,Kenya,Namibia,Namibia,Kenya,Chase,T20
+1407103,Namibia,Tanzania,Namibia,Tanzania,Defend,T20
+1407104,Nigeria,Zimbabwe,Zimbabwe,Nigeria,Chase,T20
+1407105,Rwanda,Tanzania,Tanzania,Rwanda,Defend,T20
+1407106,Kenya,Uganda,Uganda,Kenya,Defend,T20
+1407107,Kenya,Zimbabwe,Zimbabwe,Kenya,Defend,T20
+1407108,Rwanda,Uganda,Uganda,Rwanda,Chase,T20
+1407109,Namibia,Nigeria,Namibia,Nigeria,Chase,T20
+1407714,Cambodia,Indonesia,Indonesia,Cambodia,Chase,T20
+1407715,Cambodia,Indonesia,Indonesia,Cambodia,Chase,T20
+1407716,Cambodia,Indonesia,Cambodia,Indonesia,Chase,T20
+1407717,Cambodia,Indonesia,Indonesia,Cambodia,Defend,T20
+1407718,Cambodia,Indonesia,Cambodia,Indonesia,Chase,T20
+1408103,Ireland,Zimbabwe,Zimbabwe,Ireland,Chase,T20
+1408104,Ireland,Zimbabwe,Ireland,Zimbabwe,Chase,T20
+1408105,Ireland,Zimbabwe,Ireland,Zimbabwe,Chase,T20
+1412530,Indonesia,Philippines,Philippines,Indonesia,Defend,T20
+1412531,Indonesia,Philippines,Indonesia,Philippines,Chase,T20
+1412532,Indonesia,Philippines,Indonesia,Philippines,Defend,T20
+1412533,Indonesia,Philippines,Philippines,Indonesia,Chase,T20
+1412534,Indonesia,Philippines,Indonesia,Philippines,Chase,T20
+1412535,Indonesia,Philippines,Philippines,Indonesia,Chase,T20
+1412542,Sri Lanka,Zimbabwe,Sri Lanka,Zimbabwe,Chase,T20
+1412543,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka,Chase,T20
+1412544,Sri Lanka,Zimbabwe,Sri Lanka,Zimbabwe,Chase,T20
+1412549,Afghanistan,United Arab Emirates,Afghanistan,United Arab Emirates,Defend,T20
+1412550,Afghanistan,United Arab Emirates,United Arab Emirates,Afghanistan,Defend,T20
+1412551,Afghanistan,United Arab Emirates,Afghanistan,United Arab Emirates,Chase,T20
+1416077,Afghanistan,Sri Lanka,Sri Lanka,Afghanistan,Defend,T20
+1416078,Afghanistan,Sri Lanka,Sri Lanka,Afghanistan,Defend,T20
+1416079,Afghanistan,Sri Lanka,Afghanistan,Sri Lanka,Defend,T20
+1416084,Afghanistan,Ireland,Ireland,Afghanistan,Defend,T20
+1416085,Afghanistan,Ireland,Afghanistan,Ireland,Defend,T20
+1418176,Cambodia,Myanmar,Cambodia,Myanmar,Chase,T20
+1418177,Cambodia,China,Cambodia,China,Defend,T20
+1418181,Bhutan,Indonesia,Indonesia,Bhutan,Defend,T20
+1418182,Maldives,Singapore,Singapore,Maldives,Defend,T20
+1418183,Japan,Thailand,Japan,Thailand,Defend,T20
+1418184,Bhutan,Saudi Arabia,Saudi Arabia,Bhutan,Chase,T20
+1418185,Cambodia,Indonesia,Cambodia,Indonesia,Chase,T20
+1418186,Singapore,Thailand,Thailand,Singapore,Chase,T20
+1418187,Japan,Maldives,Japan,Maldives,Defend,T20
+1418188,Indonesia,Saudi Arabia,Saudi Arabia,Indonesia,Defend,T20
+1418190,Japan,Singapore,Singapore,Japan,Defend,T20
+1418191,Maldives,Thailand,Thailand,Maldives,Chase,T20
+1418192,Indonesia,Thailand,Thailand,Indonesia,Chase,T20
+1418193,Bhutan,Maldives,Maldives,Bhutan,Defend,T20
+1418194,Japan,Saudi Arabia,Saudi Arabia,Japan,Chase,T20
+1418195,Cambodia,Singapore,Cambodia,Singapore,Chase,T20
+1418196,Japan,Singapore,Singapore,Japan,Chase,T20
+1418197,Cambodia,Saudi Arabia,Saudi Arabia,Cambodia,Chase,T20
+1418539,China,Hong Kong,Hong Kong,China,Defend,T20
+1418540,Hong Kong,Japan,Hong Kong,Japan,Chase,T20
+1418541,China,Japan,Japan,China,Defend,T20
+1418542,Hong Kong,Japan,Hong Kong,Japan,Defend,T20
+1418543,China,Hong Kong,Hong Kong,China,Chase,T20
+1418544,China,Japan,Japan,China,Defend,T20
+1418545,Hong Kong,Japan,Hong Kong,Japan,Defend,T20
+1419824,Bangladesh,Sri Lanka,Sri Lanka,Bangladesh,Defend,T20
+1419825,Bangladesh,Sri Lanka,Bangladesh,Sri Lanka,Chase,T20
+1419826,Bangladesh,Sri Lanka,Sri Lanka,Bangladesh,Defend,T20
+1420801,Bhutan,Thailand,Thailand,Bhutan,Chase,T20
+1420802,Maldives,Saudi Arabia,Saudi Arabia,Maldives,Defend,T20
+1420803,Saudi Arabia,Thailand,Saudi Arabia,Thailand,Chase,T20
+1420804,Bhutan,Maldives,Maldives,Bhutan,Chase,T20
+1420805,Maldives,Thailand,Thailand,Maldives,Chase,T20
+1420806,Bhutan,Saudi Arabia,Saudi Arabia,Bhutan,Defend,T20
+1420807,Saudi Arabia,Thailand,Saudi Arabia,Thailand,Chase,T20
+1420808,Bhutan,Maldives,Bhutan,Maldives,Chase,T20
+1421078,Scotland,United Arab Emirates,United Arab Emirates,Scotland,Chase,T20
+1421079,Scotland,United Arab Emirates,Scotland,United Arab Emirates,Defend,T20
+1421080,Scotland,United Arab Emirates,Scotland,United Arab Emirates,Defend,T20
+1422037,Namibia,Nepal,Namibia,Nepal,Defend,T20
+1422038,Nepal,Netherlands,Netherlands,Nepal,Defend,T20
+1422039,Namibia,Netherlands,Netherlands,Namibia,Defend,T20
+1422040,Namibia,Nepal,Nepal,Namibia,Defend,T20
+1422041,Nepal,Netherlands,Nepal,Netherlands,Chase,T20
+1422043,Nepal,Netherlands,Netherlands,Nepal,Chase,T20
+1422802,Hong Kong,Qatar,Hong Kong,Qatar,Defend,T20
+1422803,Hong Kong,Qatar,Qatar,Hong Kong,Chase,T20
+1422804,Hong Kong,Qatar,Hong Kong,Qatar,Chase,T20
+1422807,Tanzania,Vanuatu,Vanuatu,Tanzania,Defend,T20
+1422808,Bahrain,Kuwait,Kuwait,Bahrain,Defend,T20
+1422809,Kuwait,Tanzania,Kuwait,Tanzania,Chase,T20
+1422810,Malaysia,Vanuatu,Malaysia,Vanuatu,Defend,T20
+1422811,Bahrain,Malaysia,Bahrain,Malaysia,Chase,T20
+1422812,Kuwait,Vanuatu,Kuwait,Vanuatu,Chase,T20
+1422813,Kuwait,Malaysia,Malaysia,Kuwait,Chase,T20
+1422814,Bahrain,Tanzania,Bahrain,Tanzania,Defend,T20
+1422815,Bahrain,Vanuatu,Bahrain,Vanuatu,Defend,T20
+1422816,Malaysia,Tanzania,Malaysia,Tanzania,Chase,T20
+1422817,Kuwait,Vanuatu,Kuwait,Vanuatu,Chase,T20
+1422818,Bahrain,Malaysia,Bahrain,Malaysia,Chase,T20
+1423372,Oman,Papua New Guinea,Oman,Papua New Guinea,Chase,T20
+1423373,Oman,Papua New Guinea,Papua New Guinea,Oman,Chase,T20
+1423374,Oman,Papua New Guinea,Oman,Papua New Guinea,Chase,T20
+1423439,Hong Kong,Nepal,Hong Kong,Nepal,Defend,T20
+1423441,Nepal,Papua New Guinea,Nepal,Papua New Guinea,Defend,T20
+1423442,Hong Kong,Papua New Guinea,Papua New Guinea,Hong Kong,Chase,T20
+1423444,Nepal,Papua New Guinea,Papua New Guinea,Nepal,Defend,T20
+1424752,Namibia,Zimbabwe,Zimbabwe,Namibia,Defend,T20
+1424753,Nigeria,Tanzania,Tanzania,Nigeria,Defend,T20
+1424754,Ghana,South Africa,South Africa,Ghana,Defend,T20
+1424755,Kenya,Uganda,Uganda,Kenya,Defend,T20
+1425110,Malaysia,Papua New Guinea,Papua New Guinea,Malaysia,Defend,T20
+1425111,Malaysia,Papua New Guinea,Malaysia,Papua New Guinea,Defend,T20
